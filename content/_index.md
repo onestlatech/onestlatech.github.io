@@ -156,6 +156,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
+* [Romy Duhem-Verdière](http://romy.tetue.net), design UX & a11y en cabinet de conseil IT
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Olivier Dolbeau](https://odolbeau.fr/)
 * Bruno Ebstein, développeur, salarié
