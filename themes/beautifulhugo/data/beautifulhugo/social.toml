@@ -1,0 +1,161 @@
+[[social_icons]]
+id = "email"
+url = "mailto:%s"
+title = "Email me"
+icon = "fas fa-envelope"
+
+[[social_icons]]
+id = "facebook"
+url = "https://www.facebook.com/%s"
+title = "Facebook"
+icon = "fab fa-facebook"
+
+[[social_icons]]
+id = "github"
+url = "https://github.com/%s"
+title = "GitHub"
+icon = "fab fa-github"
+
+[[social_icons]]
+id = "gitlab"
+url = "https://gitlab.com/%s"
+title = "GitLab"
+icon = "fab fa-gitlab"
+
+[[social_icons]]
+id = "bitbucket"
+url = "https://bitbucket.org/%s"
+title = "Bitbucket"
+icon = "fab fa-bitbucket"
+
+[[social_icons]]
+id = "twitter"
+url = "https://twitter.com/%s"
+title = "Twitter"
+icon = "fab fa-twitter"
+
+[[social_icons]]
+id = "slack"
+url = "https://%s.slack.com/"
+title = "Slack"
+icon = "fab fa-slack"
+
+[[social_icons]]
+id = "reddit"
+url = "https://reddit.com/u/%s"
+title = "Reddit"
+icon = "fab fa-reddit-alien"
+
+[[social_icons]]
+id = "linkedin"
+url = "https://linkedin.com/in/%s"
+title = "LinkedIn"
+icon = "fab fa-linkedin"
+
+[[social_icons]]
+id = "xing"
+url = "https://www.xing.com/profile/%s"
+title = "Xing"
+icon = "fab fa-xing"
+
+[[social_icons]]
+id = "stackoverflow"
+url = "https://stackoverflow.com/%s"
+title = "StackOverflow"
+icon = "fab fa-stack-overflow"
+
+[[social_icons]]
+id = "snapchat"
+url = "https://www.snapchat.com/add/%s"
+title = "Snapchat"
+icon = "fab fa-snapchat-ghost"
+
+[[social_icons]]
+id = "instagram"
+url = "https://www.instagram.com/%s"
+title = "Instagram"
+icon = "fab fa-instagram"
+
+[[social_icons]]
+id = "youtube"
+url = "https://www.youtube.com/%s"
+title = "Youtube"
+icon = "fab fa-youtube"
+
+[[social_icons]]
+id = "soundcloud"
+url = "https://soundcloud.com/%s"
+title = "SoundCloud"
+icon = "fab fa-soundcloud"
+
+[[social_icons]]
+id = "spotify"
+url = "https://open.spotify.com/user/%s"
+title = "Spotify"
+icon = "fab fa-spotify"
+
+[[social_icons]]
+id = "bandcamp"
+url = "https://%s.bandcamp.com/"
+title = "Bandcamp"
+icon = "fab fa-bandcamp"
+
+[[social_icons]]
+id = "itchio"
+url = "https://itch.io/profile/%s"
+title = "Itch.io"
+icon = "fas fa-gamepad"
+
+[[social_icons]]
+id = "keybase"
+url = "https://keybase.io/%s"
+title = "Keybase"
+icon = "fab fa-keybase"
+
+[[social_icons]]
+id = "vk"
+url = "https://vk.com/%s"
+title = "VK"
+icon = "fab fa-vk"
+
+[[social_icons]]
+id = "paypal"
+url = "https://paypal.me/%s"
+title = "PayPal"
+icon = "fab fa-paypal"
+
+[[social_icons]]
+id = "telegram"
+url = "https://telegram.me/%s"
+title = "Telegram"
+icon = "fab fa-telegram"
+
+[[social_icons]]
+id = "500px"
+url = "https://500px.com/%s"
+title = "500px"
+icon = "fab fa-500px"
+
+[[social_icons]]
+id = "codepen"
+url = "https://codepen.io/%s"
+title = "CodePen"
+icon = "fab fa-codepen"
+
+[[social_icons]]
+id = "kaggle"
+url = "https://www.kaggle.com/%s"
+title = "kaggle"
+icon = "fab fa-kaggle"
+
+[[social_icons]]
+id = "mastodon"
+url = "https://%s"
+title = "Mastodon"
+icon = "fab fa-mastodon"
+
+[[social_icons]]
+id = "weibo"
+url = "https://weibo.com/%s"
+title = "Weibo"
+icon = "fab fa-weibo"

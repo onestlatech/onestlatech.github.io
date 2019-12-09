@@ -1,0 +1,5 @@
+baseURL = "https://onestla.tech/"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
+title = "Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites"
+theme = "beautifulhugo"
