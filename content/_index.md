@@ -304,6 +304,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
 * [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
 * [Michaël Lebeau](https://epistol.fr), développeur web
+* [Gilles Pietri](https://gilouweb.com) Admin sys et gérant de [Wolface.IT](https://www.wolface.fr)
 
 ### Organisations
 
