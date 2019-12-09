@@ -219,6 +219,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Erwan Richard](https://twitter.com/dhalsimfr), CTO [Le Phare](https://www.lephare.com)
 * Adrien Risser, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
 * Pauline Roca, Salariée, data-scientiste, Pixyl (medtech)
