@@ -133,6 +133,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Olivier Dolbeau](https://odolbeau.fr/)
 * Bruno Ebstein, développeur, salarié
 * Pierre Escobar, Freelance
+* [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
