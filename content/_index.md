@@ -126,7 +126,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
-* [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Matthieu Caron, Lead Développeur
@@ -295,6 +294,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Romuald Priol](https://twitter.com/doc_roms), Développeur
 * [Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
+* Camille Douay, data scientist
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
 * [Yvan Corsiglia](https://twitter.com/Striwx) Créateur de Jeux-Vidéo
