@@ -90,6 +90,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 
 ### Actrices et acteurs du numérique
 
+* [Sylvain Laurent](https://twitter.com/5yLv41n)
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Agez, développeur web
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
