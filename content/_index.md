@@ -47,7 +47,7 @@ et dans d'excellentes conditions de vie, de dégager à tous du temps libre pour
 les arts, passer du temps en famille ou entre amis ; de vivre.
 
 Les programmes et les machines que nous créons peuvent contribuer à lutter contre la pauvreté,
-permettre à tous et toutes de vivre mieux et plus confortablement.
+permettre à toutes et tous de vivre mieux et plus confortablement.
 Cela n'arrivera cependant qu'aux conditions que les richesses qu'ils produisent soient plus équitablement réparties
 et que leurs [impacts environnementaux](https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/) soient réduits.
 
@@ -263,6 +263,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Guillaume Ponty](https://twitter.com/PontyGuillaume)
 * [Maxime Rouquet](https://twitter.com/marou_pp), Développeur de jeux vidéos, ancien président du Parti Pirate
 * Gilles Roustan, Développeur à Mediapart
+* [Mathieu Santostefano](https://twitter.com/welcomattic), développeur web chez [JoliCode](https://jolicode.com)
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Pierre Stazak, développeur web
 * Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -297,7 +298,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Assing, développeur
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
-<<<<<<< HEAD
 * [Marc-Aurel Audoin](https://twitter.com/MarcAurel_), développeur
 * Gaëtan Duchaussois, Admin sys
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
@@ -336,10 +336,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Anthony GRASSIOT](https://twitter.com/antograssiot), développeur
 * [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
-* [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
-=======
-* [Sylvain Laurent](https://twitter.com/5yLv41n)
->>>>>>> pr/5yLv41n/141
+
 
 ### Organisations
 
