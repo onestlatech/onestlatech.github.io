@@ -176,6 +176,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Guillaume Vigier, Administrateur réseau Mediapart
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * Séverine Wiltgen, SRE Mediapart
+* Amélie Defrance, Intégratrice
 
 ### Organisations
 
