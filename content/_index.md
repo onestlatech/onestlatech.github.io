@@ -127,6 +127,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Jeremy James](https://twitter.com/jamesjrmy), Développeur [Vanoix](https://vanoix.com)
 * [Frédéric Jost](https://twitter.com/fredericjost), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Tam Kien Duong, data.gouv.fr
+* Thimy Kieu / Codeurs en Liberté / Développeuse web / Membre de la communauté beta.gouv.fr
 * Fabien Labrousse, développeur, salarié
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
