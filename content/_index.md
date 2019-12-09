@@ -275,6 +275,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Gaëtan Duchaussois, Admin sys
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Karima Rafes](http://karimarafes.me/), enseignante-chercheuse et CEO de [BorderCloud](http://www.bordercloud.com/)
+* [Alexis Janvier](https://www.alexisjanvier.net), développeur
 * [David Leuliette](https://twitter.com/flexbox_), [Développeur Freelance](https://davidl.fr)
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com) 
 
