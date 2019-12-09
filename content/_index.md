@@ -335,7 +335,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Anthony GRASSIOT](https://twitter.com/antograssiot), développeur
 * [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
-
+* [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
 
 ### Organisations
 
