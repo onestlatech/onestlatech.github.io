@@ -106,11 +106,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thierry Banel
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
-<<<<<<< HEAD
-=======
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
 * [Guillaume Bec](https://twitter.com/Bes_fr)
->>>>>>> Update _index.md
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
 * [Jérôme Béhuet](https://jbehuet.fr), Développeur - Freelance - DEEXIT
@@ -301,6 +298,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
 * [Clément Delmas](https://www.clementdelmas.fr/)
 * [Luc Bourdot](https://mastodon.etalab.gouv.fr/@luc) Pole Logiciels Libres & EOLE
+* [Félix Girault](https://fglt.fr), développeur
+* [Francois Marot](https://twitter.com/FrancoisMarot), développeur, Architecte, Human Being
+* [Théo Fidry](https://twitter.com/tfidry), développeur
+* [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
 
 ### Organisations
 
