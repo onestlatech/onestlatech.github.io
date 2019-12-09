@@ -114,6 +114,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * Arnaud Combellas, développeur, salarié
 * Chrystelle Coupat, Responsable Exploitation Mediapart
+* [Maxime Colin](https://github.com/maximecolin), Développeur Web
 * Thomas Colin, Lead dev
 * [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Justine Delalleau, [Les-Tilleuls.coop](Les-Tilleuls.coop)
