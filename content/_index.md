@@ -106,7 +106,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
@@ -170,6 +169,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
+* Frederic Lieto, Ingenieur BDD
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
