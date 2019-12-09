@@ -134,6 +134,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thomas Colin, Lead dev
 * Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
 * [Grégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * Amélie Defrance, Intégratrice
 * Baptiste Defrance, SOC Analyst
