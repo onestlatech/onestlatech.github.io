@@ -105,6 +105,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
+* [Guillaume Bec](https://twitter.com/Bes_fr)
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
 * [Quentin Baudet](https://github.com/Thornolf), Développeur 
