@@ -40,7 +40,7 @@ sont également la cause de la destruction de la valeur de nombreuses compétenc
 Les femmes et hommes ainsi rendus précaires ne bénéficient d'aucune clémence de notre société :
 injonction leur est faite de se conformer à un marché du travail qui ne tolère pas qu'on ralentisse sa marche vers une rentabilité érigée
 comme une fin en soi.
-Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux-mêmes après qu'un algorithme ou qu'un robot les aient remplacés.
+Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux mêmes après qu'un algorithme ou qu'un robot les aient remplacés.
 
 L'automatisation peut et doit servir l'humanité. Elle permettrait de travailler moins, **de partir en retraite plus tôt**,
 et dans d'excellentes conditions de vie, de dégager à tous du temps libre pour étudier, expérimenter, pratiquer les sports,
@@ -82,7 +82,7 @@ En conséquence, nous appelons :
 ## Signez !
 
 [**Signez cet appel en ajoutant votre nom à ce document**](https://github.com/onestlatech/onestlatech.github.io/edit/content/content/_index.md).
-Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre **à la fin de la liste**), cliquez sur `Propose file change`, puis cliquez sur `Create pull request`, et encore une fois sur `Create pull request`.
+Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre nom dans la liste (classée dans **l'ordre alphabétique**), cliquez sur `Propose file change`, puis cliquez sur `Create pull request`, et encore une fois sur `Create pull request`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
@@ -95,8 +95,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
-* Paul Andrieux, développeur
 * [Rémi Andrieux](https://github.com/pimolo), développeur web
+* Paul Andrieux, développeur
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
@@ -151,6 +151,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * Sébastien David, développeur
 * Amélie Defrance, Intégratrice
+* Baptiste Defrance, SOC Analyst
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -201,6 +202,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Tam Kien Duong, data.gouv.fr
 * Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
 * [Antoine Kuhn](https://linkedin.com/in/antoine-kuhn), Développeur Fullstack, SpaceAble
+* [Paul Kocialkowski](https://www.paulk.fr), développeur
 * Pierre Kuhner, Ingénieur sécurité
 * Fabien Labrousse, développeur, salarié
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
@@ -221,6 +223,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Marc Loyat](https://twitter.com/mloyat)
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
+* [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * Julien Manganne, développeur
@@ -253,6 +256,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Quéquet, développeur
 * Tristan Prudhomme, Développeur, Max Digital Services
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
+* [Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
