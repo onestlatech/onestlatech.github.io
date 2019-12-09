@@ -298,6 +298,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
 * [Clément Delmas](https://www.clementdelmas.fr/)
 * [Théo Fidry](https://twitter.com/tfidry), développeur
+* [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
 
 ### Organisations
 
