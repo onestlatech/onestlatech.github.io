@@ -91,7 +91,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 ### Actrices et acteurs du numérique
 
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
@@ -177,6 +176,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Nicolas Hart](https://www.nclshart.net/), Développeur
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Vincent Humeau, Développeur
+* [Grégoire Pineau](https://github.com/lyrixx), Développeur
 * [Adrien Humilière](https://twitter.com/adhumi), Mobile Lead
 * [Pierre Huyghe](https://twitter.com/MierreMuyghe), Développeur
 * [Jeremy James](https://twitter.com/jamesjrmy), Développeur [Vanoix](https://vanoix.com)
@@ -190,7 +190,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
-* [Véronique Lapierre](https://twitter.com/webetcaetera), Conceptrice AMOA
 * Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
@@ -225,7 +224,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Bastien Picharles](https://twitter.com/kleinast), développeur
 * [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
 * [Jules Pietri](https://twitter.com/julespietri)
-* [Grégoire Pineau](https://github.com/lyrixx), Développeur
 * [Damien Pobel](https://damien.pobel.fr/)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Mickael Prevot](https://twitter.com/mick_prev), Lead Developer [norsys](https://www.norsys.fr)
@@ -284,6 +282,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
+* [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
 
 ### Organisations
 
