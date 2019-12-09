@@ -161,6 +161,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Yohann Gablowski, Développeur Web
 * Delphine Gauthier, Développeuse Web
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.g﻿﻿ouv.fr
+* Nicolas Gomes, Développeur Web
 * Ludovic Gonthier, Développeur web indépendant
 * Baptiste Goulard, Développeur web
 * Benjamin Gounine, Développeur Web - Consultant cybersécurité
