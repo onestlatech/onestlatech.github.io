@@ -312,6 +312,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Gilles Pietri](https://gilouweb.com) Admin sys et gérant de [Wolface.IT](https://www.wolface.fr)
 * [Cédric Levasseur](https://twitter.com/CedricLevasseur), Développeur
 * Cédric Couralet, développeur 
+* Sylvain Lehmann, Développeur
 
 ### Organisations
 
