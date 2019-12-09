@@ -235,6 +235,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Marion Tommasi](http://marion.tommasi.free.fr), doctorante
