@@ -110,10 +110,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
-<<<<<<< HEAD
 * [Thomas Berriot](https://twitter.com/tberriot), [SCOP Incaya](https://www.incaya.fr)
-=======
->>>>>>> Update _index.md
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -226,11 +223,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Mickael Prevot](https://twitter.com/mick_prev), Lead Developer [norsys](https://www.norsys.fr)
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-<<<<<<< HEAD
 * Nicolas Quéquet, développeur
-=======
 * Tristan Prudhomme, Développeur, Max Digital Services
->>>>>>> Update _index.md
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
