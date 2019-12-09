@@ -103,6 +103,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Arnaud Bailly, Développeur
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
+* Thierry Banel
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
@@ -115,7 +116,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * [Thomas Berriot](https://twitter.com/tberriot), [SCOP Incaya](https://www.incaya.fr)
-* [Yohann Berthon] (https://github.com/ybert), Développeur chez Openrunner
+* [Yohann Berthon](https://github.com/ybert), Développeur chez Openrunner
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -155,6 +156,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
+* [Romy Duhem-Verdière](http://romy.tetue.net), design UX & a11y en cabinet de conseil IT
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Olivier Dolbeau](https://odolbeau.fr/)
 * Bruno Ebstein, développeur, salarié
@@ -163,7 +165,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
-* [Jacques Foucry] (https://adminblog.foucry.net) Sysadmin, BOFH
+* [Jacques Foucry](https://adminblog.foucry.net) Sysadmin, BOFH
 * Hugo Fouques, dévéloppeur, Fretlink
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -293,9 +295,9 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
-* [Yvan Corsiglia] (https://twitter.com/Striwx) Créateur de Jeux-Vidéo
+* [Yvan Corsiglia](https://twitter.com/Striwx) Créateur de Jeux-Vidéo
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
-* [Stéphane Erard] (https://twitter.com/sterard_), Développeur
+* [Stéphane Erard](https://twitter.com/sterard_), Développeur
 * [Clément Delmas](https://www.clementdelmas.fr/)
 * [Luc Bourdot](https://mastodon.etalab.gouv.fr/@luc) Pole Logiciels Libres & EOLE
 * [Félix Girault](https://fglt.fr), développeur
@@ -305,6 +307,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
 * [Michaël Lebeau](https://epistol.fr), développeur web
 * [Kyâne Pichou](https://www.kyane.fr), sysadmin
+* [Gilles Pietri](https://gilouweb.com) Admin sys et gérant de [Wolface.IT](https://www.wolface.fr)
 
 ### Organisations
 
