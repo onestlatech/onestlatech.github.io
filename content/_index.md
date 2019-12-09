@@ -86,7 +86,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 
 ## Signataires
 
-## Actrices et acteurs du numérique
+### Actrices et acteurs du numérique
 
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Romy Alula, développeuse, salariée
@@ -103,37 +103,50 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Paul Bonaud, Ingénieur Logiciel
 * [Pascal Borreli](https://twitter.com/pborreli), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
+* Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
+* Arnaud Combellas, développeur, salarié
 * Chrystelle Coupat, Responsable Exploitation Mediapart
+* [Maxime Colin](https://github.com/maximecolin), Développeur Web
 * Thomas Colin, Lead dev
 * [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Justine Delalleau, [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Olivier Dolbeau](https://odolbeau.fr/)
+* Pierre Escobar, Freelance
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
+* Alexandre Fontfreyde, Lead développeur
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Ludovic Gonthier, Développeur web indépendant
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Aloïs Guillopé, Développeur
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Adrien Humilière, Mobile Lead, Brut
 * [Jeremy James](https://twitter.com/jamesjrmy), Développeur [Vanoix](https://vanoix.com)
 * [Frédéric Jost](https://twitter.com/fredericjost), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
 * Tam Kien Duong, data.gouv.fr
-* Thimy Kieu / Codeurs en Liberté / Développeuse web / Membre de la communauté beta.gouv.fr
+* Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
 * Fabien Labrousse, développeur, salarié
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
 * Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Alexis Leclerc, Freelance, Developpeur Rails, Etalab
+* [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
@@ -148,8 +161,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Romain Neutron](https://twitter.com/romainneutron)
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Fabrice Nourisson, développeur, salarié
+* Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * Thomas Pepio, développeur, Solidaires Informatique
+* [Bastien Picharles](https://twitter.com/kleinast), développeur
 * [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
 * [Jules Pietri](https://twitter.com/julespietri)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](Les-Tilleuls.coop)
@@ -161,19 +176,23 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pauline Roca, Salariée, data-scientiste, Pixyl (medtech)
 * [Alex Rock](https://twitter.com/Pierstoval)
 * Gilles Roustan, Développeur à Mediapart
+* [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Laury Sorriaux, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
 * Clément Talleu, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Nino Treyssat-Vincent, développeur web
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* François Vantomme, développeur
 * Guillaume Vigier, Administrateur réseau Mediapart
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
+* Amélie Defrance, Intégratrice
 
-## Organisations
+### Organisations
 
 * [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
 * [Syndicat de l'industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
