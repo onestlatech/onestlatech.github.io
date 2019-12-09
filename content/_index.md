@@ -160,6 +160,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Yohann Gablowski, Développeur Web
 * Delphine Gauthier, Développeuse Web
+* [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.g﻿﻿ouv.fr
 * Nicolas Gomes, Développeur Web
 * Ludovic Gonthier, Développeur web indépendant
