@@ -192,6 +192,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [François Le Gal], Responsable technique
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * Florian Lemaitre, Lead developer, salarié
 * [Guillaume Litaudon](https://yom.li/), développeur web, consultant et philosophe
@@ -205,6 +206,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
 * Colin Maudry, Conseiller indépendant en Open Data
+* Nawo Mbechezi, Développeur 
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -268,7 +270,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Samuel Bodin, Développeur Senior Backend
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
-* Nawo Mbechezi, Développeur 
 
 ### Organisations
 
