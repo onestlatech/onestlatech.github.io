@@ -139,7 +139,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thomas Colin](http://thcol.in/#about), [Troopers.agency](https://troopers.agency/fr/)
 * Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
 * [Grégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Manfred Cossard, Ingénieur cybersécurité
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * Amélie Defrance, Intégratrice
@@ -281,9 +280,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alexis Janvier](https://www.alexisjanvier.net), développeur
 * [David Leuliette](https://twitter.com/flexbox_), [Développeur Freelance](https://davidl.fr)
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com) 
-* [Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
-* [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
-* [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
+* [Romuald Priol](https://twitter.com/doc_roms), Développeur
 
 ### Organisations
 
