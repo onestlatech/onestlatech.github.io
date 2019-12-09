@@ -250,6 +250,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Séverine Wiltgen, SRE Mediapart
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
+* [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 
 ### Organisations
 
