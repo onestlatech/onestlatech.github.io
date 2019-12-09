@@ -86,7 +86,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 
 ## Signataires
 
-## Actrices et acteurs du numérique
+### Actrices et acteurs du numérique
 
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Romy Alula, développeuse, salariée
@@ -166,7 +166,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * Séverine Wiltgen, SRE Mediapart
 
-## Organisations
+### Organisations
 
 * [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
 * [Syndicat de l'industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
