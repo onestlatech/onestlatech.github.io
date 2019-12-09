@@ -134,6 +134,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
 * Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Alexis Leclerc / Freelance / Developpeur Rails / Etalab
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
