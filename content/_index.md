@@ -100,6 +100,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
 * Arnaud Bailly, Développeur
+* [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
