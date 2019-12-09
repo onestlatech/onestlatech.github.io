@@ -138,6 +138,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Ludovic Gonthier, Développeur web indépendant
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* [Nicolas Grekas](https://twitter.com/nicolasgrekas), Ingénieur logiciels libres
 * Aloïs Guillopé, Développeur
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
@@ -164,7 +165,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
-[Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Romain Neutron](https://twitter.com/romainneutron)
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Fabrice Nourisson, développeur, salarié
