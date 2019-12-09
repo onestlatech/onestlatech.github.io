@@ -181,6 +181,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jules Pietri](https://twitter.com/julespietri)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Risser, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
