@@ -90,7 +90,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 
 ### Actrices et acteurs du numérique
 
-* [Fabien Bataille], Développeur
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Agez, développeur web
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
@@ -107,6 +106,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thierry Banel
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
+* [Fabien Bataille], Développeur
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
 * [Guillaume Bec](https://twitter.com/Bes_fr)
 * Nina Belaid, Chercheuse en biochimie
