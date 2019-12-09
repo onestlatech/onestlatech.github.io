@@ -215,6 +215,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
+* [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Risser, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
