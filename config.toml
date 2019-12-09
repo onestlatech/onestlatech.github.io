@@ -4,5 +4,5 @@ languageCode = "fr-fr"
 title = "onestla.tech"
 theme = "beautifulhugo"
 
-[Params]
-  share_img = "header.jpg"
+[[Params]]
+  image = "header.jpg"
