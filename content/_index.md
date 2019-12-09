@@ -130,19 +130,22 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
 * [Grégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Amélie Defrance, Intégratrice
+* Baptiste Defrance, SOC Analyst
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
-* [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Olivier Dolbeau](https://odolbeau.fr/)
+* Gaëtan Duchaussois, Admin sys
+* [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Bruno Ebstein, développeur, salarié
 * Pierre Escobar, Freelance
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
+* Hugo Fouques, dévéloppeur, Fretlink
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Delphine Gauthier, Développeuse Web
@@ -200,12 +203,16 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alex Rock](https://twitter.com/Pierstoval)
 * [Guillaume Ponty](https://twitter.com/PontyGuillaume)
 * Gilles Roustan, Développeur à Mediapart
+* [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
+* Pierre Stazak, développeur web
 * Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
+* [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nino Treyssat-Vincent, développeur web
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -214,9 +221,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-* Gaëtan Duchaussois, Admin sys
-* Pierre Stazak, développeur web
-* [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 
 ### Organisations
 
