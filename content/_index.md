@@ -91,6 +91,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 ### Actrices et acteurs du numérique
 
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Adrien Agez, développeur web
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
@@ -219,7 +220,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-* [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 
 
 ### Organisations
