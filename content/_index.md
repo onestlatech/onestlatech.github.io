@@ -4,6 +4,8 @@ date: 2019-12-09T10:44:29+01:00
 draft: false
 ---
 
+# Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
+
 L'automatisation peut être une chance pour l'humanité : elle permet de déléguer aux machines
 toujours plus de tâches fastidieuses, ingrates, complexes, ennuyeuses ou non épanouissantes.
 Les progrès fulgurants effectués au cours des dernières décennies dans les domaines de l'électronique,
