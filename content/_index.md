@@ -231,6 +231,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
+* [Yannick Snobbert](https://twitter.com/yannicksnobbert), Développeur
 * Olivier Sgoifo, développeur/devops, salarié
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
