@@ -325,6 +325,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Mathieu Kim Robin, développeur web
 * [Benjamin Sureau](https://github.com/fligflug), développeur web
 * [Michel Perrocheau](https://github.com/myrrkel), Développeur Python
+* [Brice Person](https://twitter.com/bjperson), Développeur
 
 ### Organisations
 
