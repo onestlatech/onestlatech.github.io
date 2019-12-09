@@ -82,7 +82,7 @@ En conséquence, nous appelons :
 ## Signez !
 
 [**Signez cet appel en ajoutant votre nom à ce document**](https://github.com/onestlatech/onestlatech.github.io/edit/content/content/_index.md).
-Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre nom dans la liste (classée dans **l'ordre alphabétique**), cliquez sur `Commit changes` puis cliquez sur `Submit Pull Request`.
+Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre **à la fin de la liste**), cliquez sur `Propose file change`, puis cliquez sur `Create pull request`, et encore une fois sur `Create pull request`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
@@ -275,7 +275,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 
 ## À propos
 
-Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteur du numérique se sont organisés,
+Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteurs du numérique se sont organisés,
 et se sont mis d'accord pour publier cet appel.
 Ce texte appelle les travailleuses et travailleurs du numérique à se mobiliser pour dire non à la réforme des retraites
 du gouvernement et pour proposer une alternative : réduire le temps de travail en mettant la technologie au service du
