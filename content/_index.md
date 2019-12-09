@@ -169,7 +169,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Clément Talleu, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](Les-Tilleuls.coop)
-* François Vantomme / développeur
+* François Vantomme, développeur
 * Guillaume Vigier, Administrateur réseau Mediapart
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * Séverine Wiltgen, SRE Mediapart
