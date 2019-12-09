@@ -251,6 +251,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
+* [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
 
 ### Organisations
 
