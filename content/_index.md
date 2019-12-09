@@ -139,7 +139,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
 * [Olivier Dolbeau](https://odolbeau.fr/)
@@ -156,6 +155,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Delphine Gauthier, Développeuse Web
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.g﻿﻿ouv.fr
 * Ludovic Gonthier, Développeur web indépendant
+* Benjamin Gounine, Développeur Web - Consultant cybersécurité
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Nicolas Grekas](https://twitter.com/nicolasgrekas), Ingénieur logiciels libres
 * Aloïs Guillopé, Développeur
@@ -232,7 +232,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-* Pierre Stazak, développeur web
 
 ### Organisations
 
