@@ -173,6 +173,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Vincent Humeau, Développeur
 * [Adrien Humilière](https://twitter.com/adhumi), Mobile Lead
+* [Pierre Huyghe](https://twitter.com/MierreMuyghe), Développeur
 * [Jeremy James](https://twitter.com/jamesjrmy), Développeur [Vanoix](https://vanoix.com)
 * [Thomas Jarrand](https://github.com/tom32i), Développeur Web
 * [Frédéric Jost](https://twitter.com/fredericjost), [Les-Tilleuls.coop](https://les-tilleuls.coop)
