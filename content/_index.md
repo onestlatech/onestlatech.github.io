@@ -170,7 +170,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
 * Tam Kien Duong, data.gouv.fr
 * Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
-* [Antoine Kuhn](https://www.linkedin.com/in/antoine-kuhn/), Développeur Fullstack, SpaceAble
 * Pierre Kuhner, Ingénieur sécurité
 * Fabien Labrousse, développeur, salarié
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
@@ -203,7 +202,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jules Pietri](https://twitter.com/julespietri)
 * [Damien Pobel](https://damien.pobel.fr/)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Bruno Pourtier](https://twitter.com/thebeardman), Tech Lead à Publicis Sapient
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla
@@ -234,6 +232,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
+*[Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
 
 ### Organisations
 
