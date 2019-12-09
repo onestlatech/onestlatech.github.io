@@ -24,7 +24,7 @@ Le gouvernement voudrait nous faire croire qu'il faut travailler plus longtemps 
 que les cheminotes et cheminots, les soignantes et soignants, les pompières et pompiers ou les enseignantes et enseignants
 seraient des nantis vivant au crochet de la société.
 En réalité, les inégalités sont telles que
-[26 personnes possèdent plus à elles seules que 3,8 milliards d'humains réunis](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it).
+[26 personnes possédent plus à elles seules que 3,8 milliards d'humains réunis](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it).
 À la deuxième position de ces 26 personnes se trouve [Bernard Arnault](https://www.ladepeche.fr/2019/07/17/le-patron-de-lvmh-bernard-arnault-depasse-bill-gates-et-devient-la-deuxieme-fortune-mondiale,8317658.php),
 juste derrière Jeff Bezos. Parmi ces 26, se trouvent quelques acteurs de la tech… mais aucun cheminot, ni soignant, ni pompier, ni enseignant.
 
@@ -40,7 +40,7 @@ sont également la cause de la destruction de la valeur de nombreuses compétenc
 Les femmes et hommes ainsi rendus précaires ne bénéficient d'aucune clémence de notre société :
 injonction leur est faite de se conformer à un marché du travail qui ne tolère pas qu'on ralentisse sa marche vers une rentabilité érigée
 comme une fin en soi.
-Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux-mêmes après qu'un algorithme ou qu'un robot les aient remplacés.
+Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux mêmes après qu'un algorithme ou qu'un robot les aient remplacés.
 
 L'automatisation peut et doit servir l'humanité. Elle permettrait de travailler moins, **de partir en retraite plus tôt**,
 et dans d'excellentes conditions de vie, de dégager à tous du temps libre pour étudier, expérimenter, pratiquer les sports,
@@ -82,7 +82,7 @@ En conséquence, nous appelons :
 ## Signez !
 
 [**Signez cet appel en ajoutant votre nom à ce document**](https://github.com/onestlatech/onestlatech.github.io/edit/content/content/_index.md).
-Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre **à la fin de la liste**), cliquez sur `Propose file change`, puis cliquez sur `Create pull request`, et encore une fois sur `Create pull request`.
+Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre nom dans la liste (classée dans **l'ordre alphabétique**), cliquez sur `Propose file change`, puis cliquez sur `Create pull request`, et encore une fois sur `Create pull request`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
@@ -95,7 +95,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
-* [Rémi Andrieux](https://github.com/pimolo), développeur web
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
@@ -123,6 +122,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
+* [Luc Bourdot](https://mastodon.etalab.gouv.fr/@luc), Pole logiciels libres / EOLE
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -143,6 +143,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * Amélie Defrance, Intégratrice
+* Baptiste Defrance, SOC Analyst
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -163,7 +164,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Delphine Gauthier, Développeuse Web
 * [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
-* Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Johan Girod, Freelance, Développeur web, Membre de la communauté beta.g﻿﻿ouv.fr
 * Ludovic Gonthier, Développeur web indépendant
 * Baptiste Goulard, Développeur web
 * Benjamin Gounine, Développeur Web - Consultant cybersécurité
@@ -202,6 +203,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * Julien Manganne, développeur
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
+* [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
@@ -230,6 +232,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nicolas Quéquet, développeur
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
+* [Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -258,7 +261,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Marion Tommasi](http://marion.tommasi.free.fr), doctorante
 * Nino Treyssat-Vincent, développeur web
 * Simon Meeschaert, développeur
-* Olivier Vallée, développeur
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * François Vantomme, développeur
 * Guillaume Vigier, Administrateur réseau Mediapart
@@ -270,7 +272,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Samuel Bodin, Développeur Senior Backend
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
-* [Karima Rafes](http://karimarafes.me/), enseignante-chercheuse et CEO de [BorderCloud](http://www.bordercloud.com/)
 
 ### Organisations
 
