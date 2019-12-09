@@ -1,0 +1,1 @@
+[Véronique Lapierre](https://twitter.com/webetcaetera), Conceptrice AMOA

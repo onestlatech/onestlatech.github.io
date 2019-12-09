@@ -1,0 +1,1 @@
+[Nicolas Hart](https://www.nclshart.net/), Développeur

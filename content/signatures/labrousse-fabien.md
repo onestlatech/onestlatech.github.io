@@ -1,0 +1,1 @@
+Fabien Labrousse, développeur, salarié

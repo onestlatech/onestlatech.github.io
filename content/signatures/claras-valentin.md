@@ -1,0 +1,1 @@
+[Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web

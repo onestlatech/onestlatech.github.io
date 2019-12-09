@@ -1,0 +1,1 @@
+[Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)

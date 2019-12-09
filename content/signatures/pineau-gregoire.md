@@ -1,0 +1,1 @@
+[Grégoire Pineau](https://github.com/lyrixx), Développeur

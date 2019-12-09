@@ -1,0 +1,1 @@
+[Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
