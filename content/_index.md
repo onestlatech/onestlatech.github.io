@@ -211,6 +211,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Romain Neutron](https://twitter.com/romainneutron)
 * [Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
+* [Adriana Nitescu](https://github.com/adreeana), développeur
 * Fabrice Nourisson, développeur, salarié
 * Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
@@ -265,7 +266,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Samuel Bodin, Développeur Senior Backend
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
-* [Adriana Nitescu](https://github.com/adreeana), développeur
 
 ### Organisations
 
