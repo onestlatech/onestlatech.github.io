@@ -145,6 +145,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Romain Neutron](https://twitter.com/romainneutron)
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Fabrice Nourisson, développeur, salarié
+* Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * Thomas Pepio, développeur, Solidaires Informatique
 * [Jules Pietri](https://twitter.com/julespietri)
