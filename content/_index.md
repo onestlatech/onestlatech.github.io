@@ -122,7 +122,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
 * Thomas Colin, Lead dev
-* [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
+* [Grégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Amélie Defrance, Intégratrice
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
