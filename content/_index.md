@@ -95,6 +95,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
+* [Rémi Andrieux](https://github.com/pimolo), développeur web
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
