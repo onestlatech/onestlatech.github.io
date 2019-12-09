@@ -205,6 +205,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Fabrice Nourisson, développeur, salarié
+* [Nicolas Ottavi](https://twitter.com/agentdifferent), [Agence Différente](http://new.agence-differente.fr/)
 * Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * Thomas Pepio, développeur, Solidaires Informatique
