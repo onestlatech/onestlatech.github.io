@@ -155,6 +155,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
+* [Jacques Foucry] (https://adminblog.foucry.net) Sysadmin, BOFH
 * Hugo Fouques, dévéloppeur, Fretlink
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
