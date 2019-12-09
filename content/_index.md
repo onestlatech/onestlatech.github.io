@@ -322,6 +322,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Sylvain Lehmann, Développeur
 * [Ismaël Bouya](https://www.immae.eu), Ingénieur logiciel
 * Mathieu Kim Robin, développeur web
+* [Benjamin Sureau](https://github.com/fligflug), développeur web
 
 ### Organisations
 
