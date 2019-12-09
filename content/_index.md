@@ -159,6 +159,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * Thomas Pepio, développeur, Solidaires Informatique
+* [Bastien Picharles](https://twitter.com/kleinast), développeur
 * [Jules Pietri](https://twitter.com/julespietri)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](Les-Tilleuls.coop)
