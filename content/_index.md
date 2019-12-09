@@ -302,6 +302,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Francois Marot](https://twitter.com/FrancoisMarot), développeur, Architecte, Human Being
 * [Théo Fidry](https://twitter.com/tfidry), développeur
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
+* [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
 
 ### Organisations
 
