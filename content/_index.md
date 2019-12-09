@@ -118,7 +118,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thomas Berriot](https://twitter.com/tberriot), [SCOP Incaya](https://www.incaya.fr)
 * [Yohann Berthon](https://github.com/ybert), Développeur chez Openrunner
 * Jacques Billard, Tech Lead à Mediapart
-* bikepunk, (https://mastodon.tetaneutral.net/@bikepunk), touillette de la FédérationFDN (https://ffdn.org)
+* [bikepunk](https://mastodon.tetaneutral.net/@bikepunk), touillette travailleuse bénévole de la [FédérationFDN](https://ffdn.org)
 * Julien Blanchard, Développeur
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Anne-Laure de Boissieu, Développeuse web
