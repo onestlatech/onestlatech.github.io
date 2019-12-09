@@ -31,17 +31,17 @@ p + p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #0085a1;
 }
 h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #0085a1;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #34b3ce;
 }
 blockquote {
   color: #808080;
@@ -150,14 +150,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #0085a1;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #34b3ce;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -305,7 +305,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #0085a1;
 }
 
 footer .list-inline {
@@ -354,14 +354,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #0085a1;
 }
-
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #34b3ce;
 }
 
 .post-preview .post-title {
@@ -387,7 +386,7 @@ footer .theme-by {
 .post-preview .post-meta a,
 .post-heading .post-meta a,
 .page-meta a {
-  color: #404040;
+  color: #0085a1;
   text-decoration: none;
 }
 .post-preview .post-entry {
@@ -452,7 +451,7 @@ footer .theme-by {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #34b3ce;
   background-color: #CCC;
 }
 
@@ -644,7 +643,7 @@ footer .theme-by {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #0085a1;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -761,7 +760,7 @@ div.splitbox div.right {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #0085a1;
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {

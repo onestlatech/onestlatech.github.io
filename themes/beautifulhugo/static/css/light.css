@@ -50,13 +50,12 @@ ul {
 }
 
 a, a:visited {
-    color: #404040;
-    text-decoration-color: #999;
-    text-decoration-style: dotted;
+    color: #0085a1;
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration-color: #404040;
+    color: #34b3ce;
 }
 
 code {
@@ -80,6 +79,8 @@ code {
     .page-heading {
         font-size: 0.8em;
     }
+
     ul {
         padding-left: 1em;
     }
+}
