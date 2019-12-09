@@ -95,6 +95,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
+* [Rémi Andrieux](https://github.com/pimolo), développeur web
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
@@ -152,6 +153,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Bruno Ebstein, développeur, salarié
 * Pierre Escobar, Freelance
+* [Fabre William](https://github.com/williamfabre), développeur 
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
@@ -256,6 +258,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Marion Tommasi](http://marion.tommasi.free.fr), doctorante
 * Nino Treyssat-Vincent, développeur web
 * Simon Meeschaert, développeur
+* Olivier Vallée, développeur
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * François Vantomme, développeur
 * Guillaume Vigier, Administrateur réseau Mediapart
