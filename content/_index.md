@@ -97,6 +97,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
+* Arthur d'Azémar, Développeur
 * Arnaud Bailly, Développeur
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
