@@ -202,10 +202,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Tam Kien Duong, data.gouv.fr
 * Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
 * [Antoine Kuhn](https://linkedin.com/in/antoine-kuhn), Développeur Fullstack, SpaceAble
-<<<<<<< HEAD
 * [Paul Kocialkowski](https://www.paulk.fr), développeur
-=======
->>>>>>> Narno-patch-1
 * Pierre Kuhner, Ingénieur sécurité
 * Fabien Labrousse, développeur, salarié
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
