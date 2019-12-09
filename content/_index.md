@@ -351,7 +351,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
 * [Sylvain Laurent](https://twitter.com/5yLv41n)
 * [Mathieu Wostyn](https://m.g3l.org/@mathieu), (chat-)touilleur digital (mais néanmoins agitateur numérique)
-* [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
+[Michel Guillou](https://www.culture-numerique.fr/), Observateur
 
 ### Organisations
 
