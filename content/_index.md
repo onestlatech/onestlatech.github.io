@@ -168,17 +168,26 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Hugo Fouques, dévéloppeur, Fretlink
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Yohann Gablowski, Développeur Web
 * Delphine Gauthier, Développeuse Web
+<<<<<<< HEAD
 * [Clément Gibaud](https://twitter.com/cleming_), Administrateur système
 * [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+=======
+* Johan Girod, Freelance, Développeur web, Membre de la communauté beta.g﻿﻿ouv.fr
+* Nicolas Gomes, Développeur Web
+>>>>>>> Update _index.md
 * Ludovic Gonthier, Développeur web indépendant
 * Baptiste Goulard, Développeur web
 * Benjamin Gounine, Développeur Web - Consultant cybersécurité
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Nicolas Grekas](https://twitter.com/nicolasgrekas), Ingénieur logiciels libres
+<<<<<<< HEAD
 * Armaël Guéneau, doctorant en informatique
 * [David Guillot](https://www.contexte.com/equipe/david-guillot-71850.html), lead-dev
+=======
+>>>>>>> Update _index.md
 * Aloïs Guillopé, Développeur
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
@@ -203,8 +212,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+<<<<<<< HEAD
 * [François Le Gal], Responsable technique
 * [Jean-François Le Foll](https://twitter.com/JeffLeFoll), développeur, co-fondateur d'[Avalon-Lab](https://avalon-lab.fr)
+=======
+* Pierrick Le Gall, Développeur
+>>>>>>> Update _index.md
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * Florian Lemaitre, Lead developer, salarié
 * [Guillaume Litaudon](https://yom.li/), développeur web, consultant et philosophe
@@ -222,13 +235,18 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mehdi Medjaoui](https://twitter.com/medjawii), fondateur de OAuth.io, GDPR.dev et APIdays conferences
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+<<<<<<< HEAD
 * [Katia Molina](https://twitter.com/keepupkatia), formatrice-consultante webmarketing indépendante
+=======
+* [Raphaël Mor](https://twitter.com/raphaelmor), développeur
+>>>>>>> Update _index.md
 * [Romain Neutron](https://twitter.com/romainneutron)
 * [Lê Thành Dũng Nguyễn](https://nguyentito.eu/), doctorant en informatique
 * [Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * [Adriana Nitescu](https://github.com/adreeana), développeur
 * Fabrice Nourisson, développeur, salarié
+* [Nicolas Ottavi](https://twitter.com/agentdifferent), [Agence Différente](http://new.agence-differente.fr/)
 * Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
@@ -254,19 +272,26 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l'[AFUP](https://afup.org/)
 * [Flavien Rodrigues](https://twitter.com/RFlavien), développeur et enseignant, Tiime software
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
+<<<<<<< HEAD
 * [Romain (Artwo) Rouault](https://twitter.com/Artwo), Graphiste et Développeur Frontend
 * [Guillaume Ponty](https://twitter.com/PontyGuillaume)
+=======
+* [Maxime Rouquet](https://twitter.com/marou_pp), Développeur de jeux vidéos, ancien président du Parti Pirate
+>>>>>>> Update _index.md
 * Gilles Roustan, Développeur à Mediapart
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Pierre Stazak, développeur web
-* [Johan Soulet](https://twitter.com/johansoulet), développeur
 * Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
 * [Yannick Snobbert](https://twitter.com/yannicksnobbert), Développeur
 * Olivier Sgoifo, développeur/devops, salarié
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
+<<<<<<< HEAD
 * [Gautier Souesme](https://cestca.eu), développeur indépendant, CESTCA SAS
+=======
+* Guillaume Subiron, Administrateur système, cogérant de [Sysnove](https://www.sysnove.fr)
+>>>>>>> Update _index.md
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
@@ -289,8 +314,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Benjamin Winckell](https://twitter.com/oh_meeen), Developpeur Lead 
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
-* Samuel Bodin, Développeur Senior Backend
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
+<<<<<<< HEAD
 * [Peio Roth](https://peio.now.sh/), développeur
 * [Marc-Aurel Audoin](https://twitter.com/MarcAurel_), développeur
 * Gaëtan Duchaussois, Admin sys
@@ -327,6 +352,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Michel Perrocheau](https://github.com/myrrkel), Développeur Python
 * [Brice Person](https://twitter.com/bjperson), Développeur
 * Nicolas Gourlé, développeur
+=======
+>>>>>>> Update _index.md
 
 ### Organisations
 
