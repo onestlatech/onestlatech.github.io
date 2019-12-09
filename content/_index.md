@@ -118,6 +118,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Olivier Dolbeau](https://odolbeau.fr/)
+* [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Ludovic Gonthier, Développeur web indépendant
@@ -140,13 +141,16 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
+* Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
+[Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Romain Neutron](https://twitter.com/romainneutron)
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Fabrice Nourisson, développeur, salarié
 * Tom Panier, développeur frontend, Synbioz
 * Thomas Pepio, développeur, Solidaires Informatique
+* [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
 * [Jules Pietri](https://twitter.com/julespietri)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](Les-Tilleuls.coop)
@@ -159,11 +163,14 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Gilles Roustan, Développeur à Mediapart
 * Laury Sorriaux, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
+* [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
 * Clément Talleu, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Nino Treyssat-Vincent, développeur web
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Guillaume Vigier, Administrateur réseau Mediapart
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
+* [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
 
 ## Organisations
