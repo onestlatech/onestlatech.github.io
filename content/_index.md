@@ -126,6 +126,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Ludovic Gonthier, Développeur web indépendant
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Aloïs Guillopé, Développeur
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](Les-Tilleuls.coop)
