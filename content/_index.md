@@ -129,6 +129,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Julien Chaumont](https://github.com/julienc91), Lead Developer
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * [Arnaud Cojez](https://github.com/arnaudcoj), Game Developper
 * Arnaud Combellas, développeur, salarié
@@ -153,7 +154,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Bruno Ebstein, développeur, salarié
 * Pierre Escobar, Freelance
-* [Fabre William](https://github.com/williamfabre), développeur 
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
