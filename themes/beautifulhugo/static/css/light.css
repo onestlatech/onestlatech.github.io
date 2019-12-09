@@ -10,9 +10,14 @@ body {
     align-items: center;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 .container {
-    width: 680px;
-    max-width: 100%;
+    width: 100%;
+    max-width: 720px;
+    padding: 0 20px;
 }
 
 .page-heading {
@@ -40,6 +45,10 @@ p, li {
     text-align: justify;
 }
 
+ul {
+    padding-left: 2em;
+}
+
 a, a:visited {
     color: #404040;
     text-decoration-color: #999;
@@ -65,3 +74,12 @@ code {
 .credits {
     text-align: center;
 }
+
+/** Mobile */
+@media only screen and (max-width: 720px) {
+    .page-heading {
+        font-size: 0.8em;
+    }
+    ul {
+        padding-left: 1em;
+    }
