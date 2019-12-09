@@ -124,6 +124,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Matthieu Caron, Lead Développeur
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
 * [Julien Chaumont](https://github.com/julienc91), Lead Developer
@@ -270,7 +271,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Séverine Wiltgen, SRE Mediapart
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
-<<<<<<< HEAD
 * Samuel Bodin, Développeur Senior Backend
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
@@ -285,9 +285,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
-=======
-* [Yvan Corsiglia] (https://twitter.com/Striwx) Créateur de Jeux-Vidéo
->>>>>>> Update _index.md
 
 ### Organisations
 
