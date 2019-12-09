@@ -1,0 +1,1 @@
+[Olivier Mansour](https://twitter.com/omansour), CTO adjoint

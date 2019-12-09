@@ -1,0 +1,1 @@
+[Romy Duhem-Verdière](http://romy.tetue.net), design UX & a11y en cabinet de conseil IT

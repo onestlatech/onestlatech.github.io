@@ -408,3 +408,8 @@ du gouvernement et pour proposer une alternative : réduire le temps de travail 
 bien commun.
 
 Contact : onestlatech@protonmail.com
+**Signez cet appel en ajoutant votre nom à ce document**.
+Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, puis allez sur cette [https://github.com/onestlatech/onestlatech.github.io/new/content/signatures/content](page).
+En nom de fichier mettez `nom-prenom.md`, puis écrivez au format markdown la signature que vous souhaitez mettre.
+
+Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
