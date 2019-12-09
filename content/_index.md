@@ -109,10 +109,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
-* Paul Chavard / Freelance / Développeur web / Membre de la communauté beta.gouv.fr
+* Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
-* Arnaud Combellas / développeur / salarié
+* Arnaud Combellas, développeur, salarié
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * Thomas Colin, Lead dev
 * [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](Les-Tilleuls.coop)
@@ -133,12 +133,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jeremy James](https://twitter.com/jamesjrmy), Développeur [Vanoix](https://vanoix.com)
 * [Frédéric Jost](https://twitter.com/fredericjost), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Tam Kien Duong, data.gouv.fr
-* Thimy Kieu / Codeurs en Liberté / Développeuse web / Membre de la communauté beta.gouv.fr
+* Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
 * Fabien Labrousse, développeur, salarié
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
 * Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
-* Alexis Leclerc / Freelance / Developpeur Rails / Etalab
+* Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
