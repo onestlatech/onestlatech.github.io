@@ -172,6 +172,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pauline Roca, Salariée, data-scientiste, Pixyl (medtech)
 * [Alex Rock](https://twitter.com/Pierstoval)
 * Gilles Roustan, Développeur à Mediapart
+* [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Laury Sorriaux, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
 * Clément Talleu, [Les-Tilleuls.coop](Les-Tilleuls.coop)
