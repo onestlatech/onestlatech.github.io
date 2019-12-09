@@ -108,6 +108,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
+* Paul Chavard / Freelance / Développeur web / Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * Chrystelle Coupat, Responsable Exploitation Mediapart
