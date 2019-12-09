@@ -309,6 +309,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Michaël Lebeau](https://epistol.fr), développeur web
 * [Kyâne Pichou](https://www.kyane.fr), sysadmin
 * [Gilles Pietri](https://gilouweb.com) Admin sys et gérant de [Wolface.IT](https://www.wolface.fr)
+* [Cédric Levasseur](https://twitter.com/CedricLevasseur), Développeur
 
 ### Organisations
 
