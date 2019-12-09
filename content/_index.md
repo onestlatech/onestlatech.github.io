@@ -91,8 +91,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 ### Actrices et acteurs du numérique
 
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Adrien Agez, développeur web
-* [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
@@ -105,8 +103,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Timothée Barray](https://twitter.com/timbarray)
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
+* [Jérôme Béhuet](https://jbehuet.fr), Développeur - Freelance - DEEXIT
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
@@ -133,7 +131,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -214,7 +211,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-* Gaëtan Duchaussois, Admin sys
 * Pierre Stazak, développeur web
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 
