@@ -124,6 +124,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Guillaume Cauchois, Développeur Full-Stack
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
