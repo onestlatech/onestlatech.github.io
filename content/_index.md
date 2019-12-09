@@ -210,6 +210,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Katia Molina](https://twitter.com/keepupkatia), formatrice-consultante webmarketing indépendante
 * [Romain Neutron](https://twitter.com/romainneutron)
+* [Lê Thành Dũng Nguyễn](https://nguyentito.eu/), doctorant en informatique
 * [Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * [Adriana Nitescu](https://github.com/adreeana), développeur
