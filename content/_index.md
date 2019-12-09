@@ -170,6 +170,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
 * Tam Kien Duong, data.gouv.fr
 * Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
+* [Antoine Kuhn](https://www.linkedin.com/in/antoine-kuhn/), Développeur Fullstack, SpaceAble
 * Pierre Kuhner, Ingénieur sécurité
 * Fabien Labrousse, développeur, salarié
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
