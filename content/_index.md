@@ -191,6 +191,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Adrien Humilière](https://twitter.com/adhumi), Mobile Lead
 * [Pierre Huyghe](https://twitter.com/MierreMuyghe), Développeur
 * [Jeremy James](https://twitter.com/jamesjrmy), Développeur [Vanoix](https://vanoix.com)
+* Jérémy Huard, Dévellopeur web, [Doeo](https://doeo.fr)
 * [Thomas Jarrand](https://github.com/tom32i), Développeur Web
 * [Frédéric Jost](https://twitter.com/fredericjost), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
@@ -336,7 +337,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Anthony GRASSIOT](https://twitter.com/antograssiot), développeur
 * [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
-
+* [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
+* [Sylvain Laurent](https://twitter.com/5yLv41n)
 
 ### Organisations
 
