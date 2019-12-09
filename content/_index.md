@@ -238,6 +238,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
+* Nicolas Assing, développeur
 
 ### Organisations
 
