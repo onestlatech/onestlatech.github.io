@@ -145,6 +145,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Stéphane Deschamps](https://nota-bene.org/), expert web, salarié
+* Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -274,6 +275,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Karima Rafes](http://karimarafes.me/), enseignante-chercheuse et CEO de [BorderCloud](http://www.bordercloud.com/)
 * [David Leuliette](https://twitter.com/flexbox_), [Développeur Freelance](https://davidl.fr)
+* [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com) 
 
 ### Organisations
 
