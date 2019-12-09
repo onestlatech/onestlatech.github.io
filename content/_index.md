@@ -232,7 +232,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-*[Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
+* [Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
 
 ### Organisations
 
