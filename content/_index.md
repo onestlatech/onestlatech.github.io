@@ -297,6 +297,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Assing, développeur
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
+* [Sylvain Laurent](https://twitter.com/5yLv41n)
 * [Marc-Aurel Audoin](https://twitter.com/MarcAurel_), développeur
 * Gaëtan Duchaussois, Admin sys
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
@@ -337,6 +338,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Xavier Seignard](https://drangies.fr/), développeur web
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
 * [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
+
 ### Organisations
 
 * [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
