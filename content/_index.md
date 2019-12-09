@@ -280,6 +280,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alexis Janvier](https://www.alexisjanvier.net), développeur
 * [David Leuliette](https://twitter.com/flexbox_), [Développeur Freelance](https://davidl.fr)
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com) 
+* [Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
 
 ### Organisations
 
