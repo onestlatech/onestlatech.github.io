@@ -121,6 +121,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Borreli](https://twitter.com/pborreli), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
