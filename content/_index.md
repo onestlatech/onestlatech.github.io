@@ -104,6 +104,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
+* [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
 * [Jérôme Béhuet](https://jbehuet.fr), Développeur - Freelance - DEEXIT
@@ -122,7 +123,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
-* [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -283,7 +283,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com) 
 * [Mickaël Andrieu](https://twitter.com/mickael_andrieu), Architecte logiciel et formateur [PrestaShop](https://www.prestashop.com)
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
-* [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
+* Camille Douay, data scientist
 
 ### Organisations
 
