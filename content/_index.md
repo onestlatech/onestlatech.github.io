@@ -91,6 +91,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
+* Paul Andrieux, développeur
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
@@ -98,6 +99,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
+* Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
 * Jade Bellereau, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Jacques Billard, Tech Lead à Mediapart
@@ -114,6 +116,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Caroline Chuong, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * Arnaud Combellas, développeur, salarié
+* Coralie Coton, Designeuse
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
 * Thomas Colin, Lead dev
