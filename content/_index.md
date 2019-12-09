@@ -132,6 +132,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * [Arnaud Cojez](https://github.com/arnaudcoj), Game Developper
 * Arnaud Combellas, développeur, salarié
+* [Reginald Costa] (https://twitter.com/Talamasca1894) Product Manager à Mediapart (https://www.mediapart.fr/)
 * Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
