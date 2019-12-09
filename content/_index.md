@@ -297,7 +297,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Assing, développeur
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
-<<<<<<< HEAD
 * [Marc-Aurel Audoin](https://twitter.com/MarcAurel_), développeur
 * Gaëtan Duchaussois, Admin sys
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
@@ -337,9 +336,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
 * [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
-=======
 * [Sylvain Laurent](https://twitter.com/5yLv41n)
->>>>>>> pr/5yLv41n/141
 
 ### Organisations
 
