@@ -121,6 +121,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
 * Thomas Colin, Lead dev
 * [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Amélie Defrance, Intégratrice
 * Justine Delalleau, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](Les-Tilleuls.coop)
@@ -131,6 +132,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pierre Escobar, Freelance
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
+* Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Ludovic Gonthier, Développeur web indépendant
@@ -194,7 +196,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
-* Amélie Defrance, Intégratrice
 
 ### Organisations
 
