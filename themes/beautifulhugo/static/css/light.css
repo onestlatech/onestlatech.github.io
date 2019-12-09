@@ -49,9 +49,11 @@ ul {
     padding-left: 2em;
 }
 
-a, a:visited {
+a:links, a:visited {
     color: #0085a1;
-    text-decoration: none;
+    /* text-decoration: none; */
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
 }
 
 a:hover {
