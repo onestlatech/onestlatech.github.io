@@ -265,7 +265,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Samuel Bodin, Développeur Senior Backend
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
 * [Peio Roth](https://peio.now.sh/), développeur
-
+* [Adriana Nitescu](https://github.com/adreeana), développeur
 
 ### Organisations
 
