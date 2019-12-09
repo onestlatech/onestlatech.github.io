@@ -118,6 +118,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thomas Colin, Lead dev
 * [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Justine Delalleau, [Les-Tilleuls.coop](Les-Tilleuls.coop)
+* Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
