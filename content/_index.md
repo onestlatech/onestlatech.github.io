@@ -1,5 +1,5 @@
 ---
-title: "L'appel"
+title: "Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites"
 date: 2019-12-09T10:44:29+01:00
 draft: false
 ---
