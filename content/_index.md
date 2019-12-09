@@ -286,6 +286,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
+* [Yvan Corsiglia] (https://twitter.com/Striwx) Créateur de Jeux-Vidéo
 
 ### Organisations
 
