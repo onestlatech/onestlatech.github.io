@@ -234,6 +234,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l'[AFUP](https://afup.org/)
 * [Flavien Rodrigues](https://twitter.com/RFlavien), développeur et enseignant, Tiime software
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
+* [Romain (Artwo) Rouault](https://twitter.com/Artwo), Graphiste et Développeur Frontend
 * Gilles Roustan, Développeur à Mediapart
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
