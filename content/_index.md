@@ -195,6 +195,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
 * Colin Maudry, Conseiller indépendant en Open Data
+* [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
