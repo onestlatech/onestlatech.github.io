@@ -263,6 +263,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yannick Snobbert](https://twitter.com/yannicksnobbert), Développeur
 * Olivier Sgoifo, développeur/devops, salarié
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
+* [Gautier Souesme](https://cestca.eu), développeur indépendant, CESTCA SAS
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
