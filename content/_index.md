@@ -217,6 +217,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * Nawo Mbechezi, Développeur 
+* [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
 * [Mehdi Medjaoui](https://twitter.com/medjawii), fondateur de OAuth.io, GDPR.dev et APIdays conferences
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
