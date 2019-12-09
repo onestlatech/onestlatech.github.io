@@ -1,0 +1,85 @@
+body {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #404040;
+    background: #FFF;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 720px;
+    padding: 0 20px;
+}
+
+.page-heading {
+    margin: 2em 0 1em;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+hr.small {
+    max-width: 100px;
+    margin: 15px auto;
+    border-width: 4px;
+    border-color: inherit;
+    border-radius: 3px;
+    border-top: 4px solid #404040;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+p, li {
+    line-height: 1.5;
+    text-align: justify;
+}
+
+ul {
+    padding-left: 2em;
+}
+
+a, a:visited {
+    color: #404040;
+    text-decoration-color: #999;
+    text-decoration-style: dotted;
+}
+
+a:hover {
+    text-decoration-color: #404040;
+}
+
+code {
+    color: #c7254e;
+    background-color: #f9f2f4;
+}
+
+.footer {
+    margin-top: 2em;
+    padding: 2em 0;
+    border-top: 1px solid #ccc;
+    font-size: 0.8em;
+}
+
+.credits {
+    text-align: center;
+}
+
+/** Mobile */
+@media only screen and (max-width: 720px) {
+    .page-heading {
+        font-size: 0.8em;
+    }
+    ul {
+        padding-left: 1em;
+    }
