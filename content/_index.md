@@ -67,7 +67,7 @@ travailleurs aient à choisir entre travailler jusqu'à 64, 65… 70 ans et vivr
 Nous n'acceptons pas ce projet qui nous empêche de nous projeter dans l'avenir, la valeur du point étant fixée par décret.
 
 Nous, développeuses et développeurs, administratrices et administrateurs systèmes, enseignantes et enseignants, chercheuses et chercheurs,
-designers, actrices et acteurs du numérique, du Web et des télécoms qui travaillons pour le service public, dans de grandes entreprises privées, dans des startups,
+designers, product owners, testeuses et testeurs, actrices et acteurs du numérique, du Web et des télécoms qui travaillons pour le service public, dans de grandes entreprises privées, dans des startups,
 dans des coopératives, en tant que salarié ou indépendant affirmons notre opposition à la réforme des retraites proposée par le gouvernement
 et militons à la place pour une réforme reposant sur d'autres bases de répartition des richesses :
 **abaisser l'âge de départ à la retraite et réduire le temps de travail** en mettant
