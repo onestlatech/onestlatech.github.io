@@ -111,6 +111,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Paul Chavard / Freelance / Développeur web / Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](Les-Tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
+* Arnaud Combellas / développeur / salarié
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * Thomas Colin, Lead dev
 * [Gégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](Les-Tilleuls.coop)
