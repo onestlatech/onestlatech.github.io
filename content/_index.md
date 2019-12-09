@@ -126,7 +126,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
-* [Julien Chaumont](https://github.com/julienc91), Lead Developer
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
@@ -236,12 +235,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Marion Tommasi](http://marion.tommasi.free.fr), doctorante
 * Nino Treyssat-Vincent, développeur web
-* Simon Meeschaert, développeur
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * François Vantomme, développeur
 * Guillaume Vigier, Administrateur réseau Mediapart
@@ -250,6 +247,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Séverine Wiltgen, SRE Mediapart
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
+* [Nicolas Ottavi](https://twitter.com/agentdifferent), [Agence Différente](http://new.agence-differente.fr/)
 
 ### Organisations
 
