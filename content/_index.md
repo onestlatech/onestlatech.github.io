@@ -106,6 +106,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Jeremy Barthe, Tech Lead à Mediapart
 * [Quentin Baudet](https://github.com/Thornolf), Développeur 
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Quentin Berlemont, Tech Lead
 * [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * Jacques Billard, Tech Lead à Mediapart
