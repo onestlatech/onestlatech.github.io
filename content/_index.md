@@ -293,6 +293,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
 * [Yvan Corsiglia] (https://twitter.com/Striwx) Créateur de Jeux-Vidéo
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
+* [Clément Delmas](https://www.clementdelmas.fr/)
 
 ### Organisations
 
