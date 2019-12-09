@@ -176,6 +176,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Nicolas Grekas](https://twitter.com/nicolasgrekas), Ingénieur logiciels libres
 * Armaël Guéneau, doctorant en informatique
+* [David Guillot](https://www.contexte.com/equipe/david-guillot-71850.html), lead-dev
 * Aloïs Guillopé, Développeur
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
