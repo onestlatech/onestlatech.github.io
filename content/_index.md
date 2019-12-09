@@ -113,6 +113,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * [Thomas Berriot](https://twitter.com/tberriot), [SCOP Incaya](https://www.incaya.fr)
+* [Yohann Berthon] (https://github.com/ybert), Développeur chez Openrunner
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
