@@ -3,3 +3,8 @@ defaultContentLanguage = "fr"
 languageCode = "fr-fr"
 title = "Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites"
 theme = "beautifulhugo"
+
+[[menu.main]]
+    name = "À propos"
+    url = "a-propos/"
+    weight = 1
