@@ -440,7 +440,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Tom Berriot](https://twitter.com/BerriotTom), Développeur
 * [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
 * [Nicolas Doby](https://framasphere.org/people/2df72c708792013707d42a0000053625), Développeur chez [IT's On Us](https://www.itsonus.fr/)
-* [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * Jonas Faure, développeur, salarié
 * [Benoit Galati](https://www.bgalati.fr), développeur
 * [Valentin Nourdin](https://www.linkedin.com/in/vnourdin/) Data Engineer
@@ -452,9 +451,9 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Xavier Borderie](https://xavier.borderie.net) Head of Content
 * [Nicolas CHRÉTIEN](https://www.linkedin.com/in/nicolas-chretien-dev974), Développeur, Salarié
 * [Anthony Perron](https://anthony-perron.fr) Développeur Freelance
-* [Laura Dumont], Développeuse
+* Laura Dumont, Développeuse
 * [Marc Brillault](https://twitter.com/MarcBrillault), développeur
-* [Nicolas BROUET], Lead Dev
+* Nicolas BROUET, Lead Dev
 * [Thierry Geindre](https://github.com/t-geindre), développeur
 * Yann Collobert, administrateur linux
 * [Dorian Bussi](https://github.com/bussidn) Crafter
@@ -503,10 +502,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jennifer Proust](https://github.com/proustibat), front end developer
 * Mickaël Goasdoué, Manager Support & Engineering
 * [Aurélien MAGNE](https://www.linkedin.com/in/amagne/), Consultant chez Business&Decision
-* [Pierre Ducroquet], Lead DBA @ PeopleDoc by UltimateSoftware
+* Pierre Ducroquet, Lead DBA @ PeopleDoc by UltimateSoftware
 * [Pierre Bousquié](https://yaal.fr), Développeur chez Yaal
 * [Pierre Bertrand](https://twitter.com/PbnPierre), développeur web @ Deezer
-* [Flavie Pérette], DBA @ PeopleDoc by UltimateSoftware
+* Flavie Pérette, DBA @ PeopleDoc by UltimateSoftware
 * [Cédric Temple](https://blog.cedrictemple.net), Responsable des Architectures Techniques et du Support, [Videomuseum](https://www.videomuseum.fr)
 * [Thibaud DAVID](https://twitter.com/thibauddavid) iOS | Android | Software Engineer
 * Michael BIGOT, Tech Lead @ Smile
@@ -560,7 +559,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Marc Planard](https://twitter.com/corpsmoderne), développeur - directeur pédagogique adjoint
 * [Vincent JOBARD](https://www.linkedin.com/in/vinzjobard/), Ingénieur Système Agile
 * [Gee](https://ptilouk.net/), développeur et auteur libre
-* [Christophe MICHEL](https://github.com/christopheml/), Développeur, salarié
 * [Victor Héry](https://mamot.fr/@victorhery) Administrateur système
 * [Nicolas Chevobbe](nicolaschevobbe.com) Developpeur, Mozilla
 * [Eric Bréhault](https://twitter.com/ebrehault), développeur web
@@ -644,6 +642,63 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Marc Plessis](https://github.com/mplessis), Développeur Logiciel chez Legrand France
 * Camila Pedraza, Spécialiste Localization
 * [Stéphane Raimbault](https://github.com/stephane), développeur freelance [Webstack](https://webstack.fr)
+* [Benjamin Gammaire](https://twitter.com/be3nj), développeur freelance
+* Camile Daniel, développeuse chez [Yaal](https://yaal.fr/)
+* [Gary Houbre](https://twitter.com/garyhoubre), Expert Technique PHP Symfony / Laravel
+* [Glen Struillou](https://glenstruillou.com/), développeur web chez [Yes We Dev](https://yeswedev.bzh/)
+* Marie Comet, développeuse web
+* Thibaut Gavard, Développeur chez OAB
+* [Rémi Labergère](https://twitter.com/Rems0511/), Développeur
+* Claire Dhénin, Ingénieure Full Stack chez Misakey - 
+* [Sylvain Paley](http://sylvainpaley.cool), [Société Nouvelle](http://lasocietenouvelle.com)
+* [Bruno Adelé](http://bruno.adele.im), DevOps - [Bruno Adelé](http://bruno.adele.im), DevOps
+* MARTIN Florent, Ingénieur système
+* [Dorian GRANDHAY](twitter.com/dgrandhay), Ingénieur système
+* Harry Pommier, développeur chez Zenika Nantes
+* [Kévin Grenier](https://github.com/mcsky), Développeur BACK
+* [Antoine Plu](https://twitter.com/AntoinePlu), Designer
+* [Olivier Rogier](https://twitter.com/ordisoftware), Analyste-programmeur
+* Sébastien allemand - Dev & ops soprasteria
+* Corentin André, Software Engineer
+* [Anthony Martin](https://twitter.com/Spidlace), Développeur web
+* [Pierre-Luc Paour](https://mytrails.app), Développeur - 
+* [Sébastien Binet](https://github.com/sbinet), Ingénieur recherche, CNRS
+* Philippe Cheminel, Développeur
+* Suliac Le Guillou, freelance
+* Pierre-Antoine Burdet, Développeur
+* Côme Gaillard, Creative développeur chez Mazarine Digitale
+* [Victoria DOMINGUEZ DEL A](https://orcid.org/0000-0002-5514-6651), Bioinformaticien
+* Nico Prat, développeur indépendant
+* [Nicolas Dandrimont](https://twitter.com/olasd), Ingénieur chez [Software Heritage](https://softwareheritage.org/) et Développeur [Debian](https://www.debian.org/).
+* Bernard Massot, administrateur systèmes
+* [Julien Leicher](https://julien.leicher.me), Développeur indépendant
+* Julien Kergourlay, Sécurité & reverse proxy
+* [Jared Lethal aka Oz](https://pipou.academy/@Oz), UI/UX designer / intégrateur chez Fière Allure
+* [Stéphane Colson](https://testingit.eu), Testeur logiciel indépendant - 
+* [Paul Le Corre](https://github.com/polc), Développeur
+* [Greco Jonathan](https://www.linkedin.com/in/jonathan-greco-296989b6/)Développeur web full stack - [Greco Jonathan](https://www.linkedin.com/in/jonathan-greco-296989b6/)Développeur web full stack
+* Elsa IGUEDJTAL, Agile Swiss Knife (Scrum Master, Coach Agile), InfoCom-CGT
+* [Arnaud Beloeil](https://github.com/abeloeil), Développeur full-stack
+* Samuel Doring, Analyste Fonctionnel, CTG P.S.F. Luxembourg
+* Youssef BOUJALLAB - 100% Agree
+* Yoann JAUFFROY, Développeur frontend - Yoann JAUFFROY, Développeur frontend
+* [Benoit AVERTY](https://github.com/BenoitAverty), Developpeur
+* [Gaël Pasgrimaud](https://twitter.com/gawel_), développeur et sociétaire chez [Bearstech SCOP](https://bearstech.com) - [Gaël Pasgrimaud](https://twitter.com/gawel_), développeur et sociétaire chez [Bearstech SCOP](https://bearstech.com)
+* [Claire Villard](https://twitter.com/neur0nia), Développeuse
+* [Victoria Dominguez](https://github.com/vdda), Bioinformatics
+* [Matthieu Herrb](https://mastodon.tetaneutral.net/@mherrb) Ingénieur de recherche
+* Salah Khouildi, lead dev
+* [Alyson Amourette](https://twitter.com/_celestialaly), Lead développeuse Symfony
+* Nicolas Solal
+* Katie Palluault - [Formatrice indépendante en informatique](https://www.formation.cultures-etic.entrezsansfrapper.org/)
+* [Thomas Constans](https://opendoor.fr), sysadmin / consultant linux
+* [Allan Floury](https://www.linkedin.com/in/allanfloury/), Fondateur [Poi](https://poi.app) & Product Designer - 
+* Bernard Laurant, coach en création logiciel
+* Philippe Makowski
+* [Albert de Pétigny](https://twitter.com/adepetigny), Éditeur
+* [Julien Barnier](https://data.nozav.org), développeur
+* Albin Suplisson, DevOps chez OVH
+* [thierry-FreeBSD](https://github.com/thierry-FreeBSD), informaticien de la région lyonnaise.
 
 ### Organisations
 
