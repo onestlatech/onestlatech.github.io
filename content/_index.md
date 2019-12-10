@@ -245,6 +245,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Adriana Nitescu](https://github.com/adreeana), développeur
 * Fabrice Nourisson, développeur, salarié
 * [Nicolas Ottavi](https://twitter.com/agentdifferent), [Agence Différente](http://new.agence-differente.fr/)
+* Stéphanie Ouillon, ingénieure sécurité
 * Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
