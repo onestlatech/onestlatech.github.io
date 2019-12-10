@@ -95,7 +95,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
-* [Rémi Andrieux](https://github.com/pimolo), développeur web
+* [Rémi Andrieux](https://github.com/pimolo), développeur web818397
 * Paul Andrieux, développeur
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -355,7 +355,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * Julien Manganne, Développeur
-
+* [Gilles Mioni] (https://github.com/GillesMioni), Chef de projet, retraité
 ### Organisations
 
 * [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
