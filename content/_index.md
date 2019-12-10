@@ -275,6 +275,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Guillaume Ponty](https://twitter.com/PontyGuillaume)
 * [Maxime Rouquet](https://twitter.com/marou_pp), Développeur de jeux vidéos, ancien président du Parti Pirate
 * Gilles Roustan, Développeur à Mediapart
+* [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
 * [Mathieu Santostefano](https://twitter.com/welcomattic), développeur web chez [JoliCode](https://jolicode.com)
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Pierre Stazak, développeur web
