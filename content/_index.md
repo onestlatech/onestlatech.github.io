@@ -180,7 +180,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Clément Gibaud](https://twitter.com/cleming_), Administrateur système
 * [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
-* Thomas Goldstein, Développeur
+* [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
 * Nicolas Gomes, Développeur Web
 * Ludovic Gonthier, Développeur web indépendant
 * Baptiste Goulard, Développeur web
