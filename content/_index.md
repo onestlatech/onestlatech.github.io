@@ -107,7 +107,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thierry Banel
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
-* [Fabien Bataille], Développeur
+* Fabien Bataille, Développeur
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
 * [Guillaume Bec](https://twitter.com/Bes_fr)
 * Nina Belaid, Chercheuse en biochimie
@@ -417,7 +417,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Fabrice Michellonet](https://twitter.com/MyMemoryLeaks), Lead Dev. Azure, [Scop-it](http://www.scop-it.com/)
 * [Stephan Simart](https://twitter.com/stifoon), responsable R&D autour de [navitia](https://www.navitia.io)
 * Daisy Leroy, Développeuse web, freelance
-* [Romain Bousseau], Développeur Web
+* Romain Bousseau, Développeur Web
 * [Joris BOQUET](https://louifox.house), Ingénieur Système et bidouilleur du quotidien
 * [Enguerran Colson](https://blog.ticabri.com), artisan développeur
 * Henri Gauffriau, développeur web
@@ -426,7 +426,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Fabien Dumas, Développeur Web
 * [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
 * Sébastien Delcoigne, Développeur
-* [Mathieu Delhay], développeur web
+* Mathieu Delhay, développeur web
 * [Guillaume Lacasa](https://blog.lacasa.fr), développeur indépendant
 * Nicolas Mérigot, développeur, membre du collectif [Happy dev](https://www.happy-dev.fr)
 * Fréderic Rannou, developpeur web
