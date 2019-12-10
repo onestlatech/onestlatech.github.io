@@ -382,6 +382,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* Demangeon Julien, Développeur
 
 ### Organisations
 
