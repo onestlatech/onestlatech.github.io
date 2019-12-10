@@ -348,13 +348,14 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
 * [Xavier Seignard](https://drangies.fr/), développeur web
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
-* [Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
+* [Cyrille Martraire](https://twitter.com/cyriux), développeur, CTO
 * [Sylvain Laurent](https://twitter.com/5yLv41n)
 * [Mathieu Wostyn](https://m.g3l.org/@mathieu), (chat-)touilleur digital (mais néanmoins agitateur numérique)
 * [Renan de Lima](https://twitter.com/renanoriginal), Développeur
 * [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * Julien Manganne, Développeur
+* [Julien 'Lta' BALLET](https://github.com/elthariel), Dev, Ops, Entrepreneur
 * Yves Bourguignon, administrateur système
 * [Jérémy Gay](https://exostic.com), Développeur, CEO
 * [Nicolas Fédou](https://twitter.com/CoulasFedou), Lead Développeur 
