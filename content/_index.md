@@ -353,6 +353,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Wostyn](https://m.g3l.org/@mathieu), (chat-)touilleur digital (mais néanmoins agitateur numérique)
 * [Renan de Lima](https://twitter.com/renanoriginal), Développeur
 * [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
+* [Michel Guillou](https:/twitter.com/michelguillou), Observateur
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * Julien Manganne, Développeur
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
