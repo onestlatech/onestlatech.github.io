@@ -370,10 +370,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Khrys](https://mamot.fr/@Khrys/), touillette bénévole chez [FDN](https://fdn.fr), [FédérationFDN](https://ffdn.org) et [Parinux](https://parinux.org/)
 * [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
 * [Antoine Abt](https://twitter.com/brankgnol), Développeur web
-* [Gilles Mioni] (https://github.com/GillesMioni), Chef de projet, retraité
-* [Jacques Abadie], Solidaires informatique IDF
+* [Gilles Mioni](https://github.com/GillesMioni), Chef de projet, retraité
+* Jacques Abadie, Solidaires informatique IDF
 * Marius Ghislain, Développeur
-* [Lucie Steiblé], linguiste programmeuse
+* Lucie Steiblé, linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 
 ### Organisations
