@@ -439,11 +439,15 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jennifer Proust](https://github.com/proustibat), front end developer
 * [Tom Berriot](https://twitter.com/BerriotTom), Développeur
 * [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
+* [Nicolas Doby](https://framasphere.org/people/2df72c708792013707d42a0000053625), Développeur chez [IT's On Us](https://www.itsonus.fr/)
+* [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* Jonas Faure, développeur, salarié
 
 ### Organisations
 
 * [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
 * [Syndicat de l'industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
+* [Syndicat Interprofessionnel de la Presse, des Médias, de la Culture et du Spectacle-CNT-f](https://twitter.com/SIPMCS_CNT), [Site](http://www.cnt-f.org/sipm/)
 
 ## À propos
 
