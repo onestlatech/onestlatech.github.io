@@ -1,1 +1,0 @@
-[Stéphane Erard](https://twitter.com/sterard_), Développeur

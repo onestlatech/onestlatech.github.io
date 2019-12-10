@@ -1,1 +1,0 @@
-Nina Belaid, Chercheuse en biochimie

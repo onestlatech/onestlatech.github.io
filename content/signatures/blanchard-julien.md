@@ -1,1 +1,0 @@
-Julien Blanchard, Développeur

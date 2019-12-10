@@ -1,1 +1,0 @@
-Lonny Loquesol, Développeur Web

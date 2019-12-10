@@ -1,1 +1,0 @@
-Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)

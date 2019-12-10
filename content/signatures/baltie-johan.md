@@ -1,1 +1,0 @@
-[Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur

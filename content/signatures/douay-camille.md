@@ -1,1 +1,0 @@
-Camille Douay, data scientist

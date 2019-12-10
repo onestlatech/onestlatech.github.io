@@ -1,1 +1,0 @@
-[Maximilien Bernard](https://github.com/mb3rnard), Développeur web

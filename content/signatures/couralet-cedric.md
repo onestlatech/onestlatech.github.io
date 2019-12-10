@@ -1,1 +1,0 @@
-Cédric Couralet, développeur 

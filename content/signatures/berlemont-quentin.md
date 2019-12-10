@@ -1,1 +1,0 @@
-Quentin Berlemont, Tech Lead

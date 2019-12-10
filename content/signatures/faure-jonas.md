@@ -1,1 +1,0 @@
-Jonas Faure, développeur, salarié

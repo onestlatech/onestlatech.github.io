@@ -1,1 +1,0 @@
-[Clément Delmas](https://www.clementdelmas.fr/)

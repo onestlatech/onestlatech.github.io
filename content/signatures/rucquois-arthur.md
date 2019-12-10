@@ -1,1 +1,0 @@
-Arthur Rucquois, Développeur indigné

@@ -1,1 +1,0 @@
-Henri Gauffriau, développeur web

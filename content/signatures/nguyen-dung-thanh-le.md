@@ -1,1 +1,0 @@
-[Lê Thành Dũng Nguyễn](https://nguyentito.eu/), doctorant en informatique

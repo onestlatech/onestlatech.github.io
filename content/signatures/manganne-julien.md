@@ -1,1 +1,0 @@
-Julien Manganne, Développeur

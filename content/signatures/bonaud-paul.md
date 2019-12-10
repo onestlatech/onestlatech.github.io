@@ -1,1 +1,0 @@
-Paul Bonaud, Ingénieur Logiciel

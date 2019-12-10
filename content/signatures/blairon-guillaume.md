@@ -1,1 +1,0 @@
-[Guillaume Blairon](https://twitter.com/_yom_), engineering manager

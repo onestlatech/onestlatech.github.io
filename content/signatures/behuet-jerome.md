@@ -1,1 +1,0 @@
-[Jérôme Béhuet](https://jbehuet.fr), Développeur - Freelance - DEEXIT

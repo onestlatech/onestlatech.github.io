@@ -1,1 +1,0 @@
-[Mathieu Delhay], développeur web

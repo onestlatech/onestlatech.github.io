@@ -1,1 +1,0 @@
-Benoit Delesalle, Développeur Backend, Synbioz

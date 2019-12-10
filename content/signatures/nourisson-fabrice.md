@@ -1,1 +1,0 @@
-Fabrice Nourisson, développeur, salarié

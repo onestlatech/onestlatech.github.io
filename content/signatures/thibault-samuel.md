@@ -1,1 +1,0 @@
-[Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur

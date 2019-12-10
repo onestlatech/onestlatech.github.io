@@ -1,1 +1,0 @@
-Pierre Kuhner, Ingénieur sécurité

@@ -1,1 +1,0 @@
-Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)

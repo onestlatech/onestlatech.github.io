@@ -1,1 +1,0 @@
-[Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié

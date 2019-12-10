@@ -1,1 +1,0 @@
-Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops

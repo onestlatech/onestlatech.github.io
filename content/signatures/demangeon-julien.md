@@ -1,1 +1,0 @@
-Demangeon Julien, Développeur

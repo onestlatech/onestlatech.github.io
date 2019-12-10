@@ -1,1 +1,0 @@
-Aloïs Guillopé, Développeur

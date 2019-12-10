@@ -1,1 +1,0 @@
-[Thomas Nieto](https://twitter.com/tbenett_), développeur

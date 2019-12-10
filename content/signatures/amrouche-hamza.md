@@ -1,1 +1,0 @@
-[Hamza Amrouche](http://simperfit.fr/)

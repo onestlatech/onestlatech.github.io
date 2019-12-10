@@ -1,1 +1,0 @@
-[Paul Kocialkowski](https://www.paulk.fr), développeur

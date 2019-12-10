@@ -1,1 +1,0 @@
-[Franck Matsos](https://twitter.com/fmatsos), Développeur Web

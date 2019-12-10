@@ -1,1 +1,0 @@
-Lucie Steiblé, linguiste programmeuse

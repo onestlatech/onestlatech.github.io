@@ -1,1 +1,0 @@
-Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)

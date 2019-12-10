@@ -1,1 +1,0 @@
-Jacques Billard, Tech Lead à Mediapart

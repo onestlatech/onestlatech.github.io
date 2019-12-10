@@ -1,1 +1,0 @@
-Adrien Agez, développeur web

@@ -1,1 +1,0 @@
-[Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur

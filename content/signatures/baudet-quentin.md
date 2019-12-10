@@ -1,1 +1,0 @@
-[Quentin Baudet](https://github.com/Thornolf), Développeur 

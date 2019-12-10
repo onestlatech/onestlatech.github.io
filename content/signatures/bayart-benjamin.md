@@ -1,1 +1,0 @@
-[Benjamin Bayart](https://edgard.fdn.fr/cv.html)

@@ -1,1 +1,0 @@
-Gaëtan Duchaussois, Admin sys

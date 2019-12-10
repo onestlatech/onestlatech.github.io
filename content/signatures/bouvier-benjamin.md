@@ -1,1 +1,0 @@
-[Benjamin Bouvier](https://github.com/bnjbvr), Développeur

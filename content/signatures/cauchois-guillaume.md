@@ -1,1 +1,0 @@
-Guillaume Cauchois, Développeur Full-Stack

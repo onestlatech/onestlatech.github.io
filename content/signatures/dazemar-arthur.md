@@ -1,1 +1,0 @@
-Arthur d'Azémar, Développeur

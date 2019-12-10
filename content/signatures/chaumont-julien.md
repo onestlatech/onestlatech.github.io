@@ -1,1 +1,0 @@
-[Julien Chaumont](https://github.com/julienc91), Lead Developer

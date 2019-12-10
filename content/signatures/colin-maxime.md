@@ -1,1 +1,0 @@
-[Maxime Colin](https://github.com/maximecolin), Développeur Web

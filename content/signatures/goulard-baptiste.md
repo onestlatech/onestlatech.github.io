@@ -1,1 +1,0 @@
-Baptiste Goulard, Développeur web

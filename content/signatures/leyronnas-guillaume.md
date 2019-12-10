@@ -1,1 +1,0 @@
-Guillaume Leyronnas, tech lead

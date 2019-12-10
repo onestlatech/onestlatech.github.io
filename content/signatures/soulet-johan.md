@@ -1,1 +1,0 @@
-[Johan Soulet](https://twitter.com/johansoulet), développeur

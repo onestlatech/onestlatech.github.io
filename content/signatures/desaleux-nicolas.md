@@ -1,1 +1,0 @@
-Nicolas Desaleux, Lead dev

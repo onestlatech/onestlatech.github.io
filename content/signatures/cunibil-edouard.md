@@ -1,1 +1,0 @@
-[Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)

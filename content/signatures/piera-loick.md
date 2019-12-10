@@ -1,1 +1,0 @@
-[Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)

@@ -1,1 +1,0 @@
-Yohann Godefroy, Développeur Web
