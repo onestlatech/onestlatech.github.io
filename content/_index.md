@@ -211,6 +211,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
+* [Véronique Lapierre](https://mastodon.social/web/accounts/35071#), Conceptrice ; AMOA
 * Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
