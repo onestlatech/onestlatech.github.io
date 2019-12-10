@@ -706,6 +706,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Karine Philippot, développeuse, INVOKE
 * Gilbert Guillou, Concepteur-Développeur (full stack)
 * Anthony Loizeau, Développeur Web
+* Régis L'Hostis, Consultant et formateur Outils numériques, Windtopik.fr
 
 ### Organisations
 
