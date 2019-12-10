@@ -1,1 +1,1 @@
-[Cyrille Martraire](https://twitter.com/cyriux), développer, CTO
+[Cyrille Martraire](https://twitter.com/cyriux), développeur, CTO
