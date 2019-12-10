@@ -140,7 +140,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
-* [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
+* [Valentin Claras](https://github.com/valentin-claras), Lead Dev
 * Arnaud Combellas, développeur, salarié
 * [Reginald Costa](https://twitter.com/Talamasca1894) Product Manager à [Mediapart](https://www.mediapart.fr/)
 * Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)
