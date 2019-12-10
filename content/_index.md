@@ -356,6 +356,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * Julien Manganne, Développeur
 * [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
+* [Antoine Abt](https://twitter.com/brankgnol), Développeur web
+* [Gilles Mioni] (https://github.com/GillesMioni), Chef de projet, retraité
+* [Jacques Abadie], Solidaires informatique IDF
+* Marius Ghislain, Développeur
+* [Lucie Steiblé], linguiste programmeuse
+* [Florian FERRIERE](https://github.com/fferriere), Développeur
 
 ### Organisations
 
