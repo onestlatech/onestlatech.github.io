@@ -81,8 +81,8 @@ En conséquence, nous appelons :
 
 ## Signez !
 
-[**Signez cet appel en ajoutant votre nom à ce document**](https://github.com/onestlatech/onestlatech.github.io/edit/content/content/_index.md).
-Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre signature **à la fin de la liste**), cliquez sur `Propose file change`, puis sur `Create pull request`, et encore une fois sur `Create pull request`.
+[**Signez cet appel en laissant votre nom dans une "issue" sur notre dépôt GitHub**](https://github.com/onestlatech/onestlatech.github.io/issues/new).
+Pour ce faire, créez un compte GitHub.com (si vous n'en avez pas), ajoutez vos informations et cliquez sur `Submit new issue`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
@@ -378,12 +378,16 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Lucie Steiblé, linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
+* Guillaume Leyronnas, tech lead
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * [Vincent Caron](https://bearstech.com), développeur, adminsys, sociétaire chez Bearstech SCOP
+* [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
+* [Matt Marcha](https://github.com/Aveias), Développeur web
+* Demangeon Julien, Développeur
 
 ### Organisations
 
