@@ -383,6 +383,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* [Xavier Mouton-Dubosc](https://dascritch.net), Développeur et product-owner de [CPU](http://cpu.pm)
 
 ### Organisations
 
