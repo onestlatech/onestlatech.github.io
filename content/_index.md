@@ -390,6 +390,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* [Stephan Simart](https://twitter.com/stifoon), responsable R&D autour de [navitia](https://www.navitia.io)
 * Daisy Leroy, Développeuse web, freelance
 * [Romain Bousseau], Développeur Web
 * [Joris BOQUET](https://louifox.house), Ingénieur Système et bidouilleur du quotidien
