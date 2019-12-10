@@ -356,6 +356,20 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * Julien Manganne, Développeur
 * [Simon Bée](https://github.com/simon-bee), Développeur web
+* [Jérémy Gay](https://exostic.com), Développeur, CEO
+* [Nicolas Fédou](https://twitter.com/CoulasFedou), Lead Développeur 
+* François Barbe, tech lead
+* [Tanguy Falconnet](https://github.com/tanguyfalconnet), DevOpsDev
+* [Rémi Jarjat](https://www.twitter.fr/dreeckan), [Drakona](https://www.drakona.fr)
+* [Emmanuelle Helly](https://mastodon.tetaneutral.net/@numahell), Développeuse salariée
+* [Khrys](https://mamot.fr/@Khrys/), touillette bénévole chez [FDN](https://fdn.fr), [FédérationFDN](https://ffdn.org) et [Parinux](https://parinux.org/)
+* [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
+* [Antoine Abt](https://twitter.com/brankgnol), Développeur web
+* [Gilles Mioni] (https://github.com/GillesMioni), Chef de projet, retraité
+* [Jacques Abadie], Solidaires informatique IDF
+* Marius Ghislain, Développeur
+* [Lucie Steiblé], linguiste programmeuse
+* [Florian FERRIERE](https://github.com/fferriere), Développeur
 
 ### Organisations
 
