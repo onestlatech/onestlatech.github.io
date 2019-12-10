@@ -411,6 +411,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
 * [Matt Marcha](https://github.com/Aveias), Développeur web
 * Demangeon Julien, Développeur
+* [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
 
 ### Organisations
 
