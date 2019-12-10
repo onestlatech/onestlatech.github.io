@@ -396,6 +396,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* [Olivier Mairet](https://github.com/olivmai), développeur web
 * [Corentin Grard](https://github.com/CorentinGrard), Développeur, IBM
 * Perrine Bocquin, Intégratrice
 * [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
