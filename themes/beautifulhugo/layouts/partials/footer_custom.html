@@ -2,3 +2,8 @@
 If you want to include any custom html just before </body>, put it in /layouts/partials/footer_custom.html
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/footer_custom.html doesn't exist.
 -->
+<script>
+    const labelElement = document.getElementById('signataires');
+    const signatoriesNumber = document.querySelectorAll('li').length - 5; // cause there are 5 others li in the text
+    labelElement.textContent = `${signatoriesNumber} ${labelElement.textContent}`
+</script>
