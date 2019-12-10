@@ -641,6 +641,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Tristan Helík, ingénieur réseaux
 * [Marc Plessis](https://github.com/mplessis), Développeur Logiciel chez Legrand France
 * Camila Pedraza, Spécialiste Localization
+* [Stéphane Raimbault](https://github.com/stephane), développeur freelance [Webstack](https://webstack.fr)
 * [Benjamin Gammaire](https://twitter.com/be3nj), développeur freelance
 * Camile Daniel, développeuse chez [Yaal](https://yaal.fr/)
 * [Gary Houbre](https://twitter.com/garyhoubre), Expert Technique PHP Symfony / Laravel
