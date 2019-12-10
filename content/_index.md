@@ -389,6 +389,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* [Joris BOQUET](https://louifox.house), Ingénieur Système et bidouilleur du quotidien
 * [Enguerran Colson](https://blog.ticabri.com), artisan développeur
 * Henri Gauffriau, développeur web
 * [David Bocquet](http://zewebmaster.fr), Développeur web
