@@ -177,6 +177,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Yohann Gablowski, Développeur Web
+* [Adrian Gaudebert](http://adrian.gaudebert.fr/), Développeur Web, Mozilla
 * Delphine Gauthier, Développeuse Web
 * [Clément Gibaud](https://twitter.com/cleming_), Administrateur système
 * [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
