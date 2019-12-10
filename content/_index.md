@@ -393,6 +393,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
 * [Matt Marcha](https://github.com/Aveias), Développeur web
 * Demangeon Julien, Développeur
+* [Thomas Bracher](https://twitter.com/sadraskol), Ingénieur logiciel
 
 ### Organisations
 
