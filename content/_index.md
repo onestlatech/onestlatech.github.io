@@ -257,6 +257,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mickael Prevot](https://twitter.com/mick_prev), Lead Developer [norsys](https://www.norsys.fr)
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nicolas Quéquet, développeur
+* [Christian Quest](https://twitter.com/cq94), dev/sys/data 
 * Tristan Prudhomme, Développeur, Max Digital Services
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla
