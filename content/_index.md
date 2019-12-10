@@ -378,6 +378,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Lucie Steiblé, linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
+* Guillaume Leyronnas, tech lead
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
