@@ -81,7 +81,7 @@ En conséquence, nous appelons :
 
 ## Signez !
 
-[**Signez cet appel en laissant votre nom dans une "issue" sur notre dépôt GitHub**](hhttps://github.com/onestlatech/onestlatech.github.io/issues/new).
+[**Signez cet appel en laissant votre nom dans une "issue" sur notre dépôt GitHub**](https://github.com/onestlatech/onestlatech.github.io/issues/new).
 Pour ce faire, créez un compte GitHub.com (si vous n'en avez pas), ajoutez vos informations et cliquez sur `Submit new issue`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
