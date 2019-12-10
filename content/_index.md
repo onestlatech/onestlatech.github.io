@@ -385,7 +385,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
-* [Mathieu Delhay], développeur web
 * [Guillaume Lacasa](https://blog.lacasa.fr), développeur indépendant
 * Nicolas Mérigot, développeur, membre du collectif [Happy dev](https://www.happy-dev.fr)
 * Fréderic Rannou, developpeur web
@@ -394,6 +393,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
 * [Matt Marcha](https://github.com/Aveias), Développeur web
 * Demangeon Julien, Développeur
+* Guillaume Sebilleau expert Ged
 
 ### Organisations
 
