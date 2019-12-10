@@ -81,10 +81,9 @@ En conséquence, nous appelons :
 
 ## Signez !
 
-**Signez cet appel**
 
-* avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new), ajoutez vos informations et cliquez sur `Submit new issue`.
-* si vous n'avez pas de compte, vous pouvez signer en nous envoyant un email à onestlatech@protonmail.com
+* **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new), ajoutez vos informations et cliquez sur `Submit new issue`.
+* ou si vous n'avez pas de compte, signez en nous envoyant un email à onestlatech@protonmail.com
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
