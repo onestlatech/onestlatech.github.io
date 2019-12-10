@@ -136,7 +136,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Guillaume Cauchois, Développeur Full-Stack
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
-* [Julien Chaumont](https://github.com/julienc91), Lead Developer
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
@@ -371,12 +370,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Khrys](https://mamot.fr/@Khrys/), touillette bénévole chez [FDN](https://fdn.fr), [FédérationFDN](https://ffdn.org) et [Parinux](https://parinux.org/)
 * [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
 * [Antoine Abt](https://twitter.com/brankgnol), Développeur web
-* [Gilles Mioni](https://github.com/GillesMioni), Chef de projet, retraité
-* Jacques Abadie, Solidaires informatique IDF
+* [Gilles Mioni] (https://github.com/GillesMioni), Chef de projet, retraité
+* [Jacques Abadie], Solidaires informatique IDF
 * Marius Ghislain, Développeur
-* Lucie Steiblé, linguiste programmeuse
+* [Lucie Steiblé], linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
-* [Franck Matsos](https://twitter.com/fmatsos), Développeur web
+* [Pascal Roux](https://github.com/pizzavomito), Développeur
 
 ### Organisations
 
