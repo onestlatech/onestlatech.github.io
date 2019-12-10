@@ -87,7 +87,7 @@ En conséquence, nous appelons :
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
-## Signataires
+## signataires
 
 ### Actrices et acteurs du numérique
 
