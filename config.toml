@@ -1,7 +1,7 @@
 baseURL = "https://onestla.tech/"
 defaultContentLanguage = "fr"
 languageCode = "fr-fr"
-title = "onestla.tech"
+title = "✊ onestla.tech"
 theme = "beautifulhugo"
 
 [[Params]]
