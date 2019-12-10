@@ -1,0 +1,1 @@
+Pauline Roca, Salariée, data-scientiste, Pixyl (medtech)

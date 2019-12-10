@@ -1,0 +1,1 @@
+Jérémy Huard, Dévellopeur web, [Doeo](https://doeo.fr)

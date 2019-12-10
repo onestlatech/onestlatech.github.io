@@ -1,0 +1,1 @@
+Armaël Guéneau, doctorant en informatique

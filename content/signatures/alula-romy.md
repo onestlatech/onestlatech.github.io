@@ -1,0 +1,1 @@
+Romy Alula, développeuse, salariée

@@ -1,0 +1,1 @@
+Guillaume Subiron, Administrateur système, cogérant de [Sysnove](https://www.sysnove.fr)

@@ -1,0 +1,1 @@
+[Maxime Steinhausser](https://github.com/ogizanagi), développeur

@@ -1,0 +1,1 @@
+[Adriana Nitescu](https://github.com/adreeana), développeur

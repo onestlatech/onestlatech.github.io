@@ -1,0 +1,1 @@
+[Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique

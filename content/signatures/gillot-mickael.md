@@ -1,0 +1,1 @@
+[Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline

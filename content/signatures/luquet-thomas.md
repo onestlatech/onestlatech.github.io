@@ -1,0 +1,1 @@
+[Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
