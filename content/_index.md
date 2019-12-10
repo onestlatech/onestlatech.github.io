@@ -142,7 +142,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * Arnaud Combellas, développeur, salarié
-* [Reginald Costa](https://twitter.com/Talamasca1894) Product Manager à [Mediapart](https://www.mediapart.fr/)
+* [Reginald Costa] (https://twitter.com/Talamasca1894) Product Manager à Mediapart (https://www.mediapart.fr/)
 * Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
@@ -297,7 +297,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nino Treyssat-Vincent, développeur web
-* Simon Meeschaert, développeur
+* [Simon Meeschaert](https://twitter.com/SimonMeeschaert), développeur web
 * Olivier Vallée, développeur
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * François Vantomme, développeur
@@ -379,10 +379,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
-* [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
+* [Martin Guilloux] (https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
-* Yohann Godefroy, Développeur Web
-* [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 
 ### Organisations
 
