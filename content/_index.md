@@ -130,6 +130,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
+* [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
