@@ -355,6 +355,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * Julien Manganne, Développeur
+* [Khrys](https://mamot.fr/@Khrys/), touillette bénévole chez [FDN](https://fdn.fr), [FédérationFDN](https://ffdn.org) et [Parinux](https://parinux.org/)
 
 ### Organisations
 
