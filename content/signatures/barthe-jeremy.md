@@ -1,1 +1,0 @@
-Jeremy Barthe, Tech Lead à Mediapart

@@ -1,1 +1,0 @@
-Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)

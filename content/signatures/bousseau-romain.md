@@ -1,1 +1,0 @@
-[Romain Bousseau], Développeur Web

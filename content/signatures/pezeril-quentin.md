@@ -1,1 +1,0 @@
-Quentin Pezeril, testeur

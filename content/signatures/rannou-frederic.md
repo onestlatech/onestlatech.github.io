@@ -1,1 +1,0 @@
-Fréderic Rannou, developpeur web

@@ -1,1 +1,0 @@
-[Guillaume Bec](https://twitter.com/Bes_fr)

@@ -1,1 +1,0 @@
-[Guillaume Litaudon](https://yom.li/), développeur web, consultant et philosophe

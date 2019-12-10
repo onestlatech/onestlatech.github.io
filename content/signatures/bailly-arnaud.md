@@ -1,1 +1,0 @@
-Arnaud Bailly, Développeur

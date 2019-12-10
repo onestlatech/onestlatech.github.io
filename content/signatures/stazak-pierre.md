@@ -1,1 +1,0 @@
-Pierre Stazak, développeur web

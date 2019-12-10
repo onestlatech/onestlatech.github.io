@@ -1,1 +1,0 @@
-Pierre Escobar, Freelance

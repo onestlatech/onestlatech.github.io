@@ -1,1 +1,0 @@
-[Thomas Colin](http://thcol.in/#about), [Troopers.agency](https://troopers.agency/fr/)

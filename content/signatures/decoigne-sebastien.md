@@ -1,1 +1,0 @@
-Sébastien Delcoigne, Développeur

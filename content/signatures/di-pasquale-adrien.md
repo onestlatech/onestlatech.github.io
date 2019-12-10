@@ -1,1 +1,0 @@
-Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon

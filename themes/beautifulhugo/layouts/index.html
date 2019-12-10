@@ -1,29 +1,33 @@
 {{ define "main" }}
   <div role="main" class="container">
     <div class="row">
+      {{ with .Content }}
         <article class="post-preview">
-          {{ with .Content }}
-              {{.}}
-          {{ end }}
-      <h2>Signataires</h2>
-      <h3>Actrices et acteurs du numérique</h3>
-      <ul>
-      {{ $headlessbundle := .Site.GetPage "signatures" }}
-      {{ range ( $headlessbundle.Resources.ByType "page" ) }}
-        <li>{{.Content | markdownify}}</li>
-      {{ end }}
-      </ul>
-
-
-      {{ with .Site.GetPage "_organisations" }}
-         {{.Content}}
-      {{ end }}
-
-      {{ with .Site.GetPage "_apropos" }}
-         {{.Content}}
-      {{ end }}
+          {{.}}
         </article>
+      {{ end }}
 
+      <div class="posts-list">
+        {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+        {{ range $pag.Pages }}
+          {{ partial "post_preview" . }}
+        {{ end }}
+      </div>
+
+      {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+        <ul class="pager main-pager">
+          {{ if .Paginator.HasPrev }}
+            <li class="previous">
+              <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
+            </li>
+          {{ end }}
+          {{ if .Paginator.HasNext }}
+            <li class="next">
+              <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
   </div>
-
 {{ end }}

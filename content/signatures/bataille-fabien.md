@@ -1,1 +1,0 @@
-[Fabien Bataille], Développeur

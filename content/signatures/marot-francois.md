@@ -1,1 +1,0 @@
-[Francois Marot](https://twitter.com/FrancoisMarot), développeur, Architecte, Human Being

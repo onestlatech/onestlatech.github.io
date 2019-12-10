@@ -1,1 +1,0 @@
-[Yvan Corsiglia](https://twitter.com/Striwx) Créateur de Jeux-Vidéo

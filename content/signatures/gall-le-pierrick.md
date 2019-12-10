@@ -1,1 +1,0 @@
-Pierrick Le Gall, Développeur

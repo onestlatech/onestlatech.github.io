@@ -1,1 +1,0 @@
-Yves Bourguignon, administrateur système

@@ -1,1 +1,0 @@
-Sébastien David, développeur

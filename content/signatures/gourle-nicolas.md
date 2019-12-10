@@ -1,1 +1,0 @@
-Nicolas Gourlé, développeur

@@ -1,1 +1,0 @@
-[Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux

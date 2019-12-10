@@ -1,1 +1,0 @@
-Olivier Sgoifo, développeur/devops, salarié

@@ -1,1 +1,0 @@
-[Marc-Aurel Audoin](https://twitter.com/MarcAurel_), développeur

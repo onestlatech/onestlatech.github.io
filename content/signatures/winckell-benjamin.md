@@ -1,1 +1,0 @@
-[Benjamin Winckell](https://twitter.com/oh_meeen), Developpeur Lead

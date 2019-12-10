@@ -1,1 +1,0 @@
-Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)

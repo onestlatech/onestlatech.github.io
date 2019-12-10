@@ -1,1 +1,0 @@
-Matthieu Caron, Lead Développeur

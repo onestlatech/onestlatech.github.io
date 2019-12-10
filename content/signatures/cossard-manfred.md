@@ -1,1 +1,0 @@
-Manfred Cossard, Ingénieur Cybersécurité

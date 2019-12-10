@@ -1,1 +1,0 @@
-Nino Treyssat-Vincent, développeur web

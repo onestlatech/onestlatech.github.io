@@ -1,1 +1,0 @@
-Nicolas Gomes, Développeur Web

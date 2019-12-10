@@ -1,1 +1,0 @@
-[Alexis Janvier](https://www.alexisjanvier.net), développeur

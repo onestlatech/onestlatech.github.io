@@ -1,1 +1,0 @@
-Anne-Laure de Boissieu, Développeuse web

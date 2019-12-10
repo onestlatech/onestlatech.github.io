@@ -1,1 +1,0 @@
-[Jacques Foucry](https://adminblog.foucry.net) Sysadmin, BOFH

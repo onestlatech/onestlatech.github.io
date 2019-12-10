@@ -1,1 +1,0 @@
-[Flavien Rodrigues](https://twitter.com/RFlavien), développeur et enseignant, Tiime software

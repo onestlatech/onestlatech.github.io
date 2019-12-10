@@ -1,1 +1,0 @@
-[Bastien Picharles](https://twitter.com/kleinast), développeur

@@ -1,1 +1,0 @@
-Ly-Jia Goldstein, Développeuse

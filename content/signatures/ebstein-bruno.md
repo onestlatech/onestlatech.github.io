@@ -1,1 +1,0 @@
-Bruno Ebstein, développeur, salarié

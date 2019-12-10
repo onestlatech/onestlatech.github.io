@@ -1,1 +1,0 @@
-Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)

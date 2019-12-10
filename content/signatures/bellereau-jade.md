@@ -1,1 +1,0 @@
-Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)

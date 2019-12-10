@@ -1,1 +1,0 @@
-[Ismaël Bouya](https://www.immae.eu), Ingénieur logiciel

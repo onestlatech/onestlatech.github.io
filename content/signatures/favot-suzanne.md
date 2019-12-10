@@ -1,1 +1,0 @@
-[Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)

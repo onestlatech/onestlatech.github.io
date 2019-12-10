@@ -1,1 +1,0 @@
-Hugo Fouques, dévéloppeur, Fretlink

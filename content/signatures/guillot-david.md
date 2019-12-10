@@ -1,1 +1,0 @@
-[David Guillot](https://www.contexte.com/equipe/david-guillot-71850.html), lead-dev

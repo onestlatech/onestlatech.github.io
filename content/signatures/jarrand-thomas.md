@@ -1,1 +1,0 @@
-[Thomas Jarrand](https://github.com/tom32i), Développeur Web

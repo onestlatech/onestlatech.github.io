@@ -1,1 +1,0 @@
-[Arnaud Ligny](https://arnaudligny.fr), Consultant Web, mobile & e-commerce

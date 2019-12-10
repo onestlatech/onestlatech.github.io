@@ -1,1 +1,0 @@
-[Benjamin Sureau](https://github.com/fligflug), développeur web

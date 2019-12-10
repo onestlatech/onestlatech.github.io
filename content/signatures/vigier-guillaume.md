@@ -1,1 +1,0 @@
-Guillaume Vigier, Administrateur réseau Mediapart

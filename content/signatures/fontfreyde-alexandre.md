@@ -1,1 +1,0 @@
-Alexandre Fontfreyde, Lead développeur

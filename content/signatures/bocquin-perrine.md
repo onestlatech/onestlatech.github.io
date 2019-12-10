@@ -1,1 +1,0 @@
-Perrine Bocquin, Intégratrice

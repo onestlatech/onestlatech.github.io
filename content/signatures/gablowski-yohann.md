@@ -1,1 +1,0 @@
-Yohann Gablowski, Développeur Web

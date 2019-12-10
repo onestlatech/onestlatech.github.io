@@ -1,1 +1,0 @@
-François Vantomme, développeur

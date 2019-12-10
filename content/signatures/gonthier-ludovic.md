@@ -1,1 +1,0 @@
-Ludovic Gonthier, Développeur web indépendant

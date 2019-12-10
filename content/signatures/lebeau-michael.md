@@ -1,1 +1,0 @@
-[Michaël Lebeau](https://epistol.fr), développeur web

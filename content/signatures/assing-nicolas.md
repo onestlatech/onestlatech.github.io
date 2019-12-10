@@ -1,1 +1,0 @@
-Nicolas Assing, développeur

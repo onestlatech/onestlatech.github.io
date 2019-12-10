@@ -1,1 +1,0 @@
-[Timothée Barray](https://twitter.com/timbarray)

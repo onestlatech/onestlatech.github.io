@@ -1,1 +1,0 @@
-[Anthony Ramine](https://twitter.com/nokusu), développeur Mozilla

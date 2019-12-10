@@ -1,1 +1,0 @@
-[Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur

@@ -1,1 +1,0 @@
-Arnaud Combellas, développeur, salarié
