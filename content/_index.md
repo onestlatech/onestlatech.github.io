@@ -142,7 +142,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
 * Arnaud Combellas, développeur, salarié
-* [Reginald Costa] (https://twitter.com/Talamasca1894) Product Manager à Mediapart (https://www.mediapart.fr/)
+* [Reginald Costa](https://twitter.com/Talamasca1894) Product Manager à [Mediapart](https://www.mediapart.fr/)
 * Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
@@ -229,7 +229,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
-* [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * Nawo Mbechezi, Développeur 
@@ -358,7 +357,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
 * [Michel Guillou](https:/twitter.com/michelguillou), Observateur
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
-* [Johan Le Baut], Ingénieur développeur
+* Johan Le Baut, Ingénieur développeur
 * Julien Manganne, Développeur
 * [Simon Bée](https://github.com/simon-bee), Développeur web
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
@@ -380,6 +379,11 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
 * Guillaume Leyronnas, tech lead
+* [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
+* [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
+* [Pascal Roux](https://github.com/pizzavomito), Développeur
+* Yohann Godefroy, Développeur Web
+* [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 
 ### Organisations
 
