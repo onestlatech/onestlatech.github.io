@@ -701,6 +701,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Julien Barnier](https://data.nozav.org), développeur
 * Albin Suplisson, DevOps chez OVH
 * [thierry-FreeBSD](https://github.com/thierry-FreeBSD), informaticien de la région lyonnaise.
+* [Anthony Loizeau], Développeur Web
 
 ### Organisations
 
