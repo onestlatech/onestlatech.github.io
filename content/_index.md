@@ -131,6 +131,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
+* [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Matthieu Caron, Lead Développeur
 * Guillaume Cauchois, Développeur Full-Stack
