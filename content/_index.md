@@ -81,8 +81,8 @@ En conséquence, nous appelons :
 
 ## Signez !
 
-[**Signez cet appel en ajoutant votre nom à ce document**](https://github.com/onestlatech/onestlatech.github.io/edit/content/content/_index.md).
-Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre signature **à la fin de la liste**), cliquez sur `Propose file change`, puis sur `Create pull request`, et encore une fois sur `Create pull request`.
+[**Signez cet appel en laissant votre nom dans une "issue" sur notre dépôt GitHub**](https://github.com/onestlatech/onestlatech.github.io/issues/new).
+Pour ce faire, créez un compte GitHub.com (si vous n'en avez pas), ajoutez vos informations et cliquez sur `Submit new issue`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
