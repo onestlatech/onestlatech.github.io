@@ -258,6 +258,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
 * [Thibault Pelloquin](https://github.com/ThibaultPelloquin), développeur web
 * Thomas Pepio, développeur, Solidaires Informatique
+* Loïc Perrin, Directeur de projet
 * [Bastien Picharles](https://twitter.com/kleinast), développeur
 * [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
 * [Jules Pietri](https://twitter.com/julespietri)
@@ -302,11 +303,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
-* Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
-* [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
-* Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nino Treyssat-Vincent, développeur web
 * [Simon Meeschaert](https://twitter.com/SimonMeeschaert), développeur web
@@ -399,7 +395,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * [Romain Sertelon](https://twitter.com/rsertelon), Développeur salarié
 * [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
-* [Matt Marcha](https://github.com/Aveias), Développeur web
 * Demangeon Julien, Développeur
 * Arthur Rucquois, Développeur indigné
 * Anne-Marie Esteves, développeuse, Solidaires Informatique
@@ -408,7 +403,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Corentin Grard](https://github.com/CorentinGrard), Développeur, IBM
 * Perrine Bocquin, Intégratrice
 * [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
-* [David Teston](https://twitter.com/davidnotset), Développeur
 * [Benjamin Zaslavsky](https://github.com/tiriel), développeur web
 * [Julien Leclercq](https://github.com/julien-leclercq), développeur web 
 * [Christophe Andrieu](https://twitter.com/stpo), web designer
@@ -426,15 +420,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Fabien Dumas, Développeur Web
 * [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
 * Sébastien Delcoigne, Développeur
-* Mathieu Delhay, développeur web
 * [Guillaume Lacasa](https://blog.lacasa.fr), développeur indépendant
 * Nicolas Mérigot, développeur, membre du collectif [Happy dev](https://www.happy-dev.fr)
 * Fréderic Rannou, developpeur web
 * [Baptiste Adrien](https://twitter.com/shinework), développeur [Premier Octet](https://www.premieroctet.com)
 * [Vincent Caron](https://bearstech.com), développeur, adminsys, sociétaire chez Bearstech SCOP
-* [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
 * [Matt Marcha](https://github.com/Aveias), Développeur web
-* Demangeon Julien, Développeur
 * Quentin Pezeril, testeur
 * [Jennifer Proust](https://github.com/proustibat), front end developer
 * [Tom Berriot](https://twitter.com/BerriotTom), Développeur
@@ -501,7 +492,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Bastien Durel](https://github.com/BastienDurel), Développeur
 * David Codron, Responsable de projets MOE
 * [Kim Laï Trinh](https://kimlaitrinh.me), Développeur web
-* [Jennifer Proust](https://github.com/proustibat), front end developer
 * Mickaël Goasdoué, Manager Support & Engineering
 * [Aurélien MAGNE](https://www.linkedin.com/in/amagne/), Consultant chez Business&Decision
 * Pierre Ducroquet, Lead DBA @ PeopleDoc by UltimateSoftware
@@ -569,7 +559,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Alexandre Girard](http://github.com/alx), Développeur Web
 * [Léonard Michelet](http://opencorporatefacts.fr/), Développeur et syndicaliste CGT chez [Smile](https://opencorporatefacts.fr/corporate/812882132)
 * [Jérôme COGNET](http://github.com/jcognet), développeur Fullstack, linkvalue
-* [Victor Héry](https://mamot.fr/@victorhery) Administrateur système
 * Léa F, développeuse Java
 * [Floran Brutel](https://www.floran.fr/), Développeur / Ops
 * [Quentin Fahrner](https://renrhaf.fr), Développeur web backend
