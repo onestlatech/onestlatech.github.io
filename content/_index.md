@@ -87,7 +87,7 @@ En conséquence, nous appelons :
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
-## signataires
+## Signataires
 
 ### Actrices et acteurs du numérique
 
@@ -701,6 +701,21 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Julien Barnier](https://data.nozav.org), développeur
 * Albin Suplisson, DevOps chez OVH
 * [thierry-FreeBSD](https://github.com/thierry-FreeBSD), informaticien de la région lyonnaise.
+* [François-Xavier Lesaffre](https://yaal.fr), Administateur Système et Réseaux
+* Jérôme Lebrun, développeur
+* Laurence Hoizey, consultante recrutement web
+* [Romain Magri](https://www.linkedin.com/in/magriromain/), Product Designer @DreamQuark
+* [Hugues Parvillers](https://twitter.com/hparvillers)
+* Isabelle Dupeux, Coordinatrice de test
+* Sébastien Bazaud, développeur salarié et bénévole pour le FAI [Touraine Data Network](https://www.tdn-fai.net)
+* [Cyrille Laulier](http://www.lebiosphere.net/), Professeur de technologie
+* [Emile Fabrol](https://github.com/Emile-F-50), DSI en retraite
+* Germain Costenobel, Tech lead
+* Bruno Palancher, retraité services télécoms
+* Clara Ponte, enseignante d'histoire géographie dans le privé sous contrat avec l'état
+* Cyrille Clarisse
+* Karine Philippot, développeuse, INVOKE
+* Gilbert Guillou, Concepteur-Développeur (full stack)
 
 ### Organisations
 
