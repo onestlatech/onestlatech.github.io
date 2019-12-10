@@ -243,6 +243,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mehdi Medjaoui](https://twitter.com/medjawii), fondateur de OAuth.io, GDPR.dev et APIdays conferences
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Pierre Michel, chercheur en informatique, retraité
 * [Katia Molina](https://twitter.com/keepupkatia), formatrice-consultante webmarketing indépendante
 * [Raphaël Mor](https://twitter.com/raphaelmor), développeur
 * [Romain Neutron](https://github.com/romainneutron), développeur
