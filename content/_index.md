@@ -81,8 +81,9 @@ En conséquence, nous appelons :
 
 ## Signez !
 
-[**Signez cet appel en laissant votre nom dans une "issue" sur notre dépôt GitHub**](https://github.com/onestlatech/onestlatech.github.io/issues/new).
-Pour ce faire, créez un compte GitHub.com (si vous n'en avez pas), ajoutez vos informations et cliquez sur `Submit new issue`.
+
+* **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new), ajoutez vos informations et cliquez sur `Submit new issue`.
+* ou si vous n'avez pas de compte, signez en nous envoyant un email à onestlatech@protonmail.com
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
@@ -397,6 +398,16 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * [Romain Sertelon](https://twitter.com/rsertelon), Développeur salarié
+* [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
+* [Matt Marcha](https://github.com/Aveias), Développeur web
+* Demangeon Julien, Développeur
+* Arthur Rucquois, Développeur indigné
+* Anne-Marie Esteves, développeuse, Solidaires Informatique
+* [Florian Belhomme](https://twitter.com/DarkSolune), développeur
+* [Olivier Mairet](https://github.com/olivmai), développeur web
+* [Corentin Grard](https://github.com/CorentinGrard), Développeur, IBM
+* Perrine Bocquin, Intégratrice
+* [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
 * [David Teston](https://twitter.com/davidnotset), Développeur
 * [Benjamin Zaslavsky](https://github.com/tiriel), développeur web
 * [Julien Leclercq](https://github.com/julien-leclercq), développeur web 
