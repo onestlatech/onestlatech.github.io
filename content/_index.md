@@ -396,7 +396,11 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
-*  Anne-Marie Esteves, développeuse, Solidaires Informatique
+* [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
+* [Matt Marcha](https://github.com/Aveias), Développeur web
+* Demangeon Julien, Développeur
+* Arthur Rucquois, Développeur indigné
+* Anne-Marie Esteves, développeuse, Solidaires Informatique
 * [Florian Belhomme](https://twitter.com/DarkSolune), développeur
 * [Olivier Mairet](https://github.com/olivmai), développeur web
 * [Corentin Grard](https://github.com/CorentinGrard), Développeur, IBM
