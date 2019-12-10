@@ -358,7 +358,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mehdi Zakaria Benadel](https://github.com/murazaki), Ingénieur développeur
 * [Michel Guillou](https:/twitter.com/michelguillou), Observateur
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
-* [Johan Le Baut], Ingénieur développeur
+* Johan Le Baut, Ingénieur développeur
 * Julien Manganne, Développeur
 * [Simon Bée](https://github.com/simon-bee), Développeur web
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
@@ -380,6 +380,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
 * [Martin Guilloux] (https://cv.nimrodel.fr), Ingénieur Système Linux
+* [Pascal Roux](https://github.com/pizzavomito), Développeur
 
 ### Organisations
 
