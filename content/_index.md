@@ -381,8 +381,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
-* Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
+* [Nicolas Doby](https://framasphere.org/people/2df72c708792013707d42a0000053625), Développeur chez [IT's On Us](https://www.itsonus.fr/)
 
 ### Organisations
 
