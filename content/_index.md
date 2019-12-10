@@ -169,6 +169,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pierre Escobar, Freelance
 * [Fabre William](https://github.com/williamfabre), développeur 
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
+* Jonas Faure, développeur, salarié
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
 * [Jacques Foucry](https://adminblog.foucry.net) Sysadmin, BOFH
@@ -229,6 +230,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
+* [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * Nawo Mbechezi, Développeur 
@@ -378,8 +380,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Lucie Steiblé, linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
-* [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
-* [Martin Guilloux] (https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 
 ### Organisations
