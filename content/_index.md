@@ -378,12 +378,16 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Lucie Steiblé, linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
+* Guillaume Leyronnas, tech lead
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * Damien HARDY, Sysadmin, Architecte d'infrastructure
+* [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
+* [Matt Marcha](https://github.com/Aveias), Développeur web
+* Demangeon Julien, Développeur
 
 ### Organisations
 
