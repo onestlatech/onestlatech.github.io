@@ -131,6 +131,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
+* [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Matthieu Caron, Lead Développeur
 * Guillaume Cauchois, Développeur Full-Stack
@@ -140,7 +141,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
-* [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
+* [Valentin Claras](https://github.com/valentin-claras), Lead Dev
 * Arnaud Combellas, développeur, salarié
 * [Reginald Costa](https://twitter.com/Talamasca1894) Product Manager à [Mediapart](https://www.mediapart.fr/)
 * Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)
@@ -176,10 +177,13 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Yohann Gablowski, Développeur Web
+* [Adrian Gaudebert](http://adrian.gaudebert.fr/), Développeur Web, Mozilla
 * Delphine Gauthier, Développeuse Web
 * [Clément Gibaud](https://twitter.com/cleming_), Administrateur système
 * [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
+* Ly-Jia Goldstein, Développeuse
 * Nicolas Gomes, Développeur Web
 * Ludovic Gonthier, Développeur web indépendant
 * Baptiste Goulard, Développeur web
@@ -211,6 +215,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Fabien Lamarque, Freelance - Velvet Lemons Consulting, Developpeur web ; Devops
+* [Véronique Lapierre](https://mastodon.social/web/accounts/35071#), Conceptrice ; AMOA
 * Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
@@ -238,16 +243,18 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Katia Molina](https://twitter.com/keepupkatia), formatrice-consultante webmarketing indépendante
 * [Raphaël Mor](https://twitter.com/raphaelmor), développeur
-* [Romain Neutron](https://twitter.com/romainneutron)
+* [Romain Neutron](https://github.com/romainneutron), développeur
 * [Lê Thành Dũng Nguyễn](https://nguyentito.eu/), doctorant en informatique
 * [Olivier Nicole](https://otini.chnik.fr/), doctorant en informatique
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * [Adriana Nitescu](https://github.com/adreeana), développeur
 * Fabrice Nourisson, développeur, salarié
 * [Nicolas Ottavi](https://twitter.com/agentdifferent), [Agence Différente](http://new.agence-differente.fr/)
+* Stéphanie Ouillon, ingénieure sécurité
 * Jean Paliès, développeur
 * Tom Panier, développeur frontend, Synbioz
 * [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
+* [Thibault Pelloquin](https://github.com/ThibaultPelloquin), développeur web
 * Thomas Pepio, développeur, Solidaires Informatique
 * [Bastien Picharles](https://twitter.com/kleinast), développeur
 * [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
@@ -275,6 +282,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Guillaume Ponty](https://twitter.com/PontyGuillaume)
 * [Maxime Rouquet](https://twitter.com/marou_pp), Développeur de jeux vidéos, ancien président du Parti Pirate
 * Gilles Roustan, Développeur à Mediapart
+* [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
 * [Mathieu Santostefano](https://twitter.com/welcomattic), développeur web chez [JoliCode](https://jolicode.com)
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Pierre Stazak, développeur web
@@ -285,6 +293,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Olivier Sgoifo, développeur/devops, salarié
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
 * [Gautier Souesme](https://cestca.eu), développeur indépendant, CESTCA SAS
+* [Cédric Spalvieri](https://twitter.com/le_skwi), CTO - COO
 * Guillaume Subiron, Administrateur système, cogérant de [Sysnove](https://www.sysnove.fr)
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -297,7 +306,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nino Treyssat-Vincent, développeur web
-* Simon Meeschaert, développeur
+* [Simon Meeschaert](https://twitter.com/SimonMeeschaert), développeur web
 * Olivier Vallée, développeur
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * François Vantomme, développeur
@@ -351,6 +360,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Xavier Seignard](https://drangies.fr/), développeur web
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
 * [Cyrille Martraire](https://twitter.com/cyriux), développeur, CTO
+* [JB Pionnier](https://twitter.com/JbPionnier), développeur
 * [Sylvain Laurent](https://twitter.com/5yLv41n)
 * [Mathieu Wostyn](https://m.g3l.org/@mathieu), (chat-)touilleur digital (mais néanmoins agitateur numérique)
 * [Renan de Lima](https://twitter.com/renanoriginal), Développeur
@@ -378,12 +388,39 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Lucie Steiblé, linguiste programmeuse
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
+* Guillaume Leyronnas, tech lead
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * Yohann Godefroy, Développeur Web
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * [Yoan Malié](https://twitter.com/yoanmalie), intégrateur web
+* Jimmy Fayolle, apprenti ingénieur INFRES
+* [Fabrice Michellonet](https://twitter.com/MyMemoryLeaks), Lead Dev. Azure, [Scop-it](http://www.scop-it.com/)
+* [Stephan Simart](https://twitter.com/stifoon), responsable R&D autour de [navitia](https://www.navitia.io)
+* Daisy Leroy, Développeuse web, freelance
+* [Romain Bousseau], Développeur Web
+* [Joris BOQUET](https://louifox.house), Ingénieur Système et bidouilleur du quotidien
+* [Enguerran Colson](https://blog.ticabri.com), artisan développeur
+* Henri Gauffriau, développeur web
+* [David Bocquet](http://zewebmaster.fr), Développeur web
+* Lonny Loquesol, Développeur Web
+* Fabien Dumas, Développeur Web
+* [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
+* Sébastien Delcoigne, Développeur
+* [Mathieu Delhay], développeur web
+* [Guillaume Lacasa](https://blog.lacasa.fr), développeur indépendant
+* Nicolas Mérigot, développeur, membre du collectif [Happy dev](https://www.happy-dev.fr)
+* Fréderic Rannou, developpeur web
+* [Baptiste Adrien](https://twitter.com/shinework), développeur [Premier Octet](https://www.premieroctet.com)
+* [Vincent Caron](https://bearstech.com), développeur, adminsys, sociétaire chez Bearstech SCOP
+* [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
+* [Matt Marcha](https://github.com/Aveias), Développeur web
+* Demangeon Julien, Développeur
+* Quentin Pezeril, testeur
+* [Jennifer Proust](https://github.com/proustibat), front end developer
+* [Tom Berriot](https://twitter.com/BerriotTom), Développeur
+* [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
 
 ### Organisations
 
