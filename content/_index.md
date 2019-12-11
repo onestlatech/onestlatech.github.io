@@ -711,7 +711,7 @@ En conséquence, nous appelons :
 * [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
 * [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
-* Rémi Suinot
+* Rémi Suinot, infirmer et opérateur logiciels de soins
 * [Rémy Barthez](http://thenew.fr), développeur web
 * Rémy Lalanne, Analyste programmeur, gérant de PRIMCODE
 * [Sacha Vaguelsy](https://twitter.com/sachavaguelsy), VP Product
