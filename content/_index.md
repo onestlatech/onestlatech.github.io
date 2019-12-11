@@ -179,7 +179,7 @@ En conséquence, nous appelons :
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
 * [Brice Person](https://twitter.com/bjperson), Développeur
 * Bruce Heller, Chef de projet digital chez Prisma Media
-* [Bruno Adelé](http://bruno.adele.im), DevOps - [Bruno Adelé](http://bruno.adele.im), DevOps
+* [Bruno Adelé](http://bruno.adele.im), DevOps
 * Bruno Ebstein, développeur, salarié
 * [Bruno Loton](https://brunoloton.com), designer
 * Bruno Palancher, retraité services télécoms
@@ -194,7 +194,7 @@ En conséquence, nous appelons :
 * [Christophe Andrieu](https://twitter.com/stpo), web designer
 * [Christophe MICHEL](https://github.com/christopheml/), Développeur, salarié
 * [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
-* [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel - [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel
+* [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * Claire Dhénin, Ingénieure Full Stack chez Misakey
 * [Claire Villard](https://twitter.com/neur0nia), Développeuse
@@ -296,7 +296,7 @@ En conséquence, nous appelons :
 * [Félix Girault](https://fglt.fr), développeur
 * [Gary Houbre](https://twitter.com/garyhoubre), Expert Technique PHP Symfony / Laravel
 * [Gautier Souesme](https://cestca.eu), développeur indépendant, CESTCA SAS
-* [Gaël Pasgrimaud](https://twitter.com/gawel_), développeur et sociétaire chez [Bearstech SCOP](https://bearstech.com) - [Gaël Pasgrimaud](https://twitter.com/gawel_), développeur et sociétaire chez [Bearstech SCOP](https://bearstech.com)
+* [Gaël Pasgrimaud](https://twitter.com/gawel_), développeur et sociétaire chez [Bearstech SCOP](https://bearstech.com)
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com)
 * Gaëtan Duchaussois, Admin sys
 * [Gee](https://ptilouk.net/), développeur et auteur libre
@@ -308,7 +308,7 @@ En conséquence, nous appelons :
 * Gilles Roustan, Développeur à Mediapart
 * [Glen Struillou](https://glenstruillou.com/), développeur web chez [Yes We Dev](https://yeswedev.bzh/)
 * [Glennie Vignarajah](https://glennie.fr), SRE
-* [Greco Jonathan](https://www.linkedin.com/in/jonathan-greco-296989b6/)Développeur web full stack - [Greco Jonathan](https://www.linkedin.com/in/jonathan-greco-296989b6/)Développeur web full stack
+* [Greco Jonathan](https://www.linkedin.com/in/jonathan-greco-296989b6/), Développeur web full stack
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Grégoire Pineau](https://github.com/lyrixx), Développeur
@@ -351,7 +351,7 @@ En conséquence, nous appelons :
 * [Jared Lethal aka Oz](https://pipou.academy/@Oz), UI/UX designer / intégrateur chez Fière Allure
 * JB Cavarec, Développeur
 * [JB Pionnier](https://twitter.com/JbPionnier), développeur
-* [Jean Bertrand], développeur - [Jean Bertrand], développeur
+* [Jean Bertrand], développeur
 * [Jean Charpentier](https://jeancharpentier.fr/) Bidouilleur informatique et jeux vidéo
 * Jean Paliès, développeur
 * [Jean-Baptiste Vilain](https://github.com/jeanbaptistevilain), artisan logiciel chez Hôtentic
@@ -617,7 +617,6 @@ En conséquence, nous appelons :
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
 * [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
 * [Rémy Barthez](http://thenew.fr), développeur web
-* [Rémy Lalanne] Analyste programmeur, gérant de PRIMCODE - [Rémy Lalanne] Analyste programmeur, gérant de PRIMCODE
 * Rémy Lalanne, Analyste programmeur, gérant de PRIMCODE
 * [Sacha Vaguelsy](https://twitter.com/sachavaguelsy), VP Product
 * Salah Khouildi, lead dev
