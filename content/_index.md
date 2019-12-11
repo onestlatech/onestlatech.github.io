@@ -707,6 +707,9 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Gilbert Guillou, Concepteur-Développeur (full stack)
 * Anthony Loizeau, Développeur Web
 * Régis L'Hostis, Consultant et formateur Outils numériques, Windtopik.fr
+* Yannick Martin, Admin système, salarié
+* [Dupuy Thierry](https://www.arobasix.blogspot.com), Infirmier en psychiatrie
+* Joel Oosterlinck
 
 ### Organisations
 
