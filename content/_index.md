@@ -93,7 +93,7 @@ En conséquence, nous appelons :
 * Adrien Agez, développeur web
 * Adrien Bey Développeur
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
-* [Adrien Gendry], Lead UX Designer
+* Adrien Gendry, Lead UX Designer
 * [Adrien Humilière](https://twitter.com/adhumi), Mobile Lead
 * [Adrien Imbert](https://twitter.com/siwayll), Lead Developer [norsys](https://www.norsys.fr)
 * [Adrien JUGUET](https://www.linkedin.com/in/adrien-juguet-906a30100/), Développeur JAVA
@@ -217,7 +217,7 @@ En conséquence, nous appelons :
 * [Cadoret Antoine](https://twitter.com/Acadoret1) Alternant Développeur
 * Camila Pedraza, Spécialiste Localization
 * Camile Daniel, développeuse chez [Yaal](https://yaal.fr/)
-* [Camille Blin], Lead Developer
+* Camille Blin, Lead Developer
 * Camille Douay, data scientist
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Caroline Noyer, Product Owner / Développeur back senior
@@ -268,7 +268,7 @@ En conséquence, nous appelons :
 * Damien Hardy, Sysadmin, Architecte d'infrastructure
 * [Damien Pitard](https://twitter.com/pitpit0), CTO
 * [Damien Pobel](https://damien.pobel.fr/)
-* [Dan Carbone], Développeur web
+* Dan Carbone, Développeur web
 * [Daniel BORIS IGLESIA](https://twitter.com/Dan_Borisov), Expert Back-End, RAKUTEN
 * [Daniel Dehennin](https://mastodon.etalab.gouv.fr/@DaD), développeur, intégrateur et administrateur système et réseau au [Pôle de Compétences Logiciels Libres](https://pcll.ac-dijon.fr/pcll/) du ministère de l’Éducation nationale et de la jeunesse
 * Daniel Kaplan, cofondateur et ancien DG de la Fing, cofondateur du Réseau Université de la Pluraliité
@@ -276,12 +276,12 @@ En conséquence, nous appelons :
 * [David Bocquet](http://zewebmaster.fr), Développeur web
 * David Codron, Responsable de projets MOE
 * [David Da Silva](https://github.com/david-dasilva), Développeur
-* David Gautier https://kriom.net, Ingénieur logiciel
+* [David Gautier](https://kriom.net), Ingénieur logiciel
 * [David Guillot](https://www.contexte.com/equipe/david-guillot-71850.html), lead-dev
 * [David Joao](http://combustible.fr/mediation-numerique/), Médiateur numérique chez Combustible numérique
 * [David Leuliette](https://twitter.com/flexbox_), [Développeur Freelance](https://davidl.fr)
 * [David Teston](https://twitter.com/davidnotset), Développeur
-* Delannoy Nicolas (https://github.com/Nick59), Freelance, Développeur
+* [Delannoy Nicolas](https://github.com/Nick59), Freelance, Développeur
 * Delphine Chevalier
 * Delphine Gauthier, Développeuse Web
 * Demangeon Julien, Développeur
@@ -341,7 +341,7 @@ En conséquence, nous appelons :
 * [Florian Martin](https://www.linkedin.com/in/florian-martin-75719071/) Développeur web
 * Florian Minjat, Architecte logiciel indépendant
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
-* [Florian S.], Maitre de conférences en informatique
+* Florian S., Maitre de conférences en informatique
 * [Florine Sueur](https://www.soit.rocks/), UX Dev
 * Florian S., Maitre de conférences en informatique
 * Franck Lafay intégrateur
@@ -378,7 +378,7 @@ En conséquence, nous appelons :
 * [Glen Struillou](https://glenstruillou.com/), développeur web chez [Yes We Dev](https://yeswedev.bzh/)
 * [Glennie Vignarajah](https://glennie.fr), SRE
 * [Greco Jonathan](https://www.linkedin.com/in/jonathan-greco-296989b6/), Développeur web full stack
-* [Grégoire Chollet] développeur web
+* Grégoire Chollet développeur web
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Grégoire Pineau](https://github.com/lyrixx), Développeur
@@ -412,10 +412,10 @@ En conséquence, nous appelons :
 * [Haïkel Guémar](https://twitter.com), développeur senior et délégué syndical Solidaires Informatique @ Red Hat
 * Henri Gauffriau, développeur web
 * Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
-* [Hervé Frackowiak](https://twitter.com/Frackher), Creative Technologist @ Agence Pirate (https://www.agence-pirate.fr/)
+* [Hervé Frackowiak](https://twitter.com/Frackher), Creative Technologist @ [Agence Pirate](https://www.agence-pirate.fr/)
 * [Hervé Geraldo](https://twitter.com/hervegeraldo), Développeur
 * [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
-* [Hubert de Lentaigne], chef de projet ESN 
+* Hubert de Lentaigne, chef de projet ESN 
 * Hugo Fouques, dévéloppeur, Fretlink
 * [Hugo Miranda](https://www.facebook.com/hugo.miranda1), Développeur web chez Zenika Paris. Compte bien arrêter de travailler avant 65 ans.
 * [Hugo Wood](https://github.com/hgwood), Développeur, Zenika Nantes
@@ -469,7 +469,7 @@ En conséquence, nous appelons :
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Joris BOQUET](https://louifox.house), Ingénieur Système et bidouilleur du quotidien
 * [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
-* [Joseph Robert], développeur 
+* Joseph Robert, développeur 
 * jrayneau, Coach agile & produit
 * [Jules Pietri](https://twitter.com/julespietri)
 * Julie Trannois, Dév Web Lyon
@@ -588,11 +588,11 @@ En conséquence, nous appelons :
 * Mathieu Delhay, développeur web
 * [Mathieu Desnouveaux](https://twitter.com/mdesnouveaux), Développeur
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Mathieu DI PASQUALE], Administrateur Réseau
+* Mathieu DI PASQUALE, Administrateur Réseau
 * [Mathieu Godart](https://www.linkedin.com/in/godart/), ingénieur logiciel et directeur technique
 * Mathieu Guillard, SysAdmin
 * Mathieu Kim Robin, développeur web
-* [Mathieu Magnin], Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Mathieu Magnin, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Mathieu REMY](https://www.linkedin.com/in/mathieuremy/), Expert en Product & Services Management, Low code evangelist
 * [Mathieu Santostefano](https://twitter.com/welcomattic), développeur web chez [JoliCode](https://jolicode.com)
@@ -636,7 +636,7 @@ En conséquence, nous appelons :
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * Mohamed ZAHOUANI, Consultant Cybersécurité
 * [Morgan Auchede](https://twitter.com/mauchede)
-* [Mélanie Lavabre], développeuse Scala
+* Mélanie Lavabre, développeuse Scala
 * Nastasia Saby, développeur data
 * Nathalie Rosenberg, UX designer et advocate
 * [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
@@ -825,7 +825,7 @@ En conséquence, nous appelons :
 * [Sylvain Laurent](https://twitter.com/5yLv41n)
 * Sylvain Lehmann, Développeur
 * [Sylvain Lesage](https://mamot.fr/@severo_bo), développeur web
-* Sylvain Moindron (@smoindron@mamot.fr), développeur sénior, guide technique
+* [Sylvain Moindron](https://mamot.fr/@smoindron), développeur sénior, guide technique
 * [Sylvain Paley](http://sylvainpaley.cool), [Société Nouvelle](http://lasocietenouvelle.com)
 * Sébastien allemand - Dev & ops soprasteria
 * Sébastien Bazaud, développeur salarié et bénévole pour le FAI [Touraine Data Network](https://www.tdn-fai.net)
@@ -860,7 +860,7 @@ En conséquence, nous appelons :
 * [Thomas Constans](https://opendoor.fr), sysadmin / consultant linux
 * Thomas Desvenain, Développeur Sénior
 * [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
-* [Thomas Guégan], Développeur
+* Thomas Guégan, Développeur
 * [Thomas Huraux](https://thomashuraux.com), responsable scientifique projet
 * Thomas Guégan, Développeur
 * [Thomas Jarrand](https://github.com/tom32i), Développeur Web
@@ -868,7 +868,7 @@ En conséquence, nous appelons :
 * [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * Thomas Pepio, développeur, Solidaires Informatique
-* Thomas Planques (http://www.thomas-planques.com/), directeur créatif / producteur, projet Ikigai, Sorbonne Université
+* [Thomas Planques](http://www.thomas-planques.com/), directeur créatif / producteur, projet Ikigai, Sorbonne Université
 * [Thomas Zilliox](https://tzi.fr), expert CSS indépendant
 * [Théo Fidry](https://twitter.com/tfidry), développeur
 * [Théo Murgat](https://github.com/murgatt), Développeur Web
