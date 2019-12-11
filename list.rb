@@ -23,6 +23,10 @@ signatures = content.match(regex)[1]
 signatures << "\n" << newSignatures
 
 def sort_markdown(a)
+    if a.length < 3
+        return a
+    end
+
     if a[0..2] == "* ["
         return a[3..].downcase
     end
@@ -30,7 +34,7 @@ def sort_markdown(a)
     a[2..].downcase
 end
 
-signatures = signatures.split("\n").uniq.sort_by!{ |a| sort_markdown(a) }.join("\n") << "\n"
+signatures = signatures.split("\n").reject(&:empty?).uniq.sort_by!{ |a| sort_markdown(a) }.join("\n") << "\n"
 
 content.sub!(regex, "### Actrices et acteurs du numérique\n\n" << signatures << "\n### Organisations")
 File.open("content/_index.md", "w") {|file| file.puts content}
