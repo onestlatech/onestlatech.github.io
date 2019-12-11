@@ -4,7 +4,6 @@
 {{- with .Description | default .Params.subtitle | default .Summary }}
   <meta name="twitter:description" content="{{ . | truncate 200 }}">
 {{- end }}
-  <meta name="twitter:image" content="https://onestla.tech/header.jpg" />
 {{- with .Params.share_img | default .Params.image | default .Site.Params.logo }}
   <meta name="twitter:image" content="{{ . | absURL }}" />
 {{- end }}

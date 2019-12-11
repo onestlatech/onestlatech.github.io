@@ -4,5 +4,8 @@ languageCode = "fr-fr"
 title = "✊ onestla.tech"
 theme = "beautifulhugo"
 
-[[Params]]
-  image = "header.jpg"
+[Params]
+  socialShare = true
+  organizationName = "onestla.tech"
+  favicon = "avatar.png"
+  logo = "header.jpg"
