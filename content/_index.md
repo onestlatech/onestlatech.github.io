@@ -238,7 +238,7 @@ En conséquence, nous appelons :
 * [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * Dominique Rousseau
 * [Dorian Bussi](https://github.com/bussidn) Crafter
-* [Dorian GRANDHAY](twitter.com/dgrandhay), Ingénieur système
+* [Dorian GRANDHAY](https://twitter.com/dgrandhay), Ingénieur système
 * [Dupuy Thierry](https://www.arobasix.blogspot.com), Infirmier en psychiatrie
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Délita MAKANDA](https://github.com/delitamakanda), Développeuse full-stack
@@ -514,7 +514,7 @@ En conséquence, nous appelons :
 * Nicolas Assing, développeur
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Nicolas BROUET, Lead Dev
-* [Nicolas Chevobbe](nicolaschevobbe.com) Developpeur, Mozilla
+* [Nicolas Chevobbe](https://nicolaschevobbe.com) Developpeur, Mozilla
 * [Nicolas CHRÉTIEN](https://www.linkedin.com/in/nicolas-chretien-dev974), Développeur, Salarié
 * [Nicolas Dandrimont](https://twitter.com/olasd), Ingénieur chez [Software Heritage](https://softwareheritage.org/) et Développeur [Debian](https://www.debian.org/).
 * Nicolas Desaleux, Lead dev
