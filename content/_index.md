@@ -967,6 +967,8 @@ Contact : onestlatech@protonmail.com
 
 ## Pour aller plus loin
 
+* [Rejoindre le Discord onestla.tech](https://discord.gg/se3PnEr) pour se coordoner et agir
+* Suivre onestla.tech [sur Twitter](https://twitter.com/OnEstLaTech) et [sur Mastodon](https://mastodon.social/@onestlatech)
 * La grève, c'est [cool](https://greve.cool)
 * Aidez votre site [à faire grève](https://github.com/thibault/strike-js)
 * [Genèse et suite à donner à cet appel #OnEstLaTech](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites) (épisode de podcast)
