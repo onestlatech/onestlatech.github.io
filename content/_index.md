@@ -319,7 +319,7 @@ En conséquence, nous appelons :
 * Guillaume Benoit, développeur
 * [Guillaume Blairon](https://twitter.com/_yom_), engineering manager
 * Guillaume Cauchois, Développeur Full-Stack
-* [Guillaume Démésy](https://twitter.com/magsout), Co-fondateur, développeur [Splitfire ](https://www.splitfire.fr/)
+* [Guillaume Démésy](https://twitter.com/magsout), Co-fondateur, développeur [Splitfire](https://www.splitfire.fr/)
 * [Guillaume Gay](http://morphogenie.fr), développeur, ingénieur de recherche
 * [Guillaume Lacasa](https://blog.lacasa.fr), développeur indépendant
 * [Guillaume Lambert](https://github.com/LamGui), Développeur indépendant
@@ -629,7 +629,7 @@ En conséquence, nous appelons :
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
 * [Simon Meeschaert](https://twitter.com/SimonMeeschaert), développeur web
 * Simon Thorel, Développeur/Administrateur de progiciels
-* [Sofian L ](https://github.com/sofianlille), Développeur Web
+* [Sofian L](https://github.com/sofianlille), Développeur Web
 * [Soliman CHEYSSIAL](https://twitter.com/__Soliman), Développeur Web
 * [Sony Tricoire](https://github.com/sonytricoire), Engineering Manager
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
