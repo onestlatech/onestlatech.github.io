@@ -7,20 +7,20 @@ content = File.read("content/_index.md", :encoding => "UTF-8")
 client = Octokit::Client.new(:access_token => ENV["GITHUB_TOKEN"], per_page: 100)
 issues = client.list_issues(repo, :labels => "signature")
 
-newSignatues = ""
+newSignatures = ""
 issues.each do |issue|
     puts "Closing " << issue.title << " - " << issue.body
     if issue.body == ""
-        newSignatues << "* " << issue.title << "\n"
+        newSignatures << "* " << issue.title << "\n"
     else
-        newSignatues << "* " << issue.body << "\n"
+        newSignatures << "* " << issue.body << "\n"
     end
     client.close_issue(repo, issue.number)
 end
 
 regex = /### Actrices et acteurs du numérique\n\n(.*)\n\n### Organisations/m
 signatures = content.match(regex)[1]
-signatures << "\n" << newSignatues
+signatures << "\n" << newSignatures
 
 def sort_markdown(a)
     if a[0..2] == "* ["
