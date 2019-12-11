@@ -872,3 +872,8 @@ du gouvernement et pour proposer une alternative : réduire le temps de travail 
 bien commun.
 
 Contact : onestlatech@protonmail.com
+
+## Pour aller plus loin
+
+* La grève, c'est [cool](https://greve.cool)
+* Aidez votre site [à faire grève](https://github.com/thibault/strike-js)
