@@ -259,8 +259,6 @@ En conséquence, nous appelons :
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * Déborah Mautemps, admin système
 * [Délita MAKANDA](https://github.com/delitamakanda), Développeuse full-stack
-* Matthieu Baechler, Développeur indépendant
-* Kevin Hantzen, Développeur, Arolla
 * [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
 * [Elisabeth Piotelat](https://zazaa.blogspot.com), Administratrice Systèmes et Réseaux
@@ -447,6 +445,7 @@ En conséquence, nous appelons :
 * Katie Palluault - [Formatrice indépendante en informatique](https://www.formation.cultures-etic.entrezsansfrapper.org/)
 * [Kayssar Daher](https://tech.daher.online), ingénieur sécurité
 * Kenneth Vanhoey, Unity, Chercheur scientifique
+* Kevin Hantzen, Développeur, Arolla
 * Kevin Hantzen, Développeur, Arolla 
 * Kevin Pires, développeur chez Tiime Software
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
@@ -464,6 +463,7 @@ En conséquence, nous appelons :
 * Laurent Stemmer, Développeur
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
 * Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Lazare Olivry](https://github.com/lazouz), Ingénieur systèmes et réseaux
 * Le Bissonnais Gautier, Développeur web
 * [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Leo Gouhier](https://www.instagram.com/mrsumima/), etudiant
@@ -591,9 +591,10 @@ En conséquence, nous appelons :
 * [Nicolas « aeris » VINOT](https://imirhil.fr/), développeur
 * Nina Belaid, Chercheuse en biochimie
 * Nino Treyssat-Vincent, développeur web
+* Nolwenn Lavielle, Ingénieure d’études dans l’ESR, contractuelle
 * [Nolwenn Lavielle](), Ingénieure d’études dans l’ESR, contractuelle
 * nopitch, Ingénieur devops
-* Nolwenn Lavielle, Ingénieure d’études dans l’ESR, contractuelle
+* Océane Roudier, Consultante RH freelance & Co-organisatrice de NewCrafts Conference
 * [Olivier Dolbeau](https://odolbeau.fr/)
 * [Olivier Mairet](https://github.com/olivmai), développeur web
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
@@ -636,9 +637,9 @@ En conséquence, nous appelons :
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
 * Pierre Stazak, développeur web
+* Pierre Tondereau, Développeur
 * [Pierre Tondereau], Développeur
 * Pierre Trolle, développeur
-* Pierre Tondereau, Développeur
 * Pierre-Antoine Burdet, Développeur
 * [Pierre-Luc Paour](https://mytrails.app), Développeur
 * Pierrick Le Gall, Développeur
@@ -712,9 +713,9 @@ En conséquence, nous appelons :
 * [Stéphane Colson](https://testingit.eu), Testeur logiciel indépendant
 * [Stéphane Deschamps](https://nota-bene.org/), expert web, salarié
 * [Stéphane Erard](https://twitter.com/sterard_), Développeur
+* Stéphane Lanjard, Développeur web
 * Stéphane Lanjard, Développeur web 
 * Stéphane Pailha, Développeur - 
-* Stéphane Lanjard, Développeur web
 * [Stéphane Raimbault](https://github.com/stephane), développeur freelance [Webstack](https://webstack.fr)
 * Stéphanie Ouillon, ingénieure sécurité
 * Suliac Le Guillou, freelance
@@ -800,8 +801,8 @@ En conséquence, nous appelons :
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Yannick DUPUIS](https://bit.ly/Yannick-Dupuis), manager R&D
-* Yannick LE GAT, Développeur Web 
 * Yannick LE GAT, Développeur Web
+* Yannick LE GAT, Développeur Web 
 * Yannick Martin, Admin système, salarié
 * [Yannick Snobbert](https://twitter.com/yannicksnobbert), Développeur
 * Yannick Tanguy, Développeur Web, Indépendant
