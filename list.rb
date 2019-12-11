@@ -1,8 +1,19 @@
 require 'octokit'
 
 repo = "onestlatech/onestlatech.github.io"
-
 content = File.read("content/_index.md", :encoding => "UTF-8")
+
+def clean_signature(signature)
+    if " - "  == signature[-3]
+        return signature[0...-3]
+    end
+
+    if " " == signature[-1]
+        return signature[0...-1]
+    end
+
+    return signature
+end
 
 client = Octokit::Client.new(:access_token => ENV["GITHUB_TOKEN"], per_page: 100)
 issues = client.list_issues(repo, :labels => "signature")
@@ -11,9 +22,9 @@ newSignatures = ""
 issues.each do |issue|
     puts "Closing " << issue.title << " - " << issue.body
     if issue.body == ""
-        newSignatures << "* " << issue.title << "\n"
+        newSignatures << "* " << clean_signature(issue.title) << "\n"
     else
-        newSignatures << "* " << issue.body << "\n"
+        newSignatures << "* " << clean_signature(issue.body) << "\n"
     end
     client.close_issue(repo, issue.number)
 end
