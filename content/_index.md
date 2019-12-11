@@ -541,7 +541,7 @@ En conséquence, nous appelons :
 * [Nicolas Vigier](https://github.com/boklm/), Développeur
 * Nina Belaid, Chercheuse en biochimie
 * Nino Treyssat-Vincent, développeur web
-* [Nolwenn Lavielle](), Ingénieure d’études dans l’ESR, contractuelle
+* Nolwenn Lavielle, Ingénieure d’études dans l’ESR, contractuelle
 * [Olivier Dolbeau](https://odolbeau.fr/)
 * [Olivier Mairet](https://github.com/olivmai), développeur web
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
@@ -578,7 +578,7 @@ En conséquence, nous appelons :
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
 * Pierre Stazak, développeur web
-* [Pierre Tondereau], Développeur
+* Pierre Tondereau, Développeur
 * Pierre-Antoine Burdet, Développeur
 * [Pierre-Luc Paour](https://mytrails.app), Développeur -
 * Pierrick Le Gall, Développeur
@@ -618,6 +618,7 @@ En conséquence, nous appelons :
 * [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
 * [Rémy Barthez](http://thenew.fr), développeur web
 * [Rémy Lalanne] Analyste programmeur, gérant de PRIMCODE - [Rémy Lalanne] Analyste programmeur, gérant de PRIMCODE
+* Rémy Lalanne, Analyste programmeur, gérant de PRIMCODE
 * [Sacha Vaguelsy](https://twitter.com/sachavaguelsy), VP Product
 * Salah Khouildi, lead dev
 * Samuel Doring, Analyste Fonctionnel, CTG P.S.F. Luxembourg
