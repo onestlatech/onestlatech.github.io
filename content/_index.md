@@ -235,7 +235,7 @@ En conséquence, nous appelons :
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Cécile Moret](https://cecilemoret.com/), Designer
 * Cécile Rabot, Consultante SEO
-* [Cédric BOSCHER], Data Scientist
+* Cédric BOSCHER, Data Scientist
 * Cédric Couralet, développeur
 * [Cédric Levasseur](https://twitter.com/CedricLevasseur), Développeur
 * [Cédric Spalvieri](https://twitter.com/le_skwi), CTO - COO
@@ -271,7 +271,7 @@ En conséquence, nous appelons :
 * [Délita MAKANDA](https://github.com/delitamakanda), Développeuse full-stack
 * [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
-* [Elie Sloïm] Président et fondateur, Opquast
+* Elie Sloïm Président et fondateur, Opquast
 * [Elisabeth Piotelat](https://zazaa.blogspot.com), Administratrice Systèmes et Réseaux
 * Elsa IGUEDJTAL, Agile Swiss Knife (Scrum Master, Coach Agile), InfoCom-CGT
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
@@ -313,7 +313,7 @@ En conséquence, nous appelons :
 * [Florian Martin](https://www.linkedin.com/in/florian-martin-75719071/) Développeur web
 * Florian Minjat, Architecte logiciel indépendant
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
-* [Florian S.], Maitre de conférences en informatique
+* Florian S., Maitre de conférences en informatique
 * Franck Lafay intégrateur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
 * Francois Leproust, développeur front
@@ -393,11 +393,11 @@ En conséquence, nous appelons :
 * [Jared Lethal aka Oz](https://pipou.academy/@Oz), UI/UX designer / intégrateur chez Fière Allure
 * JB Cavarec, Développeur
 * [JB Pionnier](https://twitter.com/JbPionnier), développeur
-* [Jean Bertrand], développeur
+* Jean Bertrand, développeur
 * [Jean Charpentier](https://jeancharpentier.fr/) Bidouilleur informatique et jeux vidéo
 * Jean Paliès, développeur
 * [Jean-Baptiste Vilain](https://github.com/jeanbaptistevilain), artisan logiciel chez Hôtentic
-* [Jean-Daniel Tissot], Administrateur Systèmes et Réseaux au CNRS
+* Jean-Daniel Tissot, Administrateur Systèmes et Réseaux au CNRS
 * Jean-François Aubert, développeur android
 * Jean-François Ghys, Développeur Web
 * [Jean-François Le Foll](https://twitter.com/JeffLeFoll), développeur, co-fondateur d'[Avalon-Lab](https://avalon-lab.fr)
@@ -505,7 +505,7 @@ En conséquence, nous appelons :
 * [Lucas Simonin](https://lucasimonin.me/), Développeur web
 * Lucie Steiblé, linguiste programmeuse
 * Ludovic Gonthier, Développeur web indépendant
-* [Ludovic Richard], Consultant
+* Ludovic Richard, Consultant
 * Ly-Jia Goldstein, Développeuse
 * Léa F, développeuse Java
 * [Léonard Michelet](http://opencorporatefacts.fr/), Développeur et syndicaliste CGT chez [Smile](https://opencorporatefacts.fr/corporate/812882132)
@@ -513,7 +513,7 @@ En conséquence, nous appelons :
 * Manfred Cossard, Ingénieur Cybersécurité
 * [Manon Léger](https://twitter.com/ManonLger) – Co-fondatrice de [Latitudes](https://www.latitudes.cc) • Membre bénévole de [beta.gouv.fr](https://beta.gouv.fr) • Administratrice de [FEST](http://festech.org)
 * [Marc Brillault](https://twitter.com/MarcBrillault), développeur
-* [Marc Galmard] Administrateur Middleware
+* Marc Galmard Administrateur Middleware
 * [Marc Loyat](https://twitter.com/mloyat)
 * [Marc Planard](https://twitter.com/corpsmoderne), développeur - directeur pédagogique adjoint
 * [Marc Plessis](https://github.com/mplessis), Développeur Logiciel chez Legrand France
@@ -664,12 +664,11 @@ En conséquence, nous appelons :
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
 * Pierre Stazak, développeur web
 * Pierre Tondereau, Développeur
-* [Pierre Tondereau], Développeur
+* Pierre Tondereau, Développeur
 * Pierre Trolle, développeur
 * Pierre-Antoine Burdet, Développeur
 * [Pierre-Luc Paour](https://mytrails.app), Développeur
 * Pierrick Le Gall, Développeur
-* [Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Quentin Baudet](https://github.com/Thornolf), Développeur
 * Quentin Berlemont, Tech Lead
@@ -746,7 +745,7 @@ En conséquence, nous appelons :
 * Stéphane Lanjard, Développeur web
 * Stéphane Pailha, Développeur
 * [Stéphane Raimbault](https://github.com/stephane), développeur freelance [Webstack](https://webstack.fr)
-* [Stéphane Rocher] Administrateur réseaux
+* Stéphane Rocher Administrateur réseaux
 * Stéphanie Ouillon, ingénieure sécurité
 * Suliac Le Guillou, freelance
 * [Sunny Ripert](http://sunfox.org), développeur web
@@ -787,7 +786,7 @@ En conséquence, nous appelons :
 * [Thomas Constans](https://opendoor.fr), sysadmin / consultant linux
 * Thomas Desvenain, Développeur Sénior
 * [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
-* [Thomas Guégan], Développeur
+* Thomas Guégan, Développeur
 * [Thomas Jarrand](https://github.com/tom32i), Développeur Web
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
@@ -808,7 +807,7 @@ En conséquence, nous appelons :
 * [Valentin Claras](https://github.com/valentin-claras), Lead Dev
 * [Valentin Drean](https://mamot.fr/@roselove), plombier numérique salarié en association
 * [Valentin Nourdin](https://www.linkedin.com/in/vnourdin/) Data Engineer
-* [Valentin PERRUSSEL], Développeur
+* Valentin PERRUSSEL, Développeur
 * Valentine Boineau - Apprentie developpeuse web
 * [Vianney FAIVRE](https://vianneyfaivre.com/)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
