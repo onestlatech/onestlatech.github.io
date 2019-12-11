@@ -464,7 +464,6 @@ En conséquence, nous appelons :
 * Kenneth Vanhoey, Unity, Chercheur scientifique
 * [Kevin Balicot](https://twitter.com/kevinbalicot) Développeur web
 * Kevin Hantzen, Développeur, Arolla
-* Kevin Hantzen, Développeur, Arolla
 * Kevin Pires, développeur chez Tiime Software
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
 * [Khrys](https://mamot.fr/@Khrys/), touillette bénévole chez [FDN](https://fdn.fr), [FédérationFDN](https://ffdn.org) et [Parinux](https://parinux.org/)
@@ -619,7 +618,6 @@ En conséquence, nous appelons :
 * Nina Belaid, Chercheuse en biochimie
 * Nino Treyssat-Vincent, développeur web
 * Nolwenn Lavielle, Ingénieure d’études dans l’ESR, contractuelle
-* [Nolwenn Lavielle](), Ingénieure d’études dans l’ESR, contractuelle
 * nopitch, Ingénieur devops
 * Océane Roudier, Consultante RH freelance & Co-organisatrice de NewCrafts Conference
 * [Olivier Dolbeau](https://odolbeau.fr/)
@@ -746,7 +744,6 @@ En conséquence, nous appelons :
 * [Stéphane Deschamps](https://nota-bene.org/), expert web, salarié
 * [Stéphane Erard](https://twitter.com/sterard_), Développeur
 * Stéphane Lanjard, Développeur web
-* Stéphane Lanjard, Développeur web
 * Stéphane Pailha, Développeur
 * [Stéphane Raimbault](https://github.com/stephane), développeur freelance [Webstack](https://webstack.fr)
 * [Stéphane Rocher] Administrateur réseaux
@@ -840,7 +837,6 @@ En conséquence, nous appelons :
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
 * [Yannick DUPUIS](https://bit.ly/Yannick-Dupuis), manager R&D
-* Yannick LE GAT, Développeur Web
 * Yannick LE GAT, Développeur Web
 * Yannick Martin, Admin système, salarié
 * [Yannick Snobbert](https://twitter.com/yannicksnobbert), Développeur
