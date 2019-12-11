@@ -859,6 +859,7 @@ En conséquence, nous appelons :
 * Yves Bourguignon, administrateur système
 * [Yves Heitz](https://github.com/hyvs)
 * [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
+* [Nicolas Froidure](https://insertafter.com) Développeur
 
 ### Organisations
 
