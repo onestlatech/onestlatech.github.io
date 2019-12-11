@@ -965,13 +965,23 @@ En conséquence, nous appelons :
 
 ## À propos
 
+### Genèse
+
 Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteurs du numérique se sont organisés,
 et se sont mis d'accord pour publier cet appel.
 Ce texte appelle les travailleuses et travailleurs du numérique à se mobiliser pour dire non à la réforme des retraites
 du gouvernement et pour proposer une alternative : réduire le temps de travail en mettant la technologie au service du
 bien commun.
 
-Contact : onestlatech@protonmail.com
+### Nous contacter
+
+onestlatech@protonmail.com
+
+### Nos incohérences
+
+* Ce texte a été travaillé d'abord sur Gitlab mais suite à des problèmes de latence et nombreux bugs, nous avons migré sur GitHub. Le code et le site sont hébergés sur GitHub car finalement c'était le moyen le plus rapide et le plus simple pour s'organiser.
+* Nous utilisons Discord pour discuter facilement faute de moyens et de temps pour installer une alternative comme [Mattermost](https://mattermost.com/)
+* Nous utilisons beaucoup [Twitter](https://twitter.com/OnEstLaTech/) mais nous recommandons Mastodon : [notre compte](https://mastodon.social/@onestlatech).
 
 ## Pour aller plus loin
 
