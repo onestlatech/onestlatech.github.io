@@ -7,4 +7,5 @@ issues = client.list_issues(repo, :labels => 'signature')
 
 issues.each do |issue|
     puts "* " + issue.body
+    client.close_issue(repo, issue.number)
 end

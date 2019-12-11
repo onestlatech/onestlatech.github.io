@@ -1,7 +1,7 @@
 ---
 name: Signature
 about: Ajouter une signature
-title: 'Signer'
+title: Signer l'appel
 labels: 'signature'
 ---
 

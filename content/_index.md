@@ -729,6 +729,7 @@ En conséquence, nous appelons :
 * [Guillaume Gay](http://morphogenie.fr), développeur, ingénieur de recherche
 * Lionel Orsini, Dev. Front
 * Yohann Rebattu, cofondateur de start-up
+* Arnaud Favreau, développeur web
 
 ### Organisations
 
