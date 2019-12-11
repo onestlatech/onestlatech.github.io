@@ -109,7 +109,7 @@ En conséquence, nous appelons :
 * [Alexis Janvier](https://www.alexisjanvier.net), développeur
 * Alexis Leclerc, Freelance, Developpeur Rails, Etalab
 * Alexis Roche, codeur à temps partiel
-* [Allan Floury](https://www.linkedin.com/in/allanfloury/), Fondateur [Poi](https://poi.app) & Product Designer -
+* [Allan Floury](https://www.linkedin.com/in/allanfloury/), Fondateur [Poi](https://poi.app) & Product Designer
 * Allan Rethoré, Freelance PHP
 * Aloïs Drey, développeur web
 * Aloïs Guillopé, Développeur
@@ -196,7 +196,7 @@ En conséquence, nous appelons :
 * [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
 * [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel - [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel
 * Chrystelle Coupat, Responsable Exploitation Mediapart
-* Claire Dhénin, Ingénieure Full Stack chez Misakey -
+* Claire Dhénin, Ingénieure Full Stack chez Misakey
 * [Claire Villard](https://twitter.com/neur0nia), Développeuse
 * Clara Ponte, enseignante d'histoire géographie dans le privé sous contrat avec l'état
 * Clotilde Martin-Lemerle, UX designer
@@ -580,7 +580,7 @@ En conséquence, nous appelons :
 * Pierre Stazak, développeur web
 * Pierre Tondereau, Développeur
 * Pierre-Antoine Burdet, Développeur
-* [Pierre-Luc Paour](https://mytrails.app), Développeur -
+* [Pierre-Luc Paour](https://mytrails.app), Développeur
 * Pierrick Le Gall, Développeur
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Quentin Baudet](https://github.com/Thornolf), Développeur
@@ -638,7 +638,7 @@ En conséquence, nous appelons :
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * [Stéphane Albanese](https://github.com/stfufane), Développeur
 * [Stéphane Castrec](https://stephanecastrec.fr), Développeur freelance
-* [Stéphane Colson](https://testingit.eu), Testeur logiciel indépendant -
+* [Stéphane Colson](https://testingit.eu), Testeur logiciel indépendant
 * [Stéphane Deschamps](https://nota-bene.org/), expert web, salarié
 * [Stéphane Erard](https://twitter.com/sterard_), Développeur
 * Stéphane Lanjard, Développeur web
