@@ -711,12 +711,12 @@ En conséquence, nous appelons :
 * [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
 * [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
-* Rémi Suinot, je ne suis pas ingénieur, je suis infirmier, je paramètre les logiciels de soins dans un chu
+* Rémi Suinot
 * [Rémy Barthez](http://thenew.fr), développeur web
 * Rémy Lalanne, Analyste programmeur, gérant de PRIMCODE
 * [Sacha Vaguelsy](https://twitter.com/sachavaguelsy), VP Product
 * Salah Khouildi, lead dev
-* Samuel Beaufreton Responsable digital - Déjà en grève et en manif le 5, je serais des prochaines mobilisations... Marre de ces pseudo réforme qui sont surtout une privatisation du bien commun !
+* Samuel Beaufreton, Responsable digital
 * Samuel Doring, Analyste Fonctionnel, CTG P.S.F. Luxembourg
 * [Samuel PECOUL](https://twitter.com/Kaizen_Dev), Developpeur Freelance
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
