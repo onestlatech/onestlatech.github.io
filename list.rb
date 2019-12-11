@@ -4,11 +4,11 @@ repo = "onestlatech/onestlatech.github.io"
 content = File.read("content/_index.md", :encoding => "UTF-8")
 
 def clean_signature(signature)
-    if " - "  == signature[-3]
+    if signature[-3] == " - "
         return signature[0...-3]
     end
 
-    if " " == signature[-1]
+    if signature[-1] == " "
         return signature[0...-1]
     end
 
