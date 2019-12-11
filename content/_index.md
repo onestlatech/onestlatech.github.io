@@ -242,7 +242,8 @@ En conséquence, nous appelons :
 * [Dupuy Thierry](https://www.arobasix.blogspot.com), Infirmier en psychiatrie
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Délita MAKANDA](https://github.com/delitamakanda), Développeuse full-stack
-* Mathieu CLAVEL, Développeur environment java. 
+* Matthieu Baechler, Développeur indépendant
+* Kevin Hantzen, Développeur, Arolla 
 * [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
 * [Elisabeth Piotelat](https://zazaa.blogspot.com), Administratrice Systèmes et Réseaux
@@ -348,6 +349,7 @@ En conséquence, nous appelons :
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jared Lethal aka Oz](https://pipou.academy/@Oz), UI/UX designer / intégrateur chez Fière Allure
+* JB Cavarec, Développeur
 * [JB Pionnier](https://twitter.com/JbPionnier), développeur
 * [Jean Bertrand], développeur - [Jean Bertrand], développeur
 * [Jean Charpentier](https://jeancharpentier.fr/) Bidouilleur informatique et jeux vidéo
@@ -467,6 +469,7 @@ En conséquence, nous appelons :
 * [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
 * Mathieu Capon, Développeur Web Fullstack
 * [Mathieu Clabaut](https://ontoblogie.clabaut.net), CTO [Systerel](https://www.systerel.fr)
+* Mathieu CLAVEL, Développeur environment java. 
 * Mathieu Delhay, développeur web
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Mathieu Godart](https://www.linkedin.com/in/godart/), ingénieur logiciel et directeur technique
@@ -518,6 +521,7 @@ En conséquence, nous appelons :
 * [Nicolas Dewez](https://github.com/nicolasdewez), Lead dev
 * [Nicolas Doby](https://framasphere.org/people/2df72c708792013707d42a0000053625), Développeur chez [IT's On Us](https://www.itsonus.fr/)
 * Nicolas Dorigny, développeur indépendant 
+* [Nicolas Dubois](https://nicolasdubois.com) • [@wo0dyn](https://twitter.com/wo0dyn), UI Developer chez [PeopleDoc](https://www.people-doc.fr/) _by_ UltimateSoftware.
 * Nicolas Durand
 * [Nicolas Fédou](https://twitter.com/CoulasFedou), Lead Développeur 
 * Nicolas Gomes, Développeur Web
