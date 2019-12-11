@@ -85,8 +85,6 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à onestlatech@protonmail.com
 
-Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
-
 ## Signataires
 
 ### Actrices et acteurs du numérique
@@ -710,6 +708,27 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Yannick Martin, Admin système, salarié
 * [Dupuy Thierry](https://www.arobasix.blogspot.com), Infirmier en psychiatrie
 * Joel Oosterlinck
+* [François Armand](https://medium.com/@fanf42/stay-up-5b780511109d), CTO rudder.io
+* [Rémy Barthez](http://thenew.fr), développeur web
+* Simon Thorel, Développeur/Administrateur de progiciels
+* [Romain Batby](https://twitter.com/BatbyRomain) Architecte développeur
+* [Guillaume Lambert](https://github.com/LamGui), Développeur indépendant
+* Alexis Roche, codeur à temps partiel
+* [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel - [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel
+* [Rémy Lalanne] Analyste programmeur, gérant de PRIMCODE - [Rémy Lalanne] Analyste programmeur, gérant de PRIMCODE
+* [Jean Bertrand], développeur - [Jean Bertrand], développeur
+* [Ludovic Richard], Consultant
+* [Sunny Ripert](http://sunfox.org), développeur web
+* [Pierre Tondereau], Développeur
+* [Lara Dufour](https://lamecarlate.net), développeuse web
+* Lucas Baire, Développeur, Membre d'Acrimed, du STJV et de GWU
+* Julien Colin, Développeur
+* [Thomas Zilliox](https://tzi.fr), expert CSS indépendant
+* [Pierre Bouvier-Muller](http://www.virtual-assembly.org/)
+* Clotilde Martin-Lemerle, UX designer
+* [Guillaume Gay](http://morphogenie.fr), développeur, ingénieur de recherche
+* Lionel Orsini, Dev. Front
+* Yohann Rebattu, cofondateur de start-up
 
 ### Organisations
 
