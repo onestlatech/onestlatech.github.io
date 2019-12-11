@@ -238,7 +238,7 @@ En conséquence, nous appelons :
 * [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * Dominique Rousseau
 * [Dorian Bussi](https://github.com/bussidn) Crafter
-* [Dorian GRANDHAY](twitter.com/dgrandhay), Ingénieur système
+* [Dorian GRANDHAY](https://twitter.com/dgrandhay), Ingénieur système
 * [Dupuy Thierry](https://www.arobasix.blogspot.com), Infirmier en psychiatrie
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Délita MAKANDA](https://github.com/delitamakanda), Développeuse full-stack
