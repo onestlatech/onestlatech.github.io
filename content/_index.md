@@ -606,7 +606,7 @@ En conséquence, nous appelons :
 * [Romuald Priol](https://twitter.com/doc_roms), Développeur
 * Romy Alula, développeuse, salariée
 * [Romy Duhem-Verdière](http://romy.tetue.net), design UX & a11y en cabinet de conseil IT
-* [Ronan Launay](https://github.com/ronanlaunay), Ingénieur système, réseau et sécurité pour Creative Groupe (https://www.groupe-creative.fr)
+* [Ronan Launay](https://github.com/ronanlaunay), Ingénieur système, réseau et sécurité pour [Creative Groupe](https://www.groupe-creative.fr)
 * Ronan Trotin, développeur
 * Régis L'Hostis, Consultant et formateur Outils numériques, Windtopik.fr
 * [Rémi Andrieux](https://github.com/pimolo), développeur web
