@@ -224,6 +224,7 @@ En conséquence, nous appelons :
 * [Charles de Lacombe](https://twitter.com/Cha_de_L), développeur & sysadmin pour Hespul et Institut négaWatt
 * Charlotte Declercq
 * [Christian Quest](https://twitter.com/cq94), dev/sys/data
+* Christian Renaudineau, Chef de projet
 * [Christophe Andrieu](https://twitter.com/stpo), web designer
 * Christophe Baticle, Socio-anthropologue, UPJV, Amiens
 * [Christophe DEMAY](https://twitter.com/chrstphdm), bioinformaticien@chudeLille
@@ -233,6 +234,7 @@ En conséquence, nous appelons :
 * [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
 * Christophe Rudelle, consultant-formateur Transformation numérique
 * [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel
+* [Christophe Vergne](https://www.christophevergne.fr), Développeur
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * Claire Dhénin, Ingénieure Full Stack chez Misakey
 * [Claire Villard](https://twitter.com/neur0nia), Développeuse
@@ -243,6 +245,7 @@ En conséquence, nous appelons :
 * [Clément Gibaud](https://twitter.com/cleming_), Administrateur système
 * [Clément Lesaulnier](https://github.com/clesauln) Développeur web
 * [Clément Poissonnier](https://twitter.com/cpoissonnier), Tech Lead
+* [Clément Simmoneau](https://lesoiseauxdepassage.coop/), co gérant, SCIC Les oiseaux de passage
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Colin Maudry, Conseiller indépendant en Open Data
 * Coralie Coton, Designeuse [Troopers.agency](https://troopers.agency/fr/)
@@ -272,6 +275,7 @@ En conséquence, nous appelons :
 * [Daniel BORIS IGLESIA](https://twitter.com/Dan_Borisov), Expert Back-End, RAKUTEN
 * [Daniel Dehennin](https://mastodon.etalab.gouv.fr/@DaD), développeur, intégrateur et administrateur système et réseau au [Pôle de Compétences Logiciels Libres](https://pcll.ac-dijon.fr/pcll/) du ministère de l’Éducation nationale et de la jeunesse
 * Daniel Kaplan, cofondateur et ancien DG de la Fing, cofondateur du Réseau Université de la Pluraliité
+* [Daniel Lodenet](https://lesoiseauxdepassage.coop/), expert senior tourisme social, SCIC Les oiseaux de passage
 * [David Benqué](https://post.lurk.org/@air_pump), Designer/Chercheur
 * [David Bocquet](http://zewebmaster.fr), Développeur web
 * David Codron, Responsable de projets MOE
@@ -315,6 +319,7 @@ En conséquence, nous appelons :
 * Etienne Cochard, développeur système
 * Etienne Laurent, dev Linux embarqué
 * Etienne PIERROT, Software Developer Arolla
+* [Etienne Théodore](https://youfeel.fr), CTO at [YouFeel](https://www.youfeel.fr/)
 * Fabien Bataille, Développeur
 * Fabien CAMPOS, Responsable Études et dev
 * [Fabien Chaillou](https://github.com/fabienChaillou), PHP developer and other technos
@@ -341,9 +346,9 @@ En conséquence, nous appelons :
 * [Florian Martin](https://www.linkedin.com/in/florian-martin-75719071/) Développeur web
 * Florian Minjat, Architecte logiciel indépendant
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
+* Florian S., Maitre de conférences en informatique
 * [Florian S.], Maitre de conférences en informatique
 * [Florine Sueur](https://www.soit.rocks/), UX Dev
-* Florian S., Maitre de conférences en informatique
 * Franck Lafay intégrateur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
 * Francois Leproust, développeur front
@@ -730,12 +735,12 @@ En conséquence, nous appelons :
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
 * Pierre Stazak, développeur web
 * Pierre Tondereau, Développeur
-* Pierre Tondereau, Développeur
 * Pierre Trolle, développeur
 * Pierre-Antoine Burdet, Développeur
 * [Pierre-Luc Paour](https://mytrails.app), Développeur
 * Pierre-Olivier Cazenave
 * Pierrick Le Gall, Développeur
+* [Prosper Wanner](https://lesoiseauxdepassage.coop/), salarié doctorant, SCIC Les oiseaux de passage
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Quentin Baudet](https://github.com/Thornolf), Développeur
 * Quentin Berlemont, Tech Lead
@@ -785,6 +790,7 @@ En conséquence, nous appelons :
 * Salomé Lahmar, développeuse web
 * Samuel Beaufreton Responsable digital - Déjà en grève et en manif le 5, je serais des prochaines mobilisations... Marre de ces pseudo réforme qui sont surtout une privatisation du bien commun !
 * Samuel Beaufreton, Responsable digital
+* [Samuel Bonneau](https://lesoiseauxdepassage.coop/), co gérant, SCIC Les oiseaux de passage
 * Samuel Doring, Analyste Fonctionnel, CTG P.S.F. Luxembourg
 * [Samuel PECOUL](https://twitter.com/Kaizen_Dev), Developpeur Freelance
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
@@ -837,6 +843,7 @@ En conséquence, nous appelons :
 * [Sébastien Lerique](https://slvh.fr), chercheur postdoc en évolution du langage
 * [Sébastien Picq](https://twitter.com/Kheltdire), Ingénieur frontend @ekino
 * Sébastien Roth, développeur c++
+* [Sébastien Vicard], développeur fullstack
 * Séverine Wiltgen, SRE Mediapart
 * Tam Kien Duong, data.gouv.fr
 * [Tanguy Falconnet](https://github.com/tanguyfalconnet), DevOpsDev
@@ -860,9 +867,9 @@ En conséquence, nous appelons :
 * [Thomas Constans](https://opendoor.fr), sysadmin / consultant linux
 * Thomas Desvenain, Développeur Sénior
 * [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
+* Thomas Guégan, Développeur
 * [Thomas Guégan], Développeur
 * [Thomas Huraux](https://thomashuraux.com), responsable scientifique projet
-* Thomas Guégan, Développeur
 * [Thomas Jarrand](https://github.com/tom32i), Développeur Web
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
@@ -939,6 +946,7 @@ En conséquence, nous appelons :
 * Yves Bourguignon, administrateur système
 * [Yves Heitz](https://github.com/hyvs)
 * [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
+* Ève Demazière, chef de projet web et coordinatrice intranet, correspondante accessibilité numérique
 
 ### Organisations
 
