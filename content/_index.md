@@ -203,7 +203,7 @@ En conséquence, nous appelons :
 * Camile Daniel, développeuse chez [Yaal](https://yaal.fr/)
 * Camille Douay, data scientist
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Caroline Noyer, Product Owner / Développeur back senior -
+* Caroline Noyer, Product Owner / Développeur back senior
 * [Charles de Lacombe](https://twitter.com/Cha_de_L), développeur & sysadmin pour Hespul et Institut négaWatt
 * Charlotte Declercq
 * [Christian Quest](https://twitter.com/cq94), dev/sys/data
@@ -311,7 +311,7 @@ En conséquence, nous appelons :
 * [Florian FERRIERE](https://github.com/fferriere), Développeur
 * Florian Lemaitre, Lead developer, salarié
 * [Florian Martin](https://www.linkedin.com/in/florian-martin-75719071/) Développeur web
-* Florian Minjat, Architecte logiciel indépendant -
+* Florian Minjat, Architecte logiciel indépendant
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * [Florian S.], Maitre de conférences en informatique
 * Franck Lafay intégrateur
@@ -321,7 +321,7 @@ En conséquence, nous appelons :
 * [François Armand](https://medium.com/@fanf42/stay-up-5b780511109d), CTO rudder.io
 * François Barbe, tech lead
 * François CARDENAS, Développeur
-* François COLOMBIER, salarié de Coopératic -
+* François COLOMBIER, salarié de Coopératic
 * [François Cornuaud](https://twitter.com/AtChA_), Développeur Front End
 * François Le Gal, Responsable technique
 * François Vantomme, développeur
@@ -647,8 +647,8 @@ En conséquence, nous appelons :
 * Paulo de Carvalho, Intégrateur
 * [Peio Roth](https://peio.now.sh/), développeur
 * Perrine Bocquin, Intégratrice
-* Peter Livaudais, Directeur de projects -
-* [Philippe Bernery](https://www.linkedin.com/in/pbernery), ingénieur logiciel -
+* Peter Livaudais, Directeur de projects
+* [Philippe Bernery](https://www.linkedin.com/in/pbernery), ingénieur logiciel
 * Philippe Cheminel, Développeur
 * Philippe Makowski
 * [Pierre Bertrand](https://twitter.com/PbnPierre), développeur web @ Deezer
@@ -747,7 +747,7 @@ En conséquence, nous appelons :
 * [Stéphane Erard](https://twitter.com/sterard_), Développeur
 * Stéphane Lanjard, Développeur web
 * Stéphane Lanjard, Développeur web
-* Stéphane Pailha, Développeur -
+* Stéphane Pailha, Développeur
 * [Stéphane Raimbault](https://github.com/stephane), développeur freelance [Webstack](https://webstack.fr)
 * [Stéphane Rocher] Administrateur réseaux
 * Stéphanie Ouillon, ingénieure sécurité
