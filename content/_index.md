@@ -135,7 +135,7 @@ En conséquence, nous appelons :
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Antoine Kuhn](https://linkedin.com/in/antoine-kuhn), Développeur Fullstack, SpaceAble
 * [Antoine Plu](https://twitter.com/AntoinePlu), Designer
-* Antoine POURCHEZ (https://web-ou-reseau-social), Ingénieur architecte R&D, Kelis
+* [Antoine POURCHEZ](https://web-ou-reseau-social), Ingénieur architecte R&D, Kelis
 * Antoine Samson, Resp. Exploitation
 * [Antonin Dupont](https://dupon.in), sysadmin
 * [Armand Bour](https://twitter.com/Tydax), Full stack developer [GearedApp](https://geared.app)
@@ -233,7 +233,7 @@ En conséquence, nous appelons :
 * [Cyrille Laulier](http://www.lebiosphere.net/), Professeur de technologie
 * [Cyrille Martraire](https://twitter.com/cyriux), développeur, CTO
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Cécile Moret (https://cecilemoret.com/), Designer
+* [Cécile Moret](https://cecilemoret.com/), Designer
 * Cécile Rabot, Consultante SEO
 * [Cédric BOSCHER], Data Scientist
 * Cédric Couralet, développeur
@@ -500,7 +500,7 @@ En conséquence, nous appelons :
 * [Luc Poupard](https://www.kloh.ch), designer front-end et staffeur [Paris Web](https://www.paris-web.fr)
 * [Lucas B](https://twitter.com/le_luk), lead developpeur
 * Lucas Baire, Développeur, Membre d'Acrimed, du STJV et de GWU
-* Lucas Geitner https://lemouvement.ong  CTO ~ le mouvement
+* Lucas Geitner CTO ~ [le mouvement](https://lemouvement.ong)
 * [Lucas Landry](https://github.com/lukland), Data Engineer
 * [Lucas Simonin](https://lucasimonin.me/), Développeur web
 * Lucie Steiblé, linguiste programmeuse
@@ -537,7 +537,7 @@ En conséquence, nous appelons :
 * [Mathieu Godart](https://www.linkedin.com/in/godart/), ingénieur logiciel et directeur technique
 * Mathieu Kim Robin, développeur web
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
-* Mathieu REMY, Agiliste Low Coder - Mathieu REMY (https://www.linkedin.com/in/mathieuremy/), Expert en Product & Services Management, Low code evangelist
+* [Mathieu REMY](https://www.linkedin.com/in/mathieuremy/), Expert en Product & Services Management, Low code evangelist
 * [Mathieu Santostefano](https://twitter.com/welcomattic), développeur web chez [JoliCode](https://jolicode.com)
 * [Mathieu TUDISCO](https://github.com/mathieutu), Lead developer
 * [Mathieu Wostyn](https://m.g3l.org/@mathieu), (chat-)touilleur digital (mais néanmoins agitateur numérique)
@@ -546,7 +546,7 @@ En conséquence, nous appelons :
 * Matthieu Baechler, Développeur indépendant
 * Matthieu Caron, Lead Développeur
 * [Matthieu Herrb](https://mastodon.tetaneutral.net/@mherrb) Ingénieur de recherche
-* Matthieu Trubert - Ingénieur - Collectif Numérique UGICT (https://lenumeriqueautrement.fr/)
+* Matthieu Trubert - Ingénieur - Collectif Numérique UGICT - [Le Numérique Autrement](https://lenumeriqueautrement.fr/)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * [Maxime Colin](https://github.com/maximecolin), Développeur Web
 * [Maxime Dantec](https://github.com/Warry), développeur / designer
@@ -598,7 +598,7 @@ En conséquence, nous appelons :
 * Nicolas Gourlé, développeur
 * [Nicolas Goutay](https://twitter.com/phacks), Architecte Développeur, Theodo
 * [Nicolas Grekas](https://twitter.com/nicolasgrekas), Ingénieur logiciels libres
-* Nicolas Grzelak (https://www.drakona.fr), Développeur Web, Co-gérant de Drakona
+* [Nicolas Grzelak](https://www.drakona.fr), Développeur Web, Co-gérant de Drakona
 * [Nicolas Hart](https://www.nclshart.net/), Développeur
 * [Nicolas Hery](https://github.com/nicohery), developer
 * [Nicolas Lair](https://twitter.com/nlair_dev), Développeur
@@ -727,7 +727,7 @@ En conséquence, nous appelons :
 * [Simon Meeschaert](https://twitter.com/SimonMeeschaert), développeur web
 * Simon Mellerin, Développeur web
 * Simon Thorel, Développeur/Administrateur de progiciels
-* Simon Urli (https://github.com/surli), développeur
+* [Simon Urli](https://github.com/surli), développeur
 * [Sofian L](https://github.com/sofianlille), Développeur Web
 * [Soliman CHEYSSIAL](https://twitter.com/__Soliman), Développeur Web
 * [Soline Ledésert](https://twitter.com/SolineLedesert), UX designer à l'ICIJ, co-fondatrice d'algotransparency.org et hippocrate.tech
