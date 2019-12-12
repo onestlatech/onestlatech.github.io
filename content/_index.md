@@ -22,7 +22,7 @@ doivent survivre avec 868,20 € par mois de minimum vieillesse, il gagne l'équ
 
 Le gouvernement voudrait nous faire croire qu'il faut travailler plus longtemps pour financer les retraites de nos anciens,
 que les cheminotes et cheminots, les soignantes et soignants, les pompières et pompiers ou les enseignantes et enseignants
-seraient des nantis vivant au crochet de la société.
+seraient des nantis vivant aux crochets de la société.
 En réalité, les inégalités sont telles que
 [26 personnes possèdent plus à elles seules que 3,8 milliards d'humains réunis](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it).
 À la deuxième position de ces 26 personnes se trouve [Bernard Arnault](https://www.ladepeche.fr/2019/07/17/le-patron-de-lvmh-bernard-arnault-depasse-bill-gates-et-devient-la-deuxieme-fortune-mondiale,8317658.php),
@@ -40,7 +40,7 @@ sont également la cause de la destruction de la valeur de nombreuses compétenc
 Les femmes et hommes ainsi rendus précaires ne bénéficient d'aucune clémence de notre société :
 injonction leur est faite de se conformer à un marché du travail qui ne tolère pas qu'on ralentisse sa marche vers une rentabilité érigée
 comme une fin en soi.
-Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux mêmes après qu'un algorithme ou qu'un robot les aient remplacés.
+Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux-mêmes après qu'un algorithme ou qu'un robot les ont remplacés.
 
 L'automatisation peut et doit servir l'humanité. Elle permettrait de travailler moins, **de partir en retraite plus tôt**,
 et dans d'excellentes conditions de vie, de dégager à tous du temps libre pour étudier, expérimenter, pratiquer les sports,
@@ -75,8 +75,8 @@ l'automatisation au service du bien public plutôt qu'à celui de quelques milli
 
 En conséquence, nous appelons :
 
-* à participer au mouvement de grève et aux manifestations contre la réforme,
-* à alimenter les [caisses de grève](https://mamot.fr/@gaspacho/103255035118067057) pour compenser la perte de revenus des grévistes,
+* à participer au mouvement de grève et aux manifestations contre la réforme ;
+* à alimenter les [caisses de grève](https://mamot.fr/@gaspacho/103255035118067057) pour compenser la perte de revenus des grévistes ;
 * à afficher sur nos sites web et dans nos entreprises notre soutien à la lutte contre la réforme.
 
 ## Signez !
@@ -193,7 +193,7 @@ En conséquence, nous appelons :
 * Benoit Langlais, Ingénieur réseaux
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
 * [Benoit Viguier](https://twitter.com/b_viguier), Lead Développeur
-* [Benoît Guigal](https://benoitguigal.fr), Développeur freelance [beta.gouv](https://beta.gouv.fr/), ex: [Entrepreneur d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/) 
+* [Benoît Guigal](https://benoitguigal.fr), Développeur freelance [beta.gouv](https://beta.gouv.fr/), ex: [Entrepreneur d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/)
 * [Benoît Hillairet](https://twitter.com/BenoitHillairet), développeur web
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * Bernard Laurant, coach en création logiciel
@@ -348,7 +348,6 @@ En conséquence, nous appelons :
 * Florian Minjat, Architecte logiciel indépendant
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * Florian S., Maitre de conférences en informatique
-* [Florian S.], Maitre de conférences en informatique
 * [Florine Sueur](https://www.soit.rocks/), UX Dev
 * Franck Lafay intégrateur
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur web
@@ -421,7 +420,7 @@ En conséquence, nous appelons :
 * [Hervé Frackowiak](https://twitter.com/Frackher), Creative Technologist @ [Agence Pirate](https://www.agence-pirate.fr/)
 * [Hervé Geraldo](https://twitter.com/hervegeraldo), Développeur
 * [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
-* Hubert de Lentaigne, chef de projet ESN 
+* Hubert de Lentaigne, chef de projet ESN
 * Hugo Fouques, dévéloppeur, Fretlink
 * [Hugo Miranda](https://www.facebook.com/hugo.miranda1), Développeur web chez Zenika Paris. Compte bien arrêter de travailler avant 65 ans.
 * [Hugo Wood](https://github.com/hgwood), Développeur, Zenika Nantes
@@ -475,7 +474,7 @@ En conséquence, nous appelons :
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Joris BOQUET](https://louifox.house), Ingénieur Système et bidouilleur du quotidien
 * [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
-* Joseph Robert, développeur 
+* Joseph Robert, développeur
 * jrayneau, Coach agile & produit
 * [Jules Pietri](https://twitter.com/julespietri)
 * Julie Trannois, Dév Web Lyon
@@ -581,7 +580,7 @@ En conséquence, nous appelons :
 * Margot Racat, freelance à Mind Your Sense
 * Marie Comet, développeuse web
 * Marie GIGON, Agile consultant
-* Marine Gout, Chef de projet / PO 
+* Marine Gout, Chef de projet / PO
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Marion Tommasi](http://marion.tommasi.free.fr), doctorante
 * Marius Ghislain, Développeur
@@ -851,7 +850,7 @@ En conséquence, nous appelons :
 * [Sébastien Picq](https://twitter.com/Kheltdire), Ingénieur frontend @ekino
 * Sébastien Roth, développeur c++
 * Sébastien Talidec, développeur
-* [Sébastien Vicard], développeur fullstack
+* Sébastien Vicard, développeur fullstack
 * Séverine Wiltgen, SRE Mediapart
 * Tam Kien Duong, data.gouv.fr
 * [Tanguy Falconnet](https://github.com/tanguyfalconnet), DevOpsDev
@@ -876,7 +875,6 @@ En conséquence, nous appelons :
 * Thomas Desvenain, Développeur Sénior
 * [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
 * Thomas Guégan, Développeur
-* [Thomas Guégan], Développeur
 * [Thomas Huraux](https://thomashuraux.com), responsable scientifique projet
 * [Thomas Jarrand](https://github.com/tom32i), Développeur Web
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
@@ -985,7 +983,7 @@ onestlatech@protonmail.com
 
 ## Pour aller plus loin
 
-* [Rejoindre le Discord onestla.tech](https://discord.gg/se3PnEr) pour se coordoner et agir
+* [Rejoindre le Discord onestla.tech](https://discord.gg/se3PnEr) pour se coordonner et agir
 * Suivre onestla.tech [sur Twitter](https://twitter.com/OnEstLaTech) et [sur Mastodon](https://mastodon.social/@onestlatech)
 * La grève, c'est [cool](https://greve.cool)
 * Aidez votre site [à faire grève](https://github.com/thibault/strike-js)
