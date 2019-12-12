@@ -165,6 +165,7 @@ En conséquence, nous appelons :
 * Arthur Rucquois, Développeur indigné
 * [Arthur Simon](https://www.arthur-simon.com), Dev Web
 * Asma Moumni, UX & Service Designer
+* Audric Gueidan, Médiateur numérique
 * Aurélien Lemaitre, Lead dev
 * [Aurélien MAGNE](https://www.linkedin.com/in/amagne/), Consultant chez Business&Decision
 * [Baptiste Adrien](https://twitter.com/shinework), développeur [Premier Octet](https://www.premieroctet.com)
@@ -508,6 +509,7 @@ En conséquence, nous appelons :
 * [Jérôme Béhuet](https://jbehuet.fr), Développeur - Freelance - DEEXIT
 * [Jérôme COGNET](http://github.com/jcognet), développeur Fullstack, linkvalue
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Jérôme Kowalczyk, Développeur
 * Jérôme Lebrun, développeur
 * [Jérôme Levet](https://zombienightterror.com), Game Developper @ NoClip
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -545,6 +547,7 @@ En conséquence, nous appelons :
 * Lionel Orsini, Dev. Front
 * [Loan ROBERT](https://twitter.com/rbrtloan), développeur web - [Yaal](https://www.yaal.fr/)
 * Lonny Loquesol, Développeur Web
+* [Loïc Barouty](https://twitter.com/loicbarouty), développeur web
 * Loïc Perrin, Directeur de projet
 * Loïc RODIER, DevOps and automation architect
 * [Loïc Tosser](https://twitter.com/LoicTosser), Tech lead back
@@ -608,6 +611,7 @@ En conséquence, nous appelons :
 * [Matt Marcha](https://github.com/Aveias), Développeur web
 * Matthieu Baechler, Développeur indépendant
 * Matthieu Caron, Lead Développeur
+* [Matthieu FAURE](https://mamot.fr/@mfaure), Architecte Logiciel Libre à l'[ADULLACT](https://adullact.org/)
 * [Matthieu Herrb](https://mastodon.tetaneutral.net/@mherrb) Ingénieur de recherche
 * Matthieu Trubert - Ingénieur - Collectif Numérique UGICT - [Le Numérique Autrement](https://lenumeriqueautrement.fr/)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
@@ -688,6 +692,7 @@ En conséquence, nous appelons :
 * Nino Treyssat-Vincent, développeur web
 * Nolwenn Lavielle, Ingénieure d’études dans l’ESR, contractuelle
 * nopitch, Ingénieur devops
+* Norman M., Développeur indépendant
 * Océane Roudier, Consultante RH freelance & Co-organisatrice de NewCrafts Conference
 * [Olivier Dolbeau](https://odolbeau.fr/)
 * [Olivier Mairet](https://github.com/olivmai), développeur web
@@ -698,6 +703,7 @@ En conséquence, nous appelons :
 * [Olivier Rogier](https://twitter.com/ordisoftware), Analyste-programmeur
 * Olivier Sgoifo, développeur/devops, salarié
 * Olivier Vallée, développeur
+* Pablo Labarca, Consultant numérisation des outils de travail
 * [Pascal Borreli](https://twitter.com/pborreli), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * [Pascal Rullier](https://twitter.com/PascalR34) Libriste, admin système/réseau, CEO BLNT
@@ -796,6 +802,7 @@ En conséquence, nous appelons :
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Serge Hardy](https://twitter.com/sergehardy), développeur
 * [Simon Boisnard](https://twitter.com/SBoisnard), Product manager
+* [Simon Bussy](https://simonbussy.com/), Cofondateur & CTO @Califrais, Machine Learning Researcher
 * [Simon Bée](https://github.com/simon-bee), Développeur web
 * Simon Descarpentries, gérant [Acoeuro.com](http://Acoeuro.com)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
@@ -843,6 +850,7 @@ En conséquence, nous appelons :
 * [Sébastien Lerique](https://slvh.fr), chercheur postdoc en évolution du langage
 * [Sébastien Picq](https://twitter.com/Kheltdire), Ingénieur frontend @ekino
 * Sébastien Roth, développeur c++
+* Sébastien Talidec, développeur
 * [Sébastien Vicard], développeur fullstack
 * Séverine Wiltgen, SRE Mediapart
 * Tam Kien Duong, data.gouv.fr
