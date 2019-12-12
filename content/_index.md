@@ -879,9 +879,9 @@ onestlatech@protonmail.com
 
 ### Nos incohérences
 
-* Ce texte a été travaillé d'abord sur Gitlab mais suite à des problèmes de latence et nombreux bugs, nous avons migré sur GitHub. Le code et le site sont hébergés sur GitHub car finalement c'était le moyen le plus rapide et le plus simple pour s'organiser.
+* Ce texte a d'abord été travaillé sur Gitlab. Des problèmes de latence et bugs dans la publication du site nous ont contraint à opter pour Github. C'était le moyen le plus simple et le moins contraignant pour nous organiser.
 * Nous utilisons Discord pour discuter facilement faute de moyens et de temps pour installer une alternative comme [Mattermost](https://mattermost.com/)
-* Nous utilisons beaucoup [Twitter](https://twitter.com/OnEstLaTech/) mais nous recommandons Mastodon : [notre compte](https://mastodon.social/@onestlatech).
+* Nous utilisons beaucoup [Twitter](https://twitter.com/OnEstLaTech/) mais recommandons [Mastodon](https://mastodon.social/@onestlatech).
 
 ## Pour aller plus loin
 
