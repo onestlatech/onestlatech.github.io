@@ -79,6 +79,15 @@ En conséquence, nous appelons :
 * à alimenter les [caisses de grève](https://mamot.fr/@gaspacho/103255035118067057) pour compenser la perte de revenus des grévistes ;
 * à afficher sur nos sites web et dans nos entreprises notre soutien à la lutte contre la réforme.
 
+## Revue de Presse
+On parle de notre appel ici :
+* [Konbini](https://news.konbini.com/societe/reforme-des-retraites-la-tech-francaise-sort-de-sa-matrice/)
+* [Usine Digitale](https://www.usine-digitale.fr/article/reforme-des-retraites-les-geeks-se-rebiffent.N912024)
+* [01Net](https://www.01net.com/actualites/un-collectif-de-travailleurs-du-numerique-appelle-a-la-greve-1821529.html)
+* [Mediapart](https://blogs.mediapart.fr/onestlatech/blog/101219/retraites-appel-des-travailleuses-et-travailleurs-du-numerique)
+* [Politis](https://www.politis.fr/articles/2019/12/appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites-41157/)
+* [Podcast Echo](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites)
+
 ## Signez !
 
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
