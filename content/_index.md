@@ -6,56 +6,56 @@ draft: false
 
 # Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 
-L'automatisation peut être une chance pour l'humanité : elle permet de déléguer aux machines
+L’automatisation peut être une chance pour l’humanité : elle permet de déléguer aux machines
 toujours plus de tâches fastidieuses, ingrates, complexes, ennuyeuses ou non épanouissantes.
-Les progrès fulgurants effectués au cours des dernières décennies dans les domaines de l'électronique,
-de l'informatique, des réseaux et de l'intelligence artificielle permettent tous les jours un peu plus
-de s'affranchir du travail.
+Les progrès fulgurants effectués au cours des dernières décennies dans les domaines de l’électronique,
+de l’informatique, des réseaux et de l’intelligence artificielle permettent tous les jours un peu plus
+de s’affranchir du travail.
 
 Malheureusement, les monumentales richesses produites par les machines et les programmes développés par les actrices et acteurs du numérique
 sont elles aussi accaparées par une poignée de personnes, propriétaires ou actionnaires des multinationales de la tech
 ou de domaines qui en dépendent toujours plus.
-Cela représente [plus de 3 300 milliards de dollars rien qu'en 2019](https://www.statista.com/statistics/886397/total-tech-spending-worldwide/).
-Un exemple parmi d'autres, Bernard Arnault est un important actionnaire de Google, de Netflix mais aussi de 50 startups incubées à la Station F.
+Cela représente [plus de 3 300 milliards de dollars rien qu’en 2019](https://www.statista.com/statistics/886397/total-tech-spending-worldwide/).
+Un exemple parmi d’autres, Bernard Arnault est un important actionnaire de Google, de Netflix mais aussi de 50 startups incubées à la Station F.
 Alors que les plus pauvres de nos aînés, [en particulier les femmes](https://www.inegalites.fr/La-pauvrete-selon-le-sexe?id_theme=22),
-doivent survivre avec 868,20 € par mois de minimum vieillesse, il gagne l'équivalent de [**3 millions d'euros par heure**](https://www.marianne.net/economie/bernard-arnault-vs-lucy-la-doyenne-de-l-humanite-aurait-du-travailler-10-millions-d-annees).
+doivent survivre avec 868,20 € par mois de minimum vieillesse, il gagne l’équivalent de [**3 millions d’euros par heure**](https://www.marianne.net/economie/bernard-arnault-vs-lucy-la-doyenne-de-l-humanite-aurait-du-travailler-10-millions-d-annees).
 
-Le gouvernement voudrait nous faire croire qu'il faut travailler plus longtemps pour financer les retraites de nos anciens,
+Le gouvernement voudrait nous faire croire qu’il faut travailler plus longtemps pour financer les retraites de nos anciens,
 que les cheminotes et cheminots, les soignantes et soignants, les pompières et pompiers ou les enseignantes et enseignants
 seraient des nantis vivant au crochet de la société.
 En réalité, les inégalités sont telles que
-[26 personnes possèdent plus à elles seules que 3,8 milliards d'humains réunis](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it).
+[26 personnes possèdent plus à elles seules que 3,8 milliards d’humains réunis](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it).
 À la deuxième position de ces 26 personnes se trouve [Bernard Arnault](https://www.ladepeche.fr/2019/07/17/le-patron-de-lvmh-bernard-arnault-depasse-bill-gates-et-devient-la-deuxieme-fortune-mondiale,8317658.php),
 juste derrière Jeff Bezos. Parmi ces 26, se trouvent quelques acteurs de la tech… mais aucun cheminot, ni soignant, ni pompier, ni enseignant.
 
-Allonger le nombre d'années de travail nécessaires avant la retraite
+Allonger le nombre d’années de travail nécessaires avant la retraite
 ou encore prétendre lutter contre le chômage tout en incitant à effectuer des heures supplémentaires
-est une aberration, un non-sens historique à l'heure de l'automatisation galopante.
+est une aberration, un non-sens historique à l’heure de l’automatisation galopante.
 Se battre pour « la valeur travail » est non seulement futile mais dangereux : la société de consommation, [cette volonté imbécile de vouloir produire
 toujours plus et toujours plus inutile](https://reporterre.net/Les-riches-detruisent-la-planete-A-bas-les-riches)
 est en train de [détruire notre planète](https://www.lesechos.fr/idees-debats/cercle/pour-sauver-le-climat-il-faut-reguler-le-capitalisme-1031766).
 
-Ces machines et programmes, parce qu'ils sont de grands facteurs de gains de productivité,
+Ces machines et programmes, parce qu’ils sont de grands facteurs de gains de productivité,
 sont également la cause de la destruction de la valeur de nombreuses compétences sur le marché du travail.
-Les femmes et hommes ainsi rendus précaires ne bénéficient d'aucune clémence de notre société :
-injonction leur est faite de se conformer à un marché du travail qui ne tolère pas qu'on ralentisse sa marche vers une rentabilité érigée
+Les femmes et hommes ainsi rendus précaires ne bénéficient d’aucune clémence de notre société :
+injonction leur est faite de se conformer à un marché du travail qui ne tolère pas qu’on ralentisse sa marche vers une rentabilité érigée
 comme une fin en soi.
-Tout ceci au mépris de l'avis des premières et premiers concernés, livrés à eux mêmes après qu'un algorithme ou qu'un robot les aient remplacés.
+Tout ceci au mépris de l’avis des premières et premiers concernés, livrés à eux mêmes après qu’un algorithme ou qu’un robot les aient remplacés.
 
-L'automatisation peut et doit servir l'humanité. Elle permettrait de travailler moins, **de partir en retraite plus tôt**,
-et dans d'excellentes conditions de vie, de dégager à tous du temps libre pour étudier, expérimenter, pratiquer les sports,
+L’automatisation peut et doit servir l’humanité. Elle permettrait de travailler moins, **de partir en retraite plus tôt**,
+et dans d’excellentes conditions de vie, de dégager à tous du temps libre pour étudier, expérimenter, pratiquer les sports,
 les arts, passer du temps en famille ou entre amis ; de vivre.
 
 Les programmes et les machines que nous créons peuvent contribuer à lutter contre la pauvreté,
 permettre à toutes et tous de vivre mieux et plus confortablement.
-Cela n'arrivera cependant qu'aux conditions que les richesses qu'ils produisent soient plus équitablement réparties
+Cela n’arrivera cependant qu’aux conditions que les richesses qu’ils produisent soient plus équitablement réparties
 et que leurs [impacts environnementaux](https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/) soient réduits.
 
-L'automatisation doit être mise à profit pour redonner du sens au travail, pour permettre de travailler mieux, et moins.
-À l'opposé de la standardisation du travail qui impose aux humains de s'adapter au rythme infernal des machines
+L’automatisation doit être mise à profit pour redonner du sens au travail, pour permettre de travailler mieux, et moins.
+À l’opposé de la standardisation du travail qui impose aux humains de s’adapter au rythme infernal des machines
 (courses Uber, livraisons Deliveroo, chargement des camions dans les entrepôts Amazon
 et autres tournées de distribution de colis guidées par des algorithmes),
-l'automatisation doit servir à le réhumaniser, à permettre aux travailleuses et aux travailleurs de regagner en autonomie,
+l’automatisation doit servir à le réhumaniser, à permettre aux travailleuses et aux travailleurs de regagner en autonomie,
 en initiative et en maîtrise de leur outil de production.
 En tant que conceptrices et concepteurs de ces programmes, de ces algorithmes,
 notre responsabilité est de veiller à ce que nos créations servent à aider, à libérer. De refuser de produire des
@@ -63,15 +63,15 @@ outils conçus pour exploiter, asservir, [réprimer](https://github.com/drop-ice
 
 Même si nous croyons que nous serons moins touchés par la réforme des retraites,
 souhaitons-nous pour autant que nos proches, nos connaissances ou simplement les autres travailleuses et
-travailleurs aient à choisir entre travailler jusqu'à 64, 65… 70 ans et vivre dans la précarité la plus totale ?
-Nous n'acceptons pas ce projet qui nous empêche de nous projeter dans l'avenir, la valeur du point étant fixée par décret.
+travailleurs aient à choisir entre travailler jusqu’à 64, 65… 70 ans et vivre dans la précarité la plus totale ?
+Nous n’acceptons pas ce projet qui nous empêche de nous projeter dans l’avenir, la valeur du point étant fixée par décret.
 
 Nous, développeuses et développeurs, administratrices et administrateurs systèmes, enseignantes et enseignants, chercheuses et chercheurs,
 designers, actrices et acteurs du numérique, du Web et des télécoms qui travaillons pour le service public, dans de grandes entreprises privées, dans des startups,
 dans des coopératives, en tant que salarié ou indépendant affirmons notre opposition à la réforme des retraites proposée par le gouvernement
-et militons à la place pour une réforme reposant sur d'autres bases de répartition des richesses :
-**abaisser l'âge de départ à la retraite et réduire le temps de travail** en mettant
-l'automatisation au service du bien public plutôt qu'à celui de quelques milliardaires.
+et militons à la place pour une réforme reposant sur d’autres bases de répartition des richesses :
+**abaisser l’âge de départ à la retraite et réduire le temps de travail** en mettant
+l’automatisation au service du bien public plutôt qu’à celui de quelques milliardaires.
 
 En conséquence, nous appelons :
 
@@ -81,8 +81,8 @@ En conséquence, nous appelons :
 
 ## Signez !
 
-* **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
-* ou si vous n'avez pas de compte, signez en nous envoyant un email à onestlatech@protonmail.com
+* **Signez cet appel** avec un compte GitHub.com, [en créant une « issue » sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
+* ou si vous n’avez pas de compte, signez en nous envoyant un email à onestlatech@protonmail.com
 
 ## Signataires
 
@@ -99,13 +99,13 @@ En conséquence, nous appelons :
 * [Adrien JUGUET](https://www.linkedin.com/in/adrien-juguet-906a30100/), Développeur JAVA
 * [Adrien LUCAS](https://twitter.com/adrienlucas/), Développeur
 * Adrien Risser, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
-* [Alain "moustachu" Buchotte](https://github.com/moustachu), DevOps chez [Open Source Politics](https://opensourcepolitics.eu/)
+* [Alain « moustachu » Buchotte](https://github.com/moustachu), DevOps chez [Open Source Politics](https://opensourcepolitics.eu/)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Alaric Baraou](https://alaric.baraou.eu), développeur web / mobile freelance
 * [Alban Mouton](https://github.com/albanm), co-fondateur [Koumoul](https://koumoul.com)
 * [Albert de Pétigny](https://twitter.com/adepetigny), Éditeur
 * Albin Suplisson, DevOps chez OVH
-* [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l'[AFUP](https://afup.org/)
+* [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l’[AFUP](https://afup.org/)
 * [Alexandre Amor](https://ralex.fr), Ingénieur DevOps
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * Alexandre Cotte, PM
@@ -157,7 +157,7 @@ En conséquence, nous appelons :
 * [Arnaud Strill](https://twitter.com/ArnaudStrill), Développeur Web
 * [Arnaud Tarroux](https://twitter.com/Strnoar), Développeur
 * Arthur Farrugia, Développeur
-* Arthur Hay, coopérateur à Coursiers Bordelais, coop de livraison à vélo du réseau Coopcycle, alternative à l'uberisation
+* Arthur Hay, coopérateur à Coursiers Bordelais, coop de livraison à vélo du réseau Coopcycle, alternative à l’uberisation
 * Arthur Hazebroucq, développeur web
 * [Arthur Lambert-Bourjac](https://www.linkedin.com/in/arthurbourjac/), Software Crafter
 * [Arthur LEDARD](https://yaal.fr), Développeur chez Yaal
@@ -173,7 +173,7 @@ En conséquence, nous appelons :
 * Baptiste Goulard, Développeur web
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Barikad, architecte d'infrastructure
+* Barikad, architecte d’infrastructure
 * [Bastien Durel](https://github.com/BastienDurel), Développeur
 * [Bastien Mosnier](https://www.linkedin.com/in/bastien-mosnier-69ba6a137), Ingénieur logiciel
 * [Bastien Picharles](https://twitter.com/kleinast), développeur
@@ -183,7 +183,7 @@ En conséquence, nous appelons :
 * Benjamin Gounine, Développeur Web - Consultant cybersécurité
 * [Benjamin Marguin](https://twitter.com/mab_), développeur web, formateur Git
 * [Benjamin Richard](https://www.linkedin.com/in/benrichard/), Responsable technique
-* [Benjamin Sonntag](https://www.octopuce.fr), gérant d'Octopuce, cofondateur de La Quadrature du Net
+* [Benjamin Sonntag](https://www.octopuce.fr), gérant d’Octopuce, cofondateur de La Quadrature du Net
 * [Benjamin Sureau](https://github.com/fligflug), développeur web
 * [Benjamin Winckell](https://twitter.com/oh_meeen), Developpeur Lead
 * [Benjamin Zaslavsky](https://github.com/tiriel), développeur web
@@ -193,7 +193,7 @@ En conséquence, nous appelons :
 * Benoit Langlais, Ingénieur réseaux
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
 * [Benoit Viguier](https://twitter.com/b_viguier), Lead Développeur
-* [Benoît Guigal](https://benoitguigal.fr), Développeur freelance [beta.gouv](https://beta.gouv.fr/), ex: [Entrepreneur d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/) 
+* [Benoît Guigal](https://benoitguigal.fr), Développeur freelance [beta.gouv](https://beta.gouv.fr/), ex: [Entrepreneur d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/) 
 * [Benoît Hillairet](https://twitter.com/BenoitHillairet), développeur web
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * Bernard Laurant, coach en création logiciel
@@ -211,7 +211,7 @@ En conséquence, nous appelons :
 * [Bruno Adelé](http://bruno.adele.im), DevOps
 * [Bruno Duyé](https://github.com/brunetton), ingénieur développement logiciel open data chez [Jailbreak](https://www.jailbreak.paris/fr-FR)
 * Bruno Ebstein, développeur, salarié
-* Bruno Katra, ingénieur d'études en développement au CNRS
+* Bruno Katra, ingénieur d’études en développement au CNRS
 * [Bruno Loton](https://brunoloton.com), designer
 * Bruno Palancher, retraité services télécoms
 * Bruno Voisin, développeur web chez [Yaal](https://yaal.fr)
@@ -239,7 +239,7 @@ En conséquence, nous appelons :
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * Claire Dhénin, Ingénieure Full Stack chez Misakey
 * [Claire Villard](https://twitter.com/neur0nia), Développeuse
-* Clara Ponte, enseignante d'histoire géographie dans le privé sous contrat avec l'état
+* Clara Ponte, enseignante d’histoire géographie dans le privé sous contrat avec l’État
 * Clotilde Martin-Lemerle, UX designer
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Clément Delmas](https://www.clementdelmas.fr/)
@@ -269,7 +269,7 @@ En conséquence, nous appelons :
 * Daisy Leroy, Développeuse web, freelance
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Damien Brun, développeur web
-* Damien Hardy, Sysadmin, Architecte d'infrastructure
+* Damien Hardy, Sysadmin, Architecte d’infrastructure
 * [Damien Pitard](https://twitter.com/pitpit0), CTO
 * [Damien Pobel](https://damien.pobel.fr/)
 * Dan Carbone, Développeur web
@@ -306,7 +306,7 @@ En conséquence, nous appelons :
 * Elsa IGUEDJTAL, Agile Swiss Knife (Scrum Master, Coach Agile), InfoCom-CGT
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
 * [Emile Fabrol](https://github.com/Emile-F-50), DSI en retraite
-* Emmanuel Decoux, Développeur à L'Université
+* Emmanuel Decoux, Développeur à L’Université
 * Emmanuel Lorenzo de Brionne, chef de projet web
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
 * [Emmanuel Requier](https://github.com/alaeri) Developpeur
@@ -445,7 +445,7 @@ En conséquence, nous appelons :
 * Jean-Daniel Tissot, Administrateur Systèmes et Réseaux au CNRS
 * Jean-François Aubert, développeur android
 * Jean-François Ghys, Développeur Web
-* [Jean-François Le Foll](https://twitter.com/JeffLeFoll), développeur, co-fondateur d'[Avalon-Lab](https://avalon-lab.fr)
+* [Jean-François Le Foll](https://twitter.com/JeffLeFoll), développeur, co-fondateur d’[Avalon-Lab](https://avalon-lab.fr)
 * Jean-Luc Laborde, Admin système & réseau - CRPP - Université de Bordeaux
 * [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
 * [Jean-Philippe Reculeau](https://github.com/jpreculeau), Consultant en transformation des SI
@@ -487,7 +487,7 @@ En conséquence, nous appelons :
 * [Julien CROUZET](https://twitter.com/codeAndPotatoes), Lead Dev
 * [Julien Grave](https://www.facebook.com/jul.grave), Ingénieur développeur
 * Julien Kergourlay, Sécurité & reverse proxy
-* [Julien Kermarec](https://julienkermarec.com/), Gérant KERWEB, développeur freelance d'applications mobiles
+* [Julien Kermarec](https://julienkermarec.com/), Gérant KERWEB, développeur freelance d’applications mobiles
 * [Julien Leclercq](https://github.com/julien-leclercq), développeur web
 * [Julien Leicher](https://julien.leicher.me), Développeur indépendant
 * Julien Manganne, développeur
@@ -495,7 +495,7 @@ En conséquence, nous appelons :
 * [Julien Maulny](https://twitter.com/alcalyn_), développeur
 * [Julien Négros](https://twitter.com/djiock), Administrateur Système chez Enercoop
 * Julien SIBI, développeur Freelance Drupal
-* [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
+* [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l’AFUP et de DrupalFr
 * Julien Vannès - Julien Vannès, consultant décisionnel
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérémie Picard](https://github.com/Osirisxxl), développeur web, Zenika
@@ -558,7 +558,7 @@ En conséquence, nous appelons :
 * [Luc Didry](https://fiat-tux.fr), administrateur systèmes et développeur chez [Framasoft](https://framasoft.org)
 * [Luc Poupard](https://www.kloh.ch), designer front-end et staffeur [Paris Web](https://www.paris-web.fr)
 * [Lucas B](https://twitter.com/le_luk), lead developpeur
-* Lucas Baire, Développeur, Membre d'Acrimed, du STJV et de GWU
+* Lucas Baire, Développeur, Membre d’Acrimed, du STJV et de GWU
 * Lucas Geitner CTO ~ [le mouvement](https://lemouvement.ong)
 * [Lucas Landry](https://github.com/lukland), Data Engineer
 * [Lucas Simonin](https://lucasimonin.me/), Développeur web
@@ -569,7 +569,7 @@ En conséquence, nous appelons :
 * Léa F, développeuse Java
 * [Léonard Michelet](http://opencorporatefacts.fr/), Développeur et syndicaliste CGT chez [Smile](https://opencorporatefacts.fr/corporate/812882132)
 * [Lê Thành Dũng Nguyễn](https://nguyentito.eu/), doctorant en informatique
-* Madeline O'Leary, développeuse
+* Madeline O’Leary, développeuse
 * Manfred Cossard, Ingénieur Cybersécurité
 * [Manon Léger](https://twitter.com/ManonLger) – Co-fondatrice de [Latitudes](https://www.latitudes.cc) • Membre bénévole de [beta.gouv.fr](https://beta.gouv.fr) • Administratrice de [FEST](http://festech.org)
 * [Marc Brillault](https://twitter.com/MarcBrillault), développeur
@@ -611,7 +611,7 @@ En conséquence, nous appelons :
 * [Matt Marcha](https://github.com/Aveias), Développeur web
 * Matthieu Baechler, Développeur indépendant
 * Matthieu Caron, Lead Développeur
-* [Matthieu FAURE](https://mamot.fr/@mfaure), Architecte Logiciel Libre à l'[ADULLACT](https://adullact.org/)
+* [Matthieu FAURE](https://mamot.fr/@mfaure), Architecte Logiciel Libre à l’[ADULLACT](https://adullact.org/)
 * [Matthieu Herrb](https://mastodon.tetaneutral.net/@mherrb) Ingénieur de recherche
 * Matthieu Trubert - Ingénieur - Collectif Numérique UGICT - [Le Numérique Autrement](https://lenumeriqueautrement.fr/)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
@@ -641,7 +641,7 @@ En conséquence, nous appelons :
 * [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
 * Mickaël Goasdoué, Manager Support & Engineering
 * [Mickaël Margollé](https://www.linkedin.com/in/micka%C3%ABl-margoll%C3%A9-b0000210a/), Développeur Freelance
-* [Mika BENOIT](https://www.linkedin.com/in/mika-benoit), ingénieur en système de l'information chez CGI.
+* [Mika BENOIT](https://www.linkedin.com/in/mika-benoit), ingénieur en système de l’information chez CGI.
 * [Mikael Randy](https://www.mikaelrandy.fr/), Architecte web
 * Mohamed ZAHOUANI, Consultant Cybersécurité
 * [Morgan Auchede](https://twitter.com/mauchede)
@@ -661,7 +661,7 @@ En conséquence, nous appelons :
 * [Nicolas Dandrimont](https://twitter.com/olasd), Ingénieur chez [Software Heritage](https://softwareheritage.org/) et Développeur [Debian](https://www.debian.org/).
 * Nicolas Desaleux, Lead dev
 * [Nicolas Dewez](https://github.com/nicolasdewez), Lead dev
-* [Nicolas Doby](https://framasphere.org/people/2df72c708792013707d42a0000053625), Développeur chez [IT's On Us](https://www.itsonus.fr/)
+* [Nicolas Doby](https://framasphere.org/people/2df72c708792013707d42a0000053625), Développeur chez [IT’s On Us](https://www.itsonus.fr/)
 * Nicolas Dorigny, développeur indépendant
 * [Nicolas Dubois](https://nicolasdubois.com) • [@wo0dyn](https://twitter.com/wo0dyn), UI Developer chez [PeopleDoc](https://www.people-doc.fr/) _by_ UltimateSoftware.
 * Nicolas Durand
@@ -707,7 +707,7 @@ En conséquence, nous appelons :
 * [Pascal Borreli](https://twitter.com/pborreli), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Pascal Roux](https://github.com/pizzavomito), Développeur
 * [Pascal Rullier](https://twitter.com/PascalR34) Libriste, admin système/réseau, CEO BLNT
-* [Patrice Cacciuttolo](https://www.linkedin.com/in/patricecacciuttolo/) CDO - WCO - Responsable du Centre de Traitement de l'Information AMSE/PRISM
+* [Patrice Cacciuttolo](https://www.linkedin.com/in/patricecacciuttolo/) CDO - WCO - Responsable du Centre de Traitement de l’Information AMSE/PRISM
 * [Patrick Vergain](https://twitter.com/pvergain), développeur
 * Paul Andrieux, développeur
 * Paul Bonaud, Ingénieur Logiciel
@@ -738,7 +738,7 @@ En conséquence, nous appelons :
 * [Pierre Huyghe](https://twitter.com/MierreMuyghe), Développeur
 * Pierre Kuhner, Ingénieur sécurité
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
+* [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d’Investigation (ICIJ)
 * Pierre Stazak, développeur web
 * Pierre Tondereau, Développeur
 * Pierre Trolle, développeur
@@ -777,7 +777,7 @@ En conséquence, nous appelons :
 * [Romy Duhem-Verdière](http://romy.tetue.net), design UX & a11y en cabinet de conseil IT
 * [Ronan Launay](https://github.com/ronanlaunay), Ingénieur système, réseau et sécurité pour [Creative Groupe](https://www.groupe-creative.fr)
 * Ronan Trotin, développeur
-* Régis L'Hostis, Consultant et formateur Outils numériques, Windtopik.fr
+* Régis L’Hostis, Consultant et formateur Outils numériques, Windtopik.fr
 * [Rémi Andrieux](https://github.com/pimolo), développeur web
 * Rémi Delhermet, développeur, salarié
 * [Rémi Gacogne](https://twitter.com/rgacogne), Développeur
@@ -812,9 +812,9 @@ En conséquence, nous appelons :
 * [Simon Urli](https://github.com/surli), développeur
 * [Sofian L](https://github.com/sofianlille), Développeur Web
 * [Soliman CHEYSSIAL](https://twitter.com/__Soliman), Développeur Web
-* [Soline Ledésert](https://twitter.com/SolineLedesert), UX designer à l'ICIJ, co-fondatrice d'algotransparency.org et hippocrate.tech
+* [Soline Ledésert](https://twitter.com/SolineLedesert), UX designer à l’ICIJ, co-fondatrice d’algotransparency.org et hippocrate.tech
 * [Sony Tricoire](https://github.com/sonytricoire), Engineering Manager
-* Sophie Pavoine, Déléguée à la protection des données, Référente diffusion numérique, Centre de Gestion d'Ille et Vilaine
+* Sophie Pavoine, Déléguée à la protection des données, Référente diffusion numérique, Centre de Gestion d’Ille et Vilaine
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Stefan KRUGER - Développeur - Altitude Création - Cherbourg en Cotentin (Manche - 50)
 * [Stephan Simart](https://twitter.com/stifoon), responsable R&D autour de [navitia](https://www.navitia.io)
@@ -893,7 +893,7 @@ En conséquence, nous appelons :
 * [Tom Berriot](https://twitter.com/BerriotTom), Développeur
 * Tom Panier, développeur frontend, Synbioz
 * [Touillet Thierry](https://web-ou-reseau-social), TechSI developer TrouthieIT(pas obligatoire)
-* Tranbert - [Tranbert](http://tranbert.com), dépanneur d'ordinateurs
+* Tranbert - [Tranbert](http://tranbert.com), dépanneur d’ordinateurs
 * Tristan Helík, ingénieur réseaux
 * Tristan Prudhomme, Développeur, Max Digital Services
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
@@ -907,7 +907,7 @@ En conséquence, nous appelons :
 * [Vianney FAIVRE](https://vianneyfaivre.com/)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * [Victor Héry](https://mamot.fr/@victorhery) Administrateur système
-* [Victor Loux](https://victorloux.uk), designer d'interaction
+* [Victor Loux](https://victorloux.uk), designer d’interaction
 * [Victoria DOMINGUEZ DEL A](https://orcid.org/0000-0002-5514-6651), Bioinformaticien
 * [Victoria Dominguez](https://github.com/vdda), Bioinformatics
 * [Vincent Caron](https://bearstech.com), développeur, adminsys, sociétaire chez Bearstech SCOP
@@ -945,7 +945,7 @@ En conséquence, nous appelons :
 * [Yohann Berthon](https://github.com/ybert), Développeur chez Openrunner
 * Yohann Gablowski, Développeur Web
 * Yohann Godefroy, Développeur Web
-* [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
+* [Yohann Marillet](https://github.com/ymarillet), architecte d’applications / lead dev php/symfony
 * Yohann Rebattu, cofondateur de start-up
 * Youssef BOUJALLAB - 100% Agree
 * Yuliya Korenchuk, Développeur
@@ -958,15 +958,15 @@ En conséquence, nous appelons :
 
 ### Organisations
 
-* [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
-* [Syndicat de l'industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
+* [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l’ugict cgt](http://www.ugict.cgt.fr/)
+* [Syndicat de l’industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
 * [Syndicat Interprofessionnel de la Presse, des Médias, de la Culture et du Spectacle-CNT-f](https://twitter.com/SIPMCS_CNT), [Site](http://www.cnt-f.org/sipm/)
 * [Solidaires Informatique Rhône](https://twitter.com/SI_Rhone), Section Rhône du syndicat Solidaires Informatique
 
 ## À propos
 
 Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteurs du numérique se sont organisés,
-et se sont mis d'accord pour publier cet appel.
+et se sont mis d’accord pour publier cet appel.
 Ce texte appelle les travailleuses et travailleurs du numérique à se mobiliser pour dire non à la réforme des retraites
 du gouvernement et pour proposer une alternative : réduire le temps de travail en mettant la technologie au service du
 bien commun.
@@ -977,6 +977,6 @@ Contact : onestlatech@protonmail.com
 
 * [Rejoindre le Discord onestla.tech](https://discord.gg/se3PnEr) pour se coordoner et agir
 * Suivre onestla.tech [sur Twitter](https://twitter.com/OnEstLaTech) et [sur Mastodon](https://mastodon.social/@onestlatech)
-* La grève, c'est [cool](https://greve.cool)
+* La grève, c’est [cool](https://greve.cool)
 * Aidez votre site [à faire grève](https://github.com/thibault/strike-js)
 * [Genèse et suite à donner à cet appel #OnEstLaTech](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites) (épisode de podcast)
