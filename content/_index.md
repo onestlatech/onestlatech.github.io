@@ -80,7 +80,9 @@ En conséquence, nous appelons :
 * à afficher sur nos sites web et dans nos entreprises notre soutien à la lutte contre la réforme.
 
 ## Revue de Presse
+
 On parle de notre appel ici :
+
 * [Konbini](https://news.konbini.com/societe/reforme-des-retraites-la-tech-francaise-sort-de-sa-matrice/)
 * [Usine Digitale](https://www.usine-digitale.fr/article/reforme-des-retraites-les-geeks-se-rebiffent.N912024)
 * [01Net](https://www.01net.com/actualites/un-collectif-de-travailleurs-du-numerique-appelle-a-la-greve-1821529.html)
