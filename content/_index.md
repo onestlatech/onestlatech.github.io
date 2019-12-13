@@ -138,6 +138,7 @@ En conséquence, nous appelons :
 * [Anaël Ollier](https://github.com/nanawel), Développeur
 * Anne-Laure de Boissieu, Développeuse web
 * Anne-Marie Esteves, développeuse, Solidaires Informatique
+* Annie Bouscarrut
 * [Anthony Dugois](https://twitter.com/a_dugois), Étudiant en informatique théorique
 * [Anthony GRASSIOT](https://twitter.com/antograssiot), développeur
 * Anthony Loizeau, Développeur Web
@@ -240,7 +241,6 @@ En conséquence, nous appelons :
 * Camille Douay, data scientist
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Caroline Noyer, Product Owner / Développeur back senior
-* [CGT SEMA](mailto:contact_chez_cgt-sema_point_fr), CGT des Sociétés d'Études de Montpellier Agglomération
 * [Charles de Lacombe](https://twitter.com/Cha_de_L), développeur & sysadmin pour Hespul et Institut négaWatt
 * Charlotte Declercq
 * [Christian Quest](https://twitter.com/cq94), dev/sys/data
@@ -293,6 +293,7 @@ En conséquence, nous appelons :
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Damien Brun, développeur web
 * Damien Hardy, Sysadmin, Architecte d'infrastructure
+* [Damien Le Thiec](https://github.com/damienlethiec), CTO chez Aventure Bio
 * [Damien Pitard](https://twitter.com/pitpit0), CTO
 * [Damien Pobel](https://damien.pobel.fr/)
 * Dan Carbone, Développeur web
@@ -446,6 +447,7 @@ Informaticiens en formation à l'UPEC
 * [Guillaume Martigny](https://www.guillaume-martigny.fr), Développeur
 * [Guillaume Ponty](https://twitter.com/PontyGuillaume)
 * Guillaume Subiron, Administrateur système, cogérant de [Sysnove](https://www.sysnove.fr)
+* [Guillaume Téchené](https://twitter.com/GTechene), développeur indépendant
 * [Guillaume Verdun](https://twitter.com/gverdun), webmaster
 * Guillaume Vigier, Administrateur réseau Mediapart
 * [Guillaume Wauquier](https://www.declic3000.coml), Développeur web et gérant de Déclic3000
@@ -513,6 +515,7 @@ Informaticiens en formation à l'UPEC
 * [Johan Soulet](https://twitter.com/johansoulet), développeur
 * Johann Belleguie, sysadmin
 * Jonas Faure, développeur, salarié
+* Jonas Infante, Développeur web
 * [Jonathan Champion](https://fr.linkedin.com/in/jonathanchampion), expert technique
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
 * [Jonathan Magano](https://twitter.com/Jonamaths), analyste logiciel
@@ -1009,6 +1012,7 @@ Informaticiens en formation à l'UPEC
 * [Touillet Thierry](https://web-ou-reseau-social), TechSI developer TrouthieIT(pas obligatoire)
 * Tranbert - [Tranbert](http://tranbert.com), dépanneur d'ordinateurs
 * Tristan Helík, ingénieur réseaux
+* [Tristan Maindron](https://tristan.maindron.io), CTO
 * Tristan Prudhomme, Développeur, Max Digital Services
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * Valentin Aubin, technicien support
@@ -1084,6 +1088,7 @@ Informaticiens en formation à l'UPEC
 * [Syndicat Interprofessionnel de la Presse, des Médias, de la Culture et du Spectacle-CNT-f](https://twitter.com/SIPMCS_CNT), [Site](http://www.cnt-f.org/sipm/)
 * [Solidaires Informatique Rhône](https://twitter.com/SI_Rhone), Section Rhône du syndicat Solidaires Informatique
 * [Syndicat stp67 de la CNT](http://www.cnt-f.org/)
+* [CGT SEMA](mailto:contact_chez_cgt-sema_point_fr), CGT des Sociétés d'Études de Montpellier Agglomération
 
 ## À propos
 
