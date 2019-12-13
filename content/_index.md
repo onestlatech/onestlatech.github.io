@@ -411,6 +411,7 @@ Informaticiens en formation à l'UPEC
 * Gaëtan Duchaussois, Admin sys
 * [Gee](https://ptilouk.net/), développeur et auteur libre
 * [Geoffrey Bachelet](https://twitter.com/ubermuda), Co-fondateur [Vanoix](https://vanoix.com/)
+* Geoffroy Braun, je suis lead développer .Net
 * Germain Costenobel, Tech lead
 * [Gervaise Philibert](https://twitter.com/AnnekeVGrimber1), développeuse
 * Gilbert Guillou, Concepteur-Développeur (full stack)
