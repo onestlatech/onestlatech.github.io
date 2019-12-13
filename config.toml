@@ -3,9 +3,10 @@ defaultContentLanguage = "fr"
 languageCode = "fr-fr"
 title = "✊ onestla.tech"
 theme = "beautifulhugo"
+sectionPagesMenu = "main"
 
 [Params]
-  socialShare = true
+  socialShare = false
   organizationName = "onestla.tech"
   favicon = "avatar.png"
   logo = "header.jpg"

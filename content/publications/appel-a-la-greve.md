@@ -1,9 +1,9 @@
 ---
-title: ✊ onestla.tech  
-subtitle: Appel à la grève  
+title: Appel à la grève du Mardi 17 décembre 2019
 date: 2019-12-13T15:49:29+01:00  
 draft: false
 ---
+## Appel à la grève du Mardi 17 décembre 2019
 
 Longtemps le gouvernement a décrédibilisé le mouvement de grève contre la réforme des retraites, 
 le jugeant absurde dans la mesure où rien n'avait été présenté. C'est maintenant chose faite. 
