@@ -109,7 +109,7 @@ En conséquence, nous appelons :
 * [Albert de Pétigny](https://twitter.com/adepetigny), Éditeur
 * Albin Suplisson, DevOps chez OVH
 * [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l'[AFUP](https://afup.org/)
-* [Alexandre "Tr4sK" Novakovski] (https://mastodon.partipirate.org/@Tr4sK), Administrateur système et bénévole Ubuntu-fr.
+* [Alexandre "Tr4sK" Novakovski](https://mastodon.partipirate.org/@Tr4sK), Administrateur système et bénévole Ubuntu-fr.
 * [Alexandre Amor](https://ralex.fr), Ingénieur DevOps
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * Alexandre Cotte, PM
@@ -136,12 +136,12 @@ En conséquence, nous appelons :
 * Amandine Schmid, Ingénieur système Linux
 * Amaury Vallier, Tech Lead, Smile
 * Amélie Defrance, Intégratrice
-* [Amine Saboni], Consultant Data
+* Amine Saboni, Consultant Data
 * Amine Zaghdoudi https://twitter.com/mino26tz
 * [Anaël Chardan](https://github.com/anaelChardan), Software Engineer @Novactive
 * [Anaël Ollier](https://github.com/nanawel), Développeur
 * Anaëlle Leclabart, étudiant et dev web
-* [Anaïs Rousteau], développeuse
+* Anaïs Rousteau, développeuse
 * [André Aubin](https://andral.kiwi), Développeur
 * Anne-Laure de Boissieu, Développeuse web
 * Anne-Marie Esteves, développeuse, Solidaires Informatique
@@ -652,7 +652,7 @@ Informaticiens en formation à l'UPEC
 * [Loïc Vernet](https://twitter.com/C0il), lead développeur Symfony freelance, [Strangebuzz.com](https://www.strangebuzz.com)
 * [Loïck Piera](https://twitter.com/pyrech), développeur web, [JoliCode](https://jolicode.com)
 * Lonny Loquesol, Développeur Web
-* [Lotfi Sakani], Designer
+* Lotfi Sakani, Designer
 * Louis DEBRAINE, Développeur Backend
 * [Loup THERON](https://github.com/louptheron), développeur
 * [Luc Akbal](https://www.linkedin.com/in/luc-akbal-a469aa5a/), Développeur Fullstack
@@ -917,7 +917,7 @@ Informaticiens en formation à l'UPEC
 * [Renaud Dahl](https://github.com/Renaud8469), Consultant Développeur en cabinet de conseil IT
 * [rené lesouef](http://lesouef.fr), retraité salarié ibm
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
-* [Rida Bikitaran], Dev/DevOps
+* Rida Bikitaran, Dev/DevOps
 * Roberto Barros De Sousa, Lead Dev
 * [Robin Chalas](https://github.com/chalasr)
 * [Robin PLU](https://twitter.com/RobinPlu), Designer
@@ -925,7 +925,7 @@ Informaticiens en formation à l'UPEC
 * Roland Donat
 * [Romain (Artwo) Rouault](https://twitter.com/Artwo), Graphiste et Développeur Frontend
 * [Romain Batby](https://twitter.com/BatbyRomain) Architecte développeur
-* [Romain Bourget], Développeur
+* Romain Bourget, Développeur
 * Romain Bousseau, Développeur Web
 * Romain Cousseau, Responsable R&D @ Picpurify
 * [Romain Deltour](http://twitter.com/rdeltour), développeur
@@ -1025,7 +1025,7 @@ Informaticiens en formation à l'UPEC
 * [Thibaud DAVID](https://twitter.com/thibauddavid) iOS | Android | Software Engineer
 * [Thibaud Lamarche](https://twitter.com/Lamarchethibaud) Référent technique
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
-* [Thibault OLLIVIER], développeur web
+* Thibault OLLIVIER, développeur web
 * [Thibault Pelloquin](https://github.com/ThibaultPelloquin), développeur web
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Thibaut Arribe, développeur
@@ -1128,7 +1128,7 @@ Informaticiens en formation à l'UPEC
 * [Yohann Marillet](https://github.com/ymarillet), architecte d'applications / lead dev php/symfony
 * Yohann Rebattu, cofondateur de start-up
 * [Youcef Kébaïli](https://www.kleno.fr), Consultant SEO et Marketing Digital, agence KLENO
-* [Youcef Yekhlef], Architecte SI
+* Youcef Yekhlef, Architecte SI
 * Youssef BOUJALLAB - 100% Agree
 * Yuliya Korenchuk, Développeur
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
