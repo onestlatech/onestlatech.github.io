@@ -875,7 +875,6 @@ Informaticiens en formation à l'UPEC
 * [Pierre-Luc Paour](https://mytrails.app), Développeur
 * Pierre-Olivier Cazenave
 * Pierrick Le Gall, Développeur
-- poser les bases d'une charte graphique (c'est pas une histoire de goût mais juste d'avoir un truc à peu près cohérent partout)
 * [Prosper Wanner](https://lesoiseauxdepassage.coop/), salarié doctorant, SCIC Les oiseaux de passage
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Quentin Baudet](https://github.com/Thornolf), Développeur
@@ -1065,8 +1064,6 @@ Informaticiens en formation à l'UPEC
 * [Tristan Maindron](https://tristan.maindron.io), CTO
 * Tristan Prudhomme, Développeur, Max Digital Services
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
-- un découpage en rubrique (Appel, Publication, A propos). On pourra en ajouter par la suite (peut-être revue de presse, etc.). La rubrique "publication" s'affichera à partir du moment où on aura un article dans le dossier "/posts"
-- un minimum de CSS
 * Valentin Aubin, technicien support
 * [Valentin Cazin](https://www.valcazin.com), designer
 * [Valentin Claras](https://github.com/valentin-claras), Lead Dev
