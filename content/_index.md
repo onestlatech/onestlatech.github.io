@@ -200,6 +200,7 @@ En conséquence, nous appelons :
 * [Benjamin Winckell](https://twitter.com/oh_meeen), Developpeur Lead
 * [Benjamin Zaslavsky](https://github.com/tiriel), développeur web
 * [Benoit AVERTY](https://github.com/BenoitAverty), Developpeur
+* [Benoit Bouyé](https://twitter.com/benoitbouye), Chargé des services numériques, Médias-Cité
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Benoit Galati](https://www.bgalati.fr), développeur
 * Benoit Langlais, Ingénieur réseaux
@@ -1018,6 +1019,7 @@ Informaticiens en formation à l'UPEC
 * [Valentin Nourdin](https://www.linkedin.com/in/vnourdin/) Data Engineer
 * Valentin PERRUSSEL, Développeur
 * Valentine Boineau - Apprentie developpeuse web
+* Valentine Lavie
 * [Vianney FAIVRE](https://vianneyfaivre.com/)
 * [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * [Victor Héry](https://mamot.fr/@victorhery) Administrateur système
@@ -1081,6 +1083,7 @@ Informaticiens en formation à l'UPEC
 * [Syndicat de l'industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
 * [Syndicat Interprofessionnel de la Presse, des Médias, de la Culture et du Spectacle-CNT-f](https://twitter.com/SIPMCS_CNT), [Site](http://www.cnt-f.org/sipm/)
 * [Solidaires Informatique Rhône](https://twitter.com/SI_Rhone), Section Rhône du syndicat Solidaires Informatique
+* [Syndicat stp67 de la CNT](http://www.cnt-f.org/)
 
 ## À propos
 
