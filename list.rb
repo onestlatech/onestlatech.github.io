@@ -40,5 +40,5 @@ end
 
 signatures = signatures.split("\n").reject(&:empty?).uniq.sort_by!{ |a| sort_markdown(a) }
 
-content.sub!(regex, "## " << signatures.length().to_s << " signataires\n\n### Actrices et acteurs du numérique\n\n" << signatures.join("\n") << "\n" << "\n### Organisations")
+content.sub!(regex, "## " << signatures.length().to_s << " signataires\n\n### Actrices et acteurs du numérique\n\n" << signatures.join("\n") << "\n\n### Organisations")
 File.open("content/_index.md", "w") {|file| file.puts content}
