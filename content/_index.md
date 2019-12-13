@@ -75,8 +75,8 @@ l'automatisation au service du bien public plutôt qu'à celui de quelques milli
 
 En conséquence, nous appelons :
 
-* à participer au mouvement de grève et aux manifestations contre la réforme ;
-* à alimenter les [caisses de grève](https://mamot.fr/@gaspacho/103255035118067057) pour compenser la perte de revenus des grévistes ;
+* à participer au mouvement de grève et aux manifestations contre la réforme ;
+* à alimenter les [caisses de grève](https://mamot.fr/@gaspacho/103255035118067057) pour compenser la perte de revenus des grévistes ;
 * à afficher sur nos sites web et dans nos entreprises notre soutien à la lutte contre la réforme.
 
 ## Signez !
