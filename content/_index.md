@@ -593,6 +593,7 @@ Informaticiens en formation à l'UPEC
 * Laurence Hoizey, consultante recrutement web
 * Laurence Urbain, Développeur Java
 * Laurent Barnier - Administrateur - Le Petit Fablab de Paris
+* [Laurent Chemla](https://twitter.com/laurentchemla)
 * [Laurent Guigo](https://www.linkedin.com/in/laurent-guigo-15a50339/), developer
 * Laurent Malgras, Développeur full stack
 * Laurent Perroy, développeur
