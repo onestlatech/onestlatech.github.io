@@ -1,4 +1,5 @@
 require 'octokit'
+require 'i18n'
 
 repo = "onestlatech/onestlatech.github.io"
 
@@ -18,7 +19,7 @@ issues.each do |issue|
     client.close_issue(repo, issue.number)
 end
 
-regex = /### Actrices et acteurs du numérique\n\n(.*)\n\n### Organisations/m
+regex = /## [0-9]* signataires\n\n### Actrices et acteurs du numérique\n\n(.*)\n\n### Organisations/m
 signatures = content.match(regex)[1]
 signatures << "\n" << newSignatures
 
@@ -28,13 +29,16 @@ def sort_markdown(a)
     end
 
     if a[0..2] == "* ["
-        return a[3..].downcase
+        v = a[3..]
+    else
+        v = a[2..]
     end
 
-    a[2..].downcase
+    I18n.available_locales = [:en]
+    I18n.transliterate(v).downcase
 end
 
-signatures = signatures.split("\n").reject(&:empty?).uniq.sort_by!{ |a| sort_markdown(a) }.join("\n") << "\n"
+signatures = signatures.split("\n").reject(&:empty?).uniq.sort_by!{ |a| sort_markdown(a) }
 
-content.sub!(regex, "### Actrices et acteurs du numérique\n\n" << signatures << "\n### Organisations")
+content.sub!(regex, "## " << signatures.length().to_s << " signataires\n\n### Actrices et acteurs du numérique\n\n" << signatures.join("\n") << "\n" << "\n### Organisations")
 File.open("content/_index.md", "w") {|file| file.puts content}
