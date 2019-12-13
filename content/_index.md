@@ -1,10 +1,14 @@
 ---
-title: "Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites"
+title: L'appel
 date: 2019-12-09T10:44:29+01:00
 draft: false
+menu: "main"
+subtitle: L'appel
+navigation: L'appel 2
+weight: -40
 ---
 
-# Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
+## Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 
 L'automatisation peut être une chance pour l'humanité : elle permet de déléguer aux machines
 toujours plus de tâches fastidieuses, ingrates, complexes, ennuyeuses ou non épanouissantes.
@@ -79,14 +83,15 @@ En conséquence, nous appelons :
 * à alimenter les [caisses de grève](https://mamot.fr/@gaspacho/103255035118067057) pour compenser la perte de revenus des grévistes ;
 * à afficher sur nos sites web et dans nos entreprises notre soutien à la lutte contre la réforme.
 
-## Signez !
+### Signez !
 
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
 ## 1201 signataires
+### Signataires
 
-### Actrices et acteurs du numérique
+#### Actrices et acteurs du numérique
 
 * [Adil Zouhal](https://twitter.com/adildelyon), développeur 
 * [Adrian Gaudebert](http://adrian.gaudebert.fr/), Développeur Web, Mozilla
@@ -1290,7 +1295,7 @@ Informaticiens en formation à l'UPEC
 * Zayneb Bennis, PO/Chef de projet
 * [Zéro Janvier](https://www.zerojanvier.fr), Chef de projet le jour / Blogueur la nuit
 
-### Organisations
+#### Organisations
 
 * [Sophie Binet et Marie José Kotlicki, cosecrétaires générales de l'ugict cgt](http://www.ugict.cgt.fr/)
 * [Syndicat de l'industrie informatique CNT-Solidarité Ouvrière](https://www.syndicat-informatique.fr/)
@@ -1299,48 +1304,3 @@ Informaticiens en formation à l'UPEC
 * [Syndicat stp67 de la CNT](http://www.cnt-f.org/)
 * [CGT SEMA](mailto:contact_chez_cgt-sema_point_fr), CGT des Sociétés d'Études de Montpellier Agglomération
 * [French Data Network](https://www.fdn.fr/)
-
-## Ressources
-
-### Pancartes pour les manifestations
-
-{{< gallery >}}
-{{< figure src="/pancartes/pancarte1.png" link="/pancartes/pancarte1.pdf" >}}
-{{< figure src="/pancartes/pancarte2.png" link="/pancartes/pancarte2.pdf" >}}
-{{< figure src="/pancartes/pancarte3.png" link="/pancartes/pancarte3.pdf" >}}
-{{< figure src="/pancartes/pancarte4.png" link="/pancartes/pancarte4.pdf" >}}
-{{< figure src="/pancartes/pancarte5.png" link="/pancartes/pancarte5.pdf" >}}
-{{< figure src="/pancartes/pancarte6.png" link="/pancartes/pancarte6.pdf" >}}
-{{< figure src="/pancartes/pancarte7.png" link="/pancartes/pancarte7.pdf" >}}
-{{< figure src="/pancartes/pancarte8.png" link="/pancartes/pancarte8.pdf" >}}
-{{< figure src="/pancartes/pancarte9.png" link="/pancartes/pancarte9.pdf" >}}
-{{< /gallery >}}
-
-## À propos
-
-### Genèse
-
-Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteurs du numérique se sont organisés,
-et se sont mis d'accord pour publier cet appel.
-Ce texte appelle les travailleuses et travailleurs du numérique à se mobiliser pour dire non à la réforme des retraites
-du gouvernement et pour proposer une alternative : réduire le temps de travail en mettant la technologie au service du
-bien commun.
-Pour en savoir plus, [écoutez ce podcast](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites).
-
-### Nous contacter
-
-onestlatech@protonmail.com
-
-### Nos incohérences
-
-* Ce texte a d'abord été travaillé sur Gitlab. Des problèmes de latence et bugs dans la publication du site nous ont contraint à opter pour Github. C'était le moyen le plus simple et le moins contraignant pour nous organiser.
-* Nous utilisons Discord pour discuter faute de moyens et de temps pour installer une alternative comme Mattermost.
-* Nous utilisons beaucoup Twitter mais recommandons Mastodon.
-
-## Pour aller plus loin
-
-* Nous suivre sur [sur Twitter](https://twitter.com/OnEstLaTech) et [sur Mastodon](https://mastodon.social/@onestlatech)
-* Afficher son soutien sur les réseaux sociaux en ajoutant `✊ #OnEstLaTech` à son pseudo et utiliser l'[avatar du mouvement](/avatar.png)
-* Pour se coordonner et agir : [rejoindre notre Discord](https://discord.gg/se3PnEr) 
-* S'informer sur la grève : [La grève, c'est cool](https://greve.cool)
-* [Mettre votre site en grève](https://github.com/thibault/strike-js)
