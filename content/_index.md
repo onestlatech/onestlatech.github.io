@@ -821,7 +821,7 @@ Informaticiens en formation à l'UPEC
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
 * Nicolas Boyer, développeur
 * Nicolas BROUET, Lead Dev
-* [Nicolas CHALLEIL](https://twitter.com/STuFFk), Lead Front Developer @ OpenClassroms
+* [Nicolas CHALLEIL](https://twitter.com/STuFFk), Lead Front Developer @ OpenClassrooms
 * [Nicolas Chevobbe](https://nicolaschevobbe.com) Developpeur, Mozilla
 * [Nicolas CHRÉTIEN](https://www.linkedin.com/in/nicolas-chretien-dev974), Développeur, Salarié
 * [Nicolas Dandrimont](https://twitter.com/olasd), Ingénieur chez [Software Heritage](https://softwareheritage.org/) et Développeur [Debian](https://www.debian.org/).
