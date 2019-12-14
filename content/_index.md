@@ -602,7 +602,7 @@ Informaticiens en formation à l'UPEC
 * [Joseph Lemoine](https://github.com/Jihell), Directeur technique freelance
 * Joseph Robert, développeur
 * jrayneau, Coach agile & produit
-* [Jules Emery], Blockchain R&D
+* [Jules Emery](https://www.linkedin.com/in/ethicnology/), R&D Blockchain
 * [Jules Pietri](https://twitter.com/julespietri)
 * Julie Trannois, Dév Web Lyon
 * [Julien 'Lta' BALLET](https://github.com/elthariel), Dev, Ops, Entrepreneur
