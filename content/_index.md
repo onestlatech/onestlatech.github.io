@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * [Adrien Imbert](https://twitter.com/siwayll), Lead Developer [norsys](https://www.norsys.fr)
 * [Adrien JUGUET](https://www.linkedin.com/in/adrien-juguet-906a30100/), Développeur JAVA
 * [Adrien LUCAS](https://twitter.com/adrienlucas/), Développeur
-* Adrien Risser, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Adrien Risser, Freelance, Développeur web, Prestataire de l'Etat
 * [Adrien Turcey](https://github.com/aturcey), développeur Web
 * [Alain "moustachu" Buchotte](https://github.com/moustachu), DevOps chez [Open Source Politics](https://opensourcepolitics.eu/)
 * Alain Thomas, Maire de Savas (Ardèche), Conseiller délégué T.I.C d'ANNONAY RHONE AGGLO (Ardèche)
@@ -116,7 +116,7 @@ En conséquence, nous appelons :
 * Alexandre Cotte, PM
 * Alexandre Dussol, développeur
 * Alexandre Fontfreyde, Lead développeur
-* Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
+* Alexandre Friquet, infoPiiaf, Développeur web, Prestataire de l'Etat
 * [Alexandre Girard](http://github.com/alx), Développeur Web
 * [Alexandre Jaunasse](https://twitter.com/AlexJnse), Lead dev - Groupe Royer
 * Alexandre Lababsa, Étudiant en informatique, ESGI
@@ -128,7 +128,7 @@ En conséquence, nous appelons :
 * Alexis Cappelli, développeur
 * [Alexis FOURIER](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)
 * [Alexis Janvier](https://www.alexisjanvier.net), développeur
-* Alexis Leclerc, Freelance, Developpeur Rails, Etalab
+* Alexis Leclerc, Freelance, Developpeur Rails
 * Alexis Roche, codeur à temps partiel
 * Alix Munier Kordon, professeur d'informatique à Sorbonne Université
 * [Allan Floury](https://www.linkedin.com/in/allanfloury/), Fondateur [Poi](https://poi.app) & Product Designer
@@ -224,7 +224,7 @@ En conséquence, nous appelons :
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Benoit Galati](https://www.bgalati.fr), développeur
 * Benoît Gambier, co-gérant, [Spotlab](https://www.spotlab.net)
-* [Benoît Guigal](https://benoitguigal.fr), Développeur freelance [beta.gouv](https://beta.gouv.fr/), ex: [Entrepreneur d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/)
+* [Benoît Guigal](https://benoitguigal.fr), Développeur freelance
 * [Benoît Hillairet](https://twitter.com/BenoitHillairet), développeur web
 * Benoit Langlais, Ingénieur réseaux
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
@@ -285,7 +285,7 @@ En conséquence, nous appelons :
 * [Christophe Meneses](https://github.com/cmen), Développeur
 * [Christophe MICHEL](https://github.com/christopheml/), Développeur, salarié
 * [Christophe Mourette](https://twitter.com/mackristof), PullRequestophyle
-* [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
+* [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Prestataire de l'Etat
 * Christophe Rudelle, consultant-formateur Transformation numérique
 * [Christophe Schockaert](https://www.citadels.earth), Ingénieur en développement logiciel
 * [Christophe Vergne](https://www.christophevergne.fr), Développeur
@@ -293,7 +293,7 @@ En conséquence, nous appelons :
 * Claire Dhénin, Ingénieure Full Stack chez Misakey
 * [Claire Villard](https://twitter.com/neur0nia), Développeuse
 * Clara Ponte, enseignante d'histoire géographie dans le privé sous contrat avec l'état
-* [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Prestataire de l'Etat
 * [Clément Delmas](https://www.clementdelmas.fr/)
 * [Clément Gibaud](https://twitter.com/cleming_), Administrateur système
 * [Clément Guinet](https://twitter.com/clems_to_clems), Développeur/DevOps
@@ -584,7 +584,7 @@ Informaticiens en formation à l'UPEC
 * Joel PASTOL, SysAdmin DevOps, [NBS-System.com](https://www.nbs-system.com/)
 * Joëlle Randrianaly, Assistante Marketing
 * [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
-* Johan Girod, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Johan Girod, Freelance, Développeur web, Prestataire de l'Etat
 * Johan Le Baut, Ingénieur développeur
 * [Johan Richer](https://twitter.com/JohanRicher), [Jailbreak](https://www.jailbreak.paris/)
 * [Johan Soulet](https://twitter.com/johansoulet), développeur
@@ -711,7 +711,7 @@ Informaticiens en formation à l'UPEC
 * Maël LE PETIT (https://maelito.fr), Etudiant, computer science
 * [Maïtané Lenoir](https://www.maiwann.net/), UX Designer · Ergonome
 * Manfred Cossard, Ingénieur Cybersécurité
-* [Manon Léger](https://twitter.com/ManonLger) – Co-fondatrice de [Latitudes](https://www.latitudes.cc) • Membre bénévole de [beta.gouv.fr](https://beta.gouv.fr) • Administratrice de [FEST](http://festech.org)
+* [Manon Léger](https://twitter.com/ManonLger) – Co-fondatrice de [Latitudes](https://www.latitudes.cc) • Administratrice de [FEST](http://festech.org)
 * [Marc Bouvier](https://twitter.com/marcbouvier_), développeur
 * [Marc Brillault](https://twitter.com/MarcBrillault), développeur
 * Marc Galmard Administrateur Middleware
@@ -751,7 +751,7 @@ Informaticiens en formation à l'UPEC
 * Mathieu Guillard, SysAdmin
 * Mathieu Jaume, Enseignant - Chercheur en Informatique, LIP6 - Sorbonne Université
 * Mathieu Kim Robin, développeur web
-* Mathieu Magnin, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Mathieu Magnin, Freelance, Développeur web, Prestataire de l'Etat
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Mathieu POUSSE](https://twitter.com/m_pousse), lead dev chez [Ouest-France](https://www.ouest-france.fr/)
 * [Mathieu REMY](https://www.linkedin.com/in/mathieuremy/), Expert en Product & Services Management, Low code evangelist
@@ -818,7 +818,7 @@ Informaticiens en formation à l'UPEC
 * Nicolas Assing, développeur
 * Nicolas Bonnel, co-fondateur Koumoul - [Nicolas Bonnel](https://www.linkedin.com/in/nicolas-bonnel-557a54131/), co-fondateur [Koumoul](https://koumoul.com)
 * Nicolas Bonnici (https://nbonnici.info), Développeur.
-* Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
 * Nicolas Boyer, développeur
 * Nicolas BROUET, Lead Dev
 * [Nicolas CHALLEIL](https://twitter.com/STuFFk), Lead Front Developer @ OpenClassroms
@@ -885,7 +885,7 @@ Informaticiens en formation à l'UPEC
 * [Patrick Vergain](https://twitter.com/pvergain), développeur
 * Paul Andrieux, développeur
 * Paul Bonaud, Ingénieur Logiciel
-* Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
+* Paul Chavard, Freelance, Développeur web, Prestataire de l'Etat
 * Paul DS, Développeur freelance
 * [Paul Gemperle](https://twitter.com/paulgemp), graphisme & développement au [Très Court](https://trescourt.com)
 * [Paul Kocialkowski](https://www.paulk.fr), développeur
@@ -907,7 +907,7 @@ Informaticiens en formation à l'UPEC
 * [Pierre Bouvier-Muller](http://www.virtual-assembly.org/)
 * Pierre Charlet (https://twitter.com/charletpierre), Gérant/Développeur chez Hashbang (https://hashbang.fr/)
 * [Pierre Col](https://www.zdnet.fr/blogs/infra-net/)
-* Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
 * Pierre de Sylva, retraité de chez SAM software
 * [Pierre Dorbais](https://twitter.com/chdorb), Ingénieur système
 * Pierre Ducroquet, Lead DBA @ PeopleDoc by UltimateSoftware
@@ -1021,7 +1021,7 @@ Informaticiens en formation à l'UPEC
 * [Simon Boisnard](https://twitter.com/SBoisnard), Product manager
 * [Simon Bussy](https://simonbussy.com/), Cofondateur & CTO @Califrais, Machine Learning Researcher
 * Simon Descarpentries, gérant [Acoeuro.com](http://Acoeuro.com)
-* Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
+* Simon Lehericey, Freelance, dev web, Prestataire de l'Etat
 * [Simon Meeschaert](https://twitter.com/SimonMeeschaert), développeur web
 * Simon Mellerin, Développeur web
 * Simon Thorel, Développeur/Administrateur de progiciels
@@ -1062,7 +1062,7 @@ Informaticiens en formation à l'UPEC
 * [Sylvain Moindron](https://mamot.fr/@smoindron), développeur sénior, guide technique
 * [Sylvain Paley](http://sylvainpaley.cool), [Société Nouvelle](http://lasocietenouvelle.com)
 * Sylvain V., développeur Scala — ce texte est parfait.
-* Tam Kien Duong, data.gouv.fr
+* Tam Kien Duong
 * [Tanguy Falconnet](https://github.com/tanguyfalconnet), DevOpsDev
 * Tania Aubert, Enseignante de FLE 
 * Tania Coone, designer
@@ -1085,7 +1085,7 @@ Informaticiens en formation à l'UPEC
 * [Thierry Geindre](https://github.com/t-geindre), développeur
 * [Thierry Walter](https://www.facebook.com/mysterty.officiel/), créateur web
 * [thierry-FreeBSD](https://github.com/thierry-FreeBSD), informaticien de la région lyonnaise.
-* Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
+* Thimy Kieu, Codeurs en Liberté, Développeuse web, Prestataire de l'Etat
 * [Thomas Armanville](https://twitter.com/Xx_tomcraft_xX), Développeur Java
 * [Thomas Berriot](https://twitter.com/tberriot), [SCOP Incaya](https://www.incaya.fr)
 * [Thomas Bracher](https://twitter.com/sadraskol), Ingénieur logiciel
@@ -1119,7 +1119,7 @@ Informaticiens en formation à l'UPEC
 * Tristan Helík, ingénieur réseaux
 * [Tristan Maindron](https://tristan.maindron.io), CTO
 * Tristan Prudhomme, Développeur, Max Digital Services
-* Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Tristram Gräbener, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
 * Valentin Aubin, technicien support
 * [Valentin Cazin](https://www.valcazin.com), designer
 * [Valentin Claras](https://github.com/valentin-claras), Lead Dev
@@ -1146,7 +1146,7 @@ Informaticiens en formation à l'UPEC
 * [Vincent Helwig](https://twitter.com/VincentHelwig), Développeur indépendant
 * Vincent Humeau, Développeur
 * [Vincent JOBARD](https://www.linkedin.com/in/vinzjobard/), Ingénieur Système Agile
-* Vincent Lara, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* Vincent Lara, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
 * [Vincent Pomageot](https://twitter.com/vipom), responsable développement mobile [Mediapart](https://www.mediapart.fr)
 * [Vincent Vatelot](https://www.linkedin.com/in/vincent-vatelot-7a31149), Tech lead
 * [Vincent Voisin](https://twitter.com/vlaneo), integrateur linux
