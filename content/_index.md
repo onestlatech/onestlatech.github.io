@@ -1340,6 +1340,7 @@ onestlatech@protonmail.com
 ## Pour aller plus loin
 
 * Nous suivre sur [sur Twitter](https://twitter.com/OnEstLaTech) et [sur Mastodon](https://mastodon.social/@onestlatech)
+* Afficher son soutien sur les réseaux sociaux en ajoutant `✊ #OnEstLaTech` à son pseudo et utiliser l'[avatar du mouvement](/avatar.png)
 * Pour se coordonner et agir : [rejoindre notre Discord](https://discord.gg/se3PnEr) 
 * S'informer sur la grève : [La grève, c'est cool](https://greve.cool)
 * [Mettre votre site en grève](https://github.com/thibault/strike-js)
