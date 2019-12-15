@@ -976,7 +976,6 @@ Informaticiens en formation à l'UPEC
 * Raphaël Glavieux, Développeur, Smile
 * [Raphaël Mor](https://twitter.com/raphaelmor), développeur
 * Raphaël Ricklin, Ingénieur en modélisation ferroviaire
-* Raphaelle Menajovsky, consultante data marketing, présidente [webassoc.org](https://webassoc.org)
 * [Raul P Maciel](https://twitter.com/raulpmaciel, Producteur Audio & Video
 * Ravi Horner, Consultant SEO, Agence Disko
 * [Reginald Costa](https://twitter.com/Talamasca1894) Product Manager à [Mediapart](https://www.mediapart.fr/)
