@@ -8,6 +8,8 @@ body {
     display: flex;
     flex-flow: column;
     align-items: center;
+
+    position: relative;
 }
 
 * {
@@ -26,6 +28,28 @@ body {
     font-weight: bold;
     text-align: center;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.jump-menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  top: -20em;
+
+  margin: 0;
+  padding: 0;
+}
+
+.jump-menu a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 1em;
+}
+
+.jump-menu a:focus {
+  top: 20em;
 }
 
 hr.small {
