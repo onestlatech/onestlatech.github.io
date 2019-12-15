@@ -23,6 +23,6 @@ En ligne, les décisions doivent être soumises au vote pendant une durée minim
 Le collectif [n'a pas de représentants](https://www.arretsurimages.net/chroniques/arrets-sur-histoire/democratie-representative-contre-democratie-directe-de-lan-i-a-nos-jours) (personnes pouvant décider au nom du groupe sans lui en référer au préalable).
 En revanche, il pratique le [mandatement impératif](https://fr.wikipedia.org/wiki/Mandat_imp%C3%A9ratif) et nomme des personnes effectuant des tâches précises au nom du collectif. Ces mandatés sont immédiatement révocables sur décision du collectif.
 
-Peuvent devenir membres du collectif onestla.tech toutes les personnes physiques signataires de l'appel et, sil est décidé d'en fixer, à jour de cotisation. Le collectif peut décider de l'exclusion d'une ou d'un membre via le processus de décision défini ci-avant.
+Peuvent devenir membres du collectif onestla.tech toutes les personnes physiques signataires de l'appel et, s'il est décidé d'en fixer, à jour de cotisation. Le collectif peut décider de l'exclusion d'une ou d'un membre via le processus de décision défini ci-avant.
 
 L'affiliation multiple (l'adhésion à d'autres organisations en parallèle du collectif) est autorisée et encouragée (exemples : [associations de défense des droits et libertés numériques](https://www.laquadrature.net/), [associations de promotion du logiciel libre](https://www.fsf.org/), [syndicats signataires de l'appel](https://onestla.tech/#organisations)).
