@@ -94,6 +94,7 @@ On parle de notre appel ici :
 * [Mediapart](https://blogs.mediapart.fr/onestlatech/blog/101219/retraites-appel-des-travailleuses-et-travailleurs-du-numerique)
 * [Politis](https://www.politis.fr/articles/2019/12/appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites-41157/)
 * [Podcast Echo](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites)
+* [Maddyness](https://www.maddyness.com/2019/12/13/en-bref-onestlatech-greve-neutralite-carbone-et-les-laureats-des-grands-prix-de-linnovation/)
 
 ## Signez !
 
