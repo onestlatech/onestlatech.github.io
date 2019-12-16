@@ -619,7 +619,7 @@ Informaticiens en formation à l'UPEC
 * [Jacques Foucry](https://adminblog.foucry.net) Sysadmin, BOFH
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Jalil Arfaoui](https://jalil.arfaoui.net) ([Twitter](twitter.com/jalilarfaoui)), ([Mastodon](@jalil@framapiaf.org)), développeur indépendant
+* [Jalil Arfaoui](https://jalil.arfaoui.net) ([Twitter](https://twitter.com/jalilarfaoui)), ([Mastodon](https://framapiaf.org/@jalil)), Artisan logiciel indépendant
 * [James Hemery](https://github.com/JamesHemery), Développeur Freelance
 * [Jared Lethal aka Oz](https://pipou.academy/@Oz), UI/UX designer / intégrateur chez Fière Allure
 * JB Cavarec, Développeur
