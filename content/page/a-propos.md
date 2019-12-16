@@ -32,3 +32,14 @@ onestlatech@protonmail.com
 * Pour se coordonner et agir : [rejoindre notre Discord](https://discord.gg/se3PnEr) 
 * S'informer sur la grève : [La grève, c'est cool](https://greve.cool)
 * [Mettre votre site en grève](https://github.com/thibault/strike-js)
+
+### On parle de nous
+
+* [Konbini](https://news.konbini.com/societe/reforme-des-retraites-la-tech-francaise-sort-de-sa-matrice/)
+* [Usine Digitale](https://www.usine-digitale.fr/article/reforme-des-retraites-les-geeks-se-rebiffent.N912024)
+* [01Net](https://www.01net.com/actualites/un-collectif-de-travailleurs-du-numerique-appelle-a-la-greve-1821529.html)
+* [Mediapart](https://blogs.mediapart.fr/onestlatech/blog/101219/retraites-appel-des-travailleuses-et-travailleurs-du-numerique)
+* [Politis](https://www.politis.fr/articles/2019/12/appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites-41157/)
+* [Podcast Echo](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites)
+* [Maddyness](https://www.maddyness.com/2019/12/13/en-bref-onestlatech-greve-neutralite-carbone-et-les-laureats-des-grands-prix-de-linnovation/)
+* [L'ADN](https://www.ladn.eu/tech-a-suivre/travailleurs-tech-contre-reforme-retraites/)
