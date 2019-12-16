@@ -22,7 +22,7 @@ l'âge légal : policiers, militaires, douaniers, pompiers... Les conditions de 
 justifier une telle exception, mais depuis Christophe Castaner a assuré à certains d'entre eux, même s'ils ne sont
  pas exposés directement au danger, qu'ils partiraient avec les même conditions
 - la retraite tiendra compte de l'ensemble des revenus de la carrière plutôt que les 6 derniers mois 
-pour les fonctionnaires et les 25 dernières années pour les salariés du privé : il est donc impossible que les pensions 
+pour les fonctionnaires et les 25 meilleurs années pour les salariés du privé : il est donc impossible que les pensions 
 ne baissent pas
 - le minimum de pension de retraite est fixé à 1 000 € net par mois pour une personne ayant touché en continu un SMIC 
 durant toute sa vie. C'est peut-être une avancée pour certains mais est-ce réellement suffisant de se contenter du seuil 
