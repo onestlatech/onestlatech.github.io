@@ -26,7 +26,7 @@ pour les fonctionnaires et les 25 meilleures années pour les salariés du priv�
 ne baissent pas
 - le minimum de pension de retraite est fixé à 1 000 € net par mois pour une personne ayant touché en continu un SMIC 
 durant toute sa vie. C'est peut-être une avancée pour certains mais est-ce réellement suffisant de se contenter du seuil 
-de pauvreté ? Et quand est-il de toutes les personnes qui, comme beaucoup de nos agriculteurs, n'ont même pas 
+de pauvreté ? Et qu'en est-il de toutes les personnes qui, comme beaucoup de nos agriculteurs, n'ont même pas 
 ce niveau de revenus ?
 
 Pour faire avaler la pilule et diviser le mouvement, le gouvernement tente d'amadouer ceux qui sont nés avant 1975 
