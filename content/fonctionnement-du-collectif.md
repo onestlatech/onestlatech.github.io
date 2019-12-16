@@ -6,7 +6,7 @@ draft: true
 
 Le collectif onestla.tech s'est constitué en décembre 2019 suite à la publication de [l'appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites](_index.md).
 
-L'objet du collectif et de structurer et de coordonner les travailleuses et travailleurs du numérique pour promouvoir et construire le projet de société présenté dans l'appel.
+L'objet du collectif est de structurer et de coordonner les travailleuses et travailleurs du numérique afin de promouvoir et construire le projet de société présenté dans l'appel.
 
 Le collectif regroupe des développeuses et développeurs, administratrices et administrateurs systèmes, enseignantes et enseignants, chercheuses et chercheurs, designers, testeuses et testeurs, actrices et acteurs du numérique, du Web et des télécoms qui ont signé l'appel.
 Tous les signataires de l'appel ne sont pas automatiquement membres du collectif, et ne s'associent pas forcément à ses prises de position et actions.
