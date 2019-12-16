@@ -1375,7 +1375,6 @@ Informaticiens en formation à l'UPEC
 * [William Dodé](https://flibuste.net), Développeur freelance
 * William Montagnon, Développeur UX
 * William Pezet, Formateur, développeur et designer interactif à Coop'Alpha/Monsieur Pixel 
-* [William Pezet] Formateur, développeur et designer interactif à Coop'Alpha/Monsieur Pixel 
 * Wolfgang This
 * [Xavier Borderie](https://xavier.borderie.net) Head of Content
 * [Xavier Detant](https://twitter.com/XDetant)
