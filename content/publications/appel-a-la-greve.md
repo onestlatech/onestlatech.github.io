@@ -22,14 +22,14 @@ l'âge légal : policiers, militaires, douaniers, pompiers... Les conditions de
 justifier une telle exception, mais depuis Christophe Castaner a assuré à certains d'entre eux, même s'ils ne sont
  pas exposés directement au danger, qu'ils partiraient avec les même conditions
 - la retraite tiendra compte de l'ensemble des revenus de la carrière plutôt que les 6 derniers mois 
-pour les fonctionnaires et les 25 dernières années pour les salariés du privé : il est donc impossible que les pensions 
+pour les fonctionnaires et les 25 meilleures années pour les salariés du privé : il est donc impossible que les pensions 
 ne baissent pas
 - le minimum de pension de retraite est fixé à 1 000 € net par mois pour une personne ayant touché en continu un SMIC 
 durant toute sa vie. C'est peut-être une avancée pour certains mais est-ce réellement suffisant de se contenter du seuil 
 de pauvreté ? Et quand est-il de toutes les personnes qui, comme beaucoup de nos agriculteurs, n'ont même pas 
 ce niveau de revenus ?
 
-Pour faire avaler la pillule et diviser le mouvement, le gouvernement tente d'amadouer ceux qui sont nés avant 1975 
+Pour faire avaler la pilule et diviser le mouvement, le gouvernement tente d'amadouer ceux qui sont nés avant 1975 
 en leur promettant qu'ils ne seront pas concernés par cette réforme. Il mise une fois de plus sur l'individualisme. 
 Sans doute s'imagine-t-il que des parents sont prêts à sauver leur retraite en la troquant contre celles 
 de leurs enfants. Êtes-vous prêt à ce sacrifice ? C'est pourtant ce qui se passera si nous ne nous mobilisons pas. 
@@ -39,7 +39,7 @@ des modèles plus vertueux que le rouleau compresseur qu'il tente de mettre en p
 Trop longtemps, les acteurs du numérique opposés au gouvernement se sont tûs. Trop longtemps, ils ont été assimilés 
 à la StartUp Nation, mais l'appel OnEstLa.tech a prouvé le contraire. En quelques jours plus d'un millier de signatures 
 a été recueilli. Nous avons un rôle à jouer et notre ambition se doit d'être plus grande que ce que le Président 
-et son gourvenement destinent à notre société. La première étape reste cependant de bloquer cette réforme. 
+et son gouvernement destinent à notre société. La première étape reste cependant de bloquer cette réforme. 
 Le mouvement de grève en cours doit mettre un coup d'arrêt à des politiques toujours plus répressives 
 et inéquitables. Ils misent sur l'individualité, la division. Opposons-leur notre solidarité. Mobilisons-nous ! 
 Soutenons le mouvement ! Participons à la grève, aux manifestations et 
@@ -48,7 +48,6 @@ de soutenir le mouvement.
 
 Ensemble, pour le retrait de la réforme des retraites, rejoignons les cortèges sous la bannière OnEstLa.tech aux manifestations 
 du 17 décembre !
-
 
 [esperance-de-vie]: https://www.insee.fr/fr/statistiques/3281641?sommaire=3281778#graphique-figure1
 [chomage-seniors]: https://www.mieuxvivre-votreargent.fr/vie-pratique/2019/03/19/le-chomage-des-seniors-a-explose-depuis-10-ans/
