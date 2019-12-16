@@ -1,97 +1,186 @@
-body {
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-    font-size: 18px;
-    color: #404040;
-    background: #FFF;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-
-    position: relative;
-}
+/**
+    Colors:
+    yellow: #ffa41b
+    light-grey: #f0f0f0;
+    grey: #909090;
+    dark-grey: #404040;
+ */
 
 * {
     box-sizing: border-box;
+    max-width: 100%;
 }
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 1em;
+    color: #404040;
+    background: #f0f0f0;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+h1 { font-size: 3.6em; }
+h2 { font-size: 2.8em; }
+h3 { font-size: 2em; }
+h4 { font-size: 1.8em; }
+p, li {
+    font-size: 1.8em;
+    line-height: 1.6;
+}
+a {
+    position: relative;
+    color: #ffa41b;
+}
+a:hover { text-decoration: none; }
 
 .container {
+    margin: 0 auto;
+    padding: 0 50px 20px;
     width: 100%;
     max-width: 720px;
-    padding: 0 20px;
+    background: white;
 }
 
+.posts-heading,
 .page-heading {
-    margin: 2em 0 1em;
-    font-size: 1.2em;
     font-weight: bold;
     text-align: center;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.jump-menu {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  top: -20em;
-
-  margin: 0;
-  padding: 0;
+.heading-title {
+    margin: 0;
+    padding: 30px 0;
+    text-align: center;
 }
 
-.jump-menu a {
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: 1em;
+.heading-subtitle {
+    color: #A8A8A8;
 }
 
-.jump-menu a:focus {
-  top: 20em;
+.navbar {
+    position: sticky;
+    top: 0;
+    margin: 0 -50px;
+    max-width: calc(100% + 100px);
+    padding: 5px 0;
+    background-color: #f0f0f0;
+    z-index: 1;
 }
 
-hr.small {
-    max-width: 100px;
-    margin: 15px auto;
-    border-width: 4px;
-    border-color: inherit;
-    border-radius: 3px;
-    border-top: 4px solid #404040;
-    border-bottom: 0;
-    border-left: 0;
-    border-right: 0;
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    padding: 0;
 }
 
-p, li {
-    line-height: 1.5;
+.navbar-nav li {
+    margin: 0 20px;
+    font-size: 2em;
+    font-weight: 700;
+    list-style-type: none;
 }
 
-ul {
-    padding-left: 2em;
+.navbar-nav a {
+    color: #404040;
+    text-decoration: none;
 }
 
-a:links, a:visited {
-    color: #0085a1;
-    text-decoration: underline;
-    text-decoration-skip-ink: auto;
+.navbar-nav a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 5px;
+    opacity: 0;
+    border-bottom: 2px solid #404040;
+    transition: all 200ms ease-in-out;
 }
 
-a:hover {
-    color: #34b3ce;
+.navbar-nav a:hover::after {
+    bottom: 0;
+    opacity: 1;
+}
+
+.navbar-nav .active a::after,
+.navbar-nav a:hover::after {
+    bottom: -3px;
+    opacity: 1;
+}
+
+.navbar-nav .active a {
+    color: #ffa41b;
+}
+.navbar-nav .active a::after {
+    border-color: #ffa41b;
+}
+
+.post-preview + .post-preview:before {
+    content: "";
+    display: block;
+    border-top: 3px solid #ffa41b;
+    width: 20%;
+    margin: 30px auto;
+}
+
+.post-meta {
+    margin-top: -20px;
+    color: #909090;
+    font-size: 1.3em;
 }
 
 code {
-    color: #c7254e;
-    background-color: #f9f2f4;
+    padding: 1px 5px;
+    color: #ffa41b;
+    background-color: rgba(255, 217, 180, .4);
 }
 
-.footer {
-    margin-top: 2em;
-    padding: 2em 0;
-    border-top: 1px solid #ccc;
-    font-size: 0.8em;
+.disclaimer {
+    margin: 0 -50px;
+    padding: 15px 50px;
+    max-width: none;
+    color: #ffa41b;
+    font-weight: bold;
+    background-color: rgba(255, 217, 180, .4);
+}
+
+.jump-menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    top: -20em;
+
+    margin: 0;
+    padding: 0;
+}
+
+.jump-menu a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1em;
+}
+
+.jump-menu a:focus {
+    top: 20em;
+}
+
+.social-networks {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #909090;
+}
+
+.theme-by {
+    margin: 30px 0 10px;
+    font-size: 1.5em;
 }
 
 .credits {
@@ -103,8 +192,30 @@ code {
     .page-heading {
         font-size: 0.8em;
     }
+    .navbar-nav {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
 
-    ul {
-        padding-left: 1em;
+    .navbar-nav li {
+        margin: 10px;
+        text-align: center;
+    }
+}
+
+@media print {
+    body {
+        backgroud: none;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .navbar,
+    footer {
+        display: none;
+    }
+    a {
+        color: #404040;
+        text-decoration: none;
     }
 }
