@@ -19,7 +19,7 @@ issues.each do |issue|
     client.close_issue(repo, issue.number)
 end
 
-regex = /## [0-9]* signataires\n\n### Actrices et acteurs du numérique\n\n(.*)\n\n### Organisations/m
+regex = /### [0-9]* signataires\n\n#### Actrices et acteurs du numérique\n\n(.*)\n\n#### Organisations/m
 signatures = content.match(regex)[1]
 signatures << "\n" << newSignatures
 
@@ -40,5 +40,5 @@ end
 
 signatures = signatures.split("\n").reject(&:empty?).uniq.sort_by!{ |a| sort_markdown(a) }
 
-content.sub!(regex, "## " << signatures.length().to_s << " signataires\n\n### Actrices et acteurs du numérique\n\n" << signatures.join("\n") << "\n\n### Organisations")
+content.sub!(regex, "### " << signatures.length().to_s << " signataires\n\n#### Actrices et acteurs du numérique\n\n" << signatures.join("\n") << "\n\n#### Organisations")
 File.open("content/_index.md", "w") {|file| file.puts content}
