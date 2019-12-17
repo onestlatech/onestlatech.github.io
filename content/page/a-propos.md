@@ -29,7 +29,7 @@ onestlatech@protonmail.com
 
 * Nous suivre [sur Twitter](https://twitter.com/OnEstLaTech) et [sur Mastodon](https://mastodon.social/@onestlatech)
 * Afficher son soutien sur les réseaux sociaux en ajoutant `✊ #OnEstLaTech` à son pseudo et utiliser l'[avatar du mouvement](/avatar.png)
-* Pour se coordonner et agir : [rejoindre notre Discord](https://discord.gg/se3PnEr) 
+* Pour se coordonner et agir : [rejoindre notre Discord](https://discord.gg/se3PnEr)
 * S'informer sur la grève : [La grève, c'est cool](https://greve.cool)
 * [Mettre votre site en grève](https://github.com/thibault/strike-js)
 
@@ -38,9 +38,11 @@ onestlatech@protonmail.com
 * [Konbini](https://news.konbini.com/societe/reforme-des-retraites-la-tech-francaise-sort-de-sa-matrice/)
 * [Usine Digitale](https://www.usine-digitale.fr/article/reforme-des-retraites-les-geeks-se-rebiffent.N912024)
 * [01Net](https://www.01net.com/actualites/un-collectif-de-travailleurs-du-numerique-appelle-a-la-greve-1821529.html)
-* [Mediapart](https://blogs.mediapart.fr/onestlatech/blog/101219/retraites-appel-des-travailleuses-et-travailleurs-du-numerique)
+* [Mediapart 10/12](https://blogs.mediapart.fr/onestlatech/blog/101219/retraites-appel-des-travailleuses-et-travailleurs-du-numerique)
 * [Politis](https://www.politis.fr/articles/2019/12/appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites-41157/)
 * [Podcast Echo](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites)
 * [Maddyness](https://www.maddyness.com/2019/12/13/en-bref-onestlatech-greve-neutralite-carbone-et-les-laureats-des-grands-prix-de-linnovation/)
 * [L'ADN](https://www.ladn.eu/tech-a-suivre/travailleurs-tech-contre-reforme-retraites/)
+* [Affordance](https://www.affordance.info/mon_weblog/2019/12/cest-la-lutte-digitale.html)
+* [Mediapart 17/12](https://blogs.mediapart.fr/section-syndicale-cgt-de-mediapart/blog/171219/mediapart-des-salarie-e-s-toujours-en-greve-contre-la-reforme-des-retraites)
 * [Arrêt sur Images](https://www.arretsurimages.net/articles/greves-sur-mesure-pour-travailleurs-du-numerique) (article payant)
