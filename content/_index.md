@@ -455,7 +455,6 @@ En conséquence, nous appelons :
 * Etienne PIERROT, Software Developer Arolla
 * [Etienne Théodore](https://youfeel.fr), CTO at [YouFeel](https://www.youfeel.fr/)
 * Ève Demazière, chef de projet web et coordinatrice intranet, correspondante accessibilité numérique
-* [Exodus Privacy](https://exodus-privacy.eu.org/fr)
 * Fabien Bataille, Développeur
 * Fabien CAMPOS, Responsable Études et dev
 * [Fabien Chaillou](https://github.com/fabienChaillou), PHP developer and other technos
@@ -1429,3 +1428,4 @@ Informaticiens en formation à l'UPEC
 * [CGT SEMA](mailto:contact_chez_cgt-sema_point_fr), CGT des Sociétés d'Études de Montpellier Agglomération
 * [French Data Network](https://www.fdn.fr/)
 * [Solidaires Informatique](https://solidairesinformatique.org/)
+* [Exodus Privacy](https://exodus-privacy.eu.org/fr)
