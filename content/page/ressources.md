@@ -19,18 +19,22 @@ menu: "main"
 
 ## Banières
 
-![onestlatech baniere](/banieres/onestla_2.png)
-par [Edouard Lafon](https://pouet.chapril.org/users/elafon/statuses/103329844781461295) - version [SVG](/banieres/onestla_2_banniere_mastodon.svg)
+![onestlatech banniere](/bannieres/onestla_2.png)
+par [Edouard Lafon](https://pouet.chapril.org/users/elafon/statuses/103329844781461295) - version [SVG](/bannieres/onestla_2_banniere_mastodon.svg)
 
-![onestlatech baniere](/banieres/signez_chownPeuple.png)
+![onestlatech banniere](/bannieres/signez_chownPeuple.png)
 
-![onestlatech baniere](/banieres/signez_retraitReforme.png)
+![onestlatech banniere](/bannieres/signez_retraitReforme.png)
 
-![onestlatech baniere](/banieres/signez_rmMacron.png)
+![onestlatech banniere](/bannieres/signez_rmMacron.png)
 
-![onestlatech baniere](/banieres/signez_slashMacron.png)
+![onestlatech banniere](/bannieres/signez_slashMacron.png)
 
 Par [@signez](https://twitter.com/Signez)
+
+![onestlatech banniere](/bannieres/ginifizz.png)
+
+Par Ginifizz 
 
 ## QR Code
 
