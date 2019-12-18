@@ -16,3 +16,31 @@ menu: "main"
 {{< figure src="/pancartes/pancarte8.png" link="/pancartes/pancarte8.pdf" >}}
 {{< figure src="/pancartes/pancarte9.png" link="/pancartes/pancarte9.pdf" >}}
 {{< /gallery >}}
+
+## Banières
+
+![onestlatech baniere](/banieres/onestla_2.png)
+par [Edouard Lafon](https://pouet.chapril.org/users/elafon/statuses/103329844781461295) - version [SVG](/banieres/onestla_2_banniere_mastodon.svg)
+
+![onestlatech baniere](/banieres/signez_chownPeuple.png)
+
+![onestlatech baniere](/banieres/signez_retraitReforme.png)
+
+![onestlatech baniere](/banieres/signez_rmMacron.png)
+
+![onestlatech baniere](/banieres/signez_slashMacron.png)
+
+Par [@signez](https://twitter.com/Signez)
+
+## QR Code
+
+![onestlatech QR code](/QR_code/qrcode-onestlatech_nom.png)
+#
+par Gheb - version [SVG](/QR_code/qrcoode-onestlatech.svg) <!-- XXX ajouter credit/lien -->
+
+## Stickers
+
+![onestlatech stickers](/stickers/stickers.png)
+
+par [@artwo](https://twitter.com/artwo) - Planche A4 [PDF](/stickers/stickers.pdf)
+
