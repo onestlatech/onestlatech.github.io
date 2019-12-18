@@ -17,7 +17,7 @@ menu: "main"
 {{< figure src="/pancartes/pancarte9.png" link="/pancartes/pancarte9.pdf" >}}
 {{< /gallery >}}
 
-## Banières
+## Bannieres
 
 ![onestlatech banniere](/bannieres/onestla_2.png)
 par [Edouard Lafon](https://pouet.chapril.org/users/elafon/statuses/103329844781461295) - version [SVG](/bannieres/onestla_2_banniere_mastodon.svg)
