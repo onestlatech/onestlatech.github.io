@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 1602 signataires
+### 1601 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -192,7 +192,7 @@ En conséquence, nous appelons :
 * Antoine Arnoux, Studio creative director à 84.Paris.
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Antoine Delahay, Développeur 
-* [Antoine Gires], développeur web
+* Antoine Gires, développeur web
 * Antoine Guerrée, Administrateur systèmes Linux chez OVH
 * [Antoine Julien](https://lafabriqueavisuels.fr), designer 
 * [Antoine Kuhn](https://linkedin.com/in/antoine-kuhn), Développeur Fullstack, SpaceAble
@@ -1030,7 +1030,7 @@ Informaticiens en formation à l'UPEC
 * [Martin Moizard](https://github.com/MartinMoizard), ingénieur logiciel
 * [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
 * [Mathias Gesbert](https://github.com/mgesbert), Développeur
-* [Mathieu Bonnel], Max Digital Services
+* Mathieu Bonnel, Max Digital Services
 * Mathieu Bridon, développeur chez [Hashbang](https://hashbang.fr)
 * Mathieu Capon, Développeur Web Fullstack
 * [Mathieu Cheze](https://www.mathieucheze.fr), développeur front
@@ -1270,7 +1270,7 @@ Informaticiens en formation à l'UPEC
 * Philippe Cheminel, Développeur
 * Philippe Fremy, développeur dans une grande entreprise de haute technologie
 * Philippe Makowski
-* [Philippe Mironov], dev chez [epyk](http://epyk.fr)
+* Philippe Mironov, dev chez [epyk](http://epyk.fr)
 * Pierre Alex
 * Pierre Augustin, Développeur systèmes embarqués
 * [Pierre Bertrand](https://twitter.com/PbnPierre), développeur web @ Deezer
@@ -1363,7 +1363,7 @@ Informaticiens en formation à l'UPEC
 * [Robin PLU](https://twitter.com/RobinPlu), Designer
 * [Roch Bouchayer](https://twitter.com/sixclones), images builder
 * [Rodolphe Peccatte](https://gothor.github.io/), Développeur
-* [Rodrigue Couanon], Front-end developer
+* Rodrigue Couanon, Front-end developer
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * Roland Donat
 * [Romain (Artwo) Rouault](https://twitter.com/Artwo), Graphiste et Développeur Frontend
@@ -1435,7 +1435,6 @@ Informaticiens en formation à l'UPEC
 * Sélène Métraud, développeuse
 * [Serge Hardy](https://twitter.com/sergehardy), développeur
 * Séverine Wiltgen, SRE Mediapart
-* Signer l'appel
 * [Simon Alberny](https://www.simounet.net), Développeur web
 * [Simon Bée](https://github.com/simon-bee), Développeur web
 * [Simon Boisnard](https://twitter.com/SBoisnard), Product manager
