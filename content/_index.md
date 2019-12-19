@@ -3,7 +3,7 @@ title: L'appel
 date: 2019-12-09T10:44:29+01:00
 draft: false
 menu: "main"
-subtitle: L'appel
+subtitle: Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 navigation: L'appel 2
 weight: -40
 ---
