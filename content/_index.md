@@ -110,7 +110,6 @@ En conséquence, nous appelons :
 * Adrien Piquerez, développeur salarié
 * Adrien Risser, Freelance, Développeur web, Prestataire de l'Etat
 * [Adrien Taudière](https://adrientaudiere.com), micro-entrepreneur (bio-informatique, analyses de données)
-* [Adrien Taudière](https://adrientaudiere.com), micro-entrepreneur (bio-informatique, analyses de données) 
 * [Adrien Turcey](https://github.com/aturcey), développeur Web
 * [Alain "moustachu" Buchotte](https://github.com/moustachu), DevOps chez [Open Source Politics](https://opensourcepolitics.eu/)
 * Alain Thomas, Maire de Savas (Ardèche), Conseiller délégué T.I.C d'ANNONAY RHONE AGGLO (Ardèche)
