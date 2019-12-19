@@ -34,7 +34,7 @@ Par [@signez](https://twitter.com/Signez)
 
 ![onestlatech banniere](/bannieres/ginifizz.png)
 
-Par Ginifizz 
+Par Ginifizz
 
 ## QR Code
 
