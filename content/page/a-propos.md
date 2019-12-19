@@ -43,3 +43,4 @@ onestlatech@protonmail.com
 * [Podcast Echo](https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites)
 * [Maddyness](https://www.maddyness.com/2019/12/13/en-bref-onestlatech-greve-neutralite-carbone-et-les-laureats-des-grands-prix-de-linnovation/)
 * [L'ADN](https://www.ladn.eu/tech-a-suivre/travailleurs-tech-contre-reforme-retraites/)
+* [Arrêt sur Images](https://www.arretsurimages.net/articles/greves-sur-mesure-pour-travailleurs-du-numerique) (article payant)
