@@ -31,7 +31,7 @@ onestlatech@protonmail.com
 * Afficher son soutien sur les réseaux sociaux en ajoutant `✊ #OnEstLaTech` à son pseudo et utiliser l'[avatar du mouvement](/avatar.png)
 * Pour se coordonner et agir : [rejoindre notre Discord](https://discord.gg/se3PnEr) 
 * S'informer sur la grève : [La grève, c'est cool](https://greve.cool)
-* [Mettre votre site en grève](https://github.com/thibault/strike-js)
+* Mettre votre site en grève : [le Widget En Grève](https://github.com/noelmace/widget-engreve), [strike-js](https://github.com/thibault/strike-js)
 
 ### On parle de nous
 
