@@ -6,15 +6,15 @@ menu: "main"
 ## Pancartes pour les manifestations
 
 {{< gallery >}}
-{{< figure src="/pancartes/pancarte1.png" link="/pancartes/pancarte1.pdf" >}}
-{{< figure src="/pancartes/pancarte2.png" link="/pancartes/pancarte2.pdf" >}}
-{{< figure src="/pancartes/pancarte3.png" link="/pancartes/pancarte3.pdf" >}}
-{{< figure src="/pancartes/pancarte4.png" link="/pancartes/pancarte4.pdf" >}}
-{{< figure src="/pancartes/pancarte5.png" link="/pancartes/pancarte5.pdf" >}}
-{{< figure src="/pancartes/pancarte6.png" link="/pancartes/pancarte6.pdf" >}}
-{{< figure src="/pancartes/pancarte7.png" link="/pancartes/pancarte7.pdf" >}}
-{{< figure src="/pancartes/pancarte8.png" link="/pancartes/pancarte8.pdf" >}}
-{{< figure src="/pancartes/pancarte9.png" link="/pancartes/pancarte9.pdf" >}}
+{{< figure src="/pancartes/pancarte1.png" link="/pancartes/pancarte1.pdf" target="_blank" alt="Poing levé on est la tech" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte2.png" link="/pancartes/pancarte2.pdf" target="_blank" alt="Retrait de la réforme des retraites" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte3.png" link="/pancartes/pancarte3.pdf" target="_blank" alt="</macron>" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte4.png" link="/pancartes/pancarte4.pdf" target="_blank" alt="rm -Rf macron" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte5.png" link="/pancartes/pancarte5.pdf" target="_blank" alt="Disruptons la réforme des retraites" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte6.png" link="/pancartes/pancarte6.pdf" target="_blank" alt="La tech en grève !" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte7.png" link="/pancartes/pancarte7.pdf" target="_blank" alt="chown peuple:peuple Elysée" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte8.png" link="/pancartes/pancarte8.pdf" target="_blank" alt="Error 417: Expectation failed" rel="noopener" >}}
+{{< figure src="/pancartes/pancarte9.png" link="/pancartes/pancarte9.pdf" target="_blank" alt="Error 409: Conflict" rel="noopener" >}}
 {{< /gallery >}}
 
 ## Bannieres
