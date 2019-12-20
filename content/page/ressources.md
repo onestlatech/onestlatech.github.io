@@ -34,7 +34,7 @@ Par [@signez](https://twitter.com/Signez)
 
 ![onestlatech banniere](/bannieres/ginifizz.png)
 
-Par Ginifizz 
+Par Ginifizz
 
 ## QR Code
 
@@ -48,3 +48,8 @@ par Gheb - version [SVG](/QR_code/qrcoode-onestlatech.svg) <!-- XXX ajouter cred
 
 par [@artwo](https://twitter.com/artwo) - Planche A4 [PDF](/stickers/stickers.pdf)
 
+## Tract
+
+[![onestlatech tract](/tracts/tract-a5-recto-verso.png)](/tracts/tract-a5-recto-verso.pdf)
+
+par [@pmorinerie@mastodon.xyz](https://mastodon.xyz/@pmorinerie/) – Page A5 recto-verso [PDF](/tracts/tract-a5-recto-verso.pdf)
