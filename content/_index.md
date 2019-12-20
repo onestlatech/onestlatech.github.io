@@ -477,7 +477,7 @@ En conséquence, nous appelons :
 * Edmond Daoust, Développeur Web. Belge mais solidaire!
 * [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
-* Edouard Lafon ingénieur IT freelance , membre de l'[april](https://april.org) et de la de [la communauté des blue
+* Edouard Lafon ingénieur IT freelance , membre de l'[April](https://april.org) et de [la communauté des Blue Hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Édouard Lopez](https://twitter.com/edouard_lopez), Développeur
 * [Elie Ladias] Data Scientist, Freelance
 * [Elie Mietkiewicz](https://twitter.com/jacqueslelezard), Fullstack developer / UX designer
