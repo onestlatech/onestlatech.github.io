@@ -22,6 +22,9 @@ menu: "main"
 ![onestlatech banniere](/bannieres/onestla_2.png)
 par [Edouard Lafon](https://pouet.chapril.org/users/elafon/statuses/103329844781461295) - version [SVG](/bannieres/onestla_2_banniere_mastodon.svg)
 
+![onestlatech banniere](/bannieres/onestla.tech.fistflower.svg.png)
+par [jcfrog](https://mamot.fr/@jcfrog/103346733264583998) - version [SVG](/bannieres/onestla.tech.fistflower.svg)
+
 ![onestlatech banniere](/bannieres/signez_chownPeuple.png)
 
 ![onestlatech banniere](/bannieres/signez_retraitReforme.png)
