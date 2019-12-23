@@ -46,3 +46,7 @@ onestlatech@protonmail.com
 * [Affordance](https://www.affordance.info/mon_weblog/2019/12/cest-la-lutte-digitale.html)
 * [Mediapart 17/12](https://blogs.mediapart.fr/section-syndicale-cgt-de-mediapart/blog/171219/mediapart-des-salarie-e-s-toujours-en-greve-contre-la-reforme-des-retraites)
 * [Arrêt sur Images](https://www.arretsurimages.net/articles/greves-sur-mesure-pour-travailleurs-du-numerique) (article payant)
+* [Médias-Cité](https://medias-cite.coop/onestlatech-la-parole-aux-travailleur-se-s/)
+* [Médialibre](https://medialibre.info/estactu-20/2019/12/20/temoignage-de-primogreviste-richard-39-ans-developpeur-informatique/)
+* [L'Humanité](https://www.humanite.fr/les-travailleurs-du-web-reinventent-les-mobilisations-682189)
+* [France Culture](https://www.franceculture.fr/emissions/journal-de-8-h/journal-de-8h-du-lundi-23-decembre-2019)
