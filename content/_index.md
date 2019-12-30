@@ -1404,7 +1404,7 @@ Ingénieur système ADSN
 * [Raphaël Mor](https://twitter.com/raphaelmor), développeur
 * Raphaël PINEAU, Développeur Spring, MAX Digital Services
 * Raphaël Ricklin, Ingénieur en modélisation ferroviaire
-* [Raul P Maciel](https://twitter.com/raulpmaciel, Producteur Audio & Video
+* [Raul P Maciel](https://twitter.com/raulpmaciel), Producteur Audio & Video
 * Ravi Horner, Consultant SEO, Agence Disko
 * [Reginald Costa](https://twitter.com/Talamasca1894) Product Manager à [Mediapart](https://www.mediapart.fr/)
 * Régis L'Hostis, Consultant et formateur Outils numériques, Windtopik.fr
