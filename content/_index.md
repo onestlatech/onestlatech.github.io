@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 1687 signataires
+### 1704 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -266,6 +266,7 @@ En conséquence, nous appelons :
 * [Bastien LEMALE](https://github.com/blemale), software engineer 
 * [Bastien Mosnier](https://www.linkedin.com/in/bastien-mosnier-69ba6a137), Ingénieur logiciel
 * [Bastien Picharles](https://twitter.com/kleinast), développeur
+* Benjamin André , développeur
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
 * [Benjamin Becquet](https://bbecquet.net), développeur web/cartographie.
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
@@ -310,6 +311,7 @@ En conséquence, nous appelons :
 * [Bertrand Dunogier](https://twitter.com/bdunogier), Product Manager, eZ Systems
 * [Bertrand Keller](https://bertrandkeller.info), empêcheur de penser en rond
 * Bertrand Malet, CTO
+* [Bertrand Rigal](https://bertrandrigal.fr), Développer web
 * [Béryl de La Grandière](https://beryldlg.com), designer graphique indépendante.
 * Bialorucki Olivier, développeur
 * [bikepunk](https://mastodon.tetaneutral.net/@bikepunk), touillette travailleuse bénévole de la [FédérationFDN](https://ffdn.org)
@@ -349,6 +351,7 @@ En conséquence, nous appelons :
 * CapsLock, [Defensive Lab Agency](https://defensive-lab.agency)
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Caroline Noyer, Product Owner / Développeur back senior
+* Catherine Arrivé, Ingénieur Logiciel
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Cécile Moret](https://cecilemoret.com/), Designer
 * Cécile Rabot, Consultante SEO
@@ -412,6 +415,7 @@ En conséquence, nous appelons :
 * Clément Romier - agence web [Neutron](https://agence-neutron.fr)
 * [Clément Simmoneau](https://lesoiseauxdepassage.coop/), co gérant, SCIC Les oiseaux de passage
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* Clémet PIGNON développeur, Chekk.me
 * Clotilde Martin-Lemerle, UX designer
 * Colin Maudry, Conseiller indépendant en Open Data
 * [Côme Chilliet](https://social.chilliet.eu/@come), Développeur
@@ -426,6 +430,7 @@ En conséquence, nous appelons :
 * Cyril Bellot, responsable infrastructures d'hébergement, ingénieur système et réseaux
 * Cyril Belmehdi, head of business intelligence aux laboratoires Pierre Fabre 
 * [Cyril Bosson](https://www.cyrilbosson.com), Développeur Fullstack indépendant
+* [Cyril Delmas](https://twitter.com/cyril_delmas), Développeur
 * [Cyril Epinat](https://github.com/cyrilepinat), développeur web
 * Cyril Vermandé, développeur web freelance
 * Cyrille Clarisse
@@ -528,6 +533,7 @@ En conséquence, nous appelons :
 * [Eric Bréhault](https://twitter.com/ebrehault), développeur web
 * Eric De Sa, Développeur
 * [Eric Debra](https://twitter.com/_Harest), développeur aspirant consultant en game design
+* Éric Jacoboni, enseignant en Informatique, Université Toulouse - Jean Jaurès.
 * Eric Launay, sysadmin Linux
 * Eric LEVEAU, Développeur backend
 * [Eric Patrizio](https://twitter.com/EricPatrizio), Développeur, Agiliste
@@ -676,6 +682,7 @@ Ingénieur système ADSN
 * [Gilles Mioni](https://github.com/GillesMioni), Chef de projet, retraité
 * [Gilles Pietri](https://gilouweb.com) Admin sys et gérant de [Wolface.IT](https://www.wolface.fr)
 * Gilles Roustan, Développeur à Mediapart
+* Gilliane TISON, Administratrice Systèmes/Réseaux (alternance licence pro)
 * [Glen Struillou](https://glenstruillou.com/), développeur web chez [Yes We Dev](https://yeswedev.bzh/)
 * [Glennie Vignarajah](https://glennie.fr), SRE
 * Gratienne Dagut, ingénieur Telecom Orange
@@ -789,6 +796,7 @@ Ingénieur système ADSN
 * [Jean Thomas](https://github.com/dohseven), développeur
 * [Jean-Baptiste Dusseaut](https://twitter.com/bodysplash), CTO, eXtreme Programmer
 * [Jean-Baptiste Guillard](https://artefacts.coop/), Dev Front, Coopérative Artefacts
+* Jean-Baptiste Kerbœuf, développeur à La Combe du lion vert
 * Jean-Baptiste Minvielle, UX designer indépendant 
 * [Jean-Baptiste Quenot](https://www.linkedin.com/in/jbquenot/), Développeur Senior/CTO/Coach DevOps en Freelance
 * [Jean-Baptiste Vilain](https://github.com/jeanbaptistevilain), artisan logiciel chez Hôtentic
@@ -1044,6 +1052,7 @@ Ingénieur système ADSN
 * [Maïtané Lenoir](https://www.maiwann.net/), UX Designer · Ergonome
 * Manfred Cossard, Ingénieur Cybersécurité
 * [Manon Léger](https://twitter.com/ManonLger) – Co-fondatrice de [Latitudes](https://www.latitudes.cc) • Administratrice de [FEST](http://festech.org)
+* [Manuel Pégourié-Gonnard](https://elzevir.fr), développeur
 * [Marc Bouvier](https://twitter.com/marcbouvier_), développeur
 * [Marc Brillault](https://twitter.com/MarcBrillault), développeur
 * Marc Bruyere, Chercheur Réseau Informatique 
@@ -1085,6 +1094,7 @@ Ingénieur système ADSN
 * [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
 * [Mathias Gesbert](https://github.com/mgesbert), Développeur
 * [Mathias PAUL](https://twitter.com/MathiasP__), Consultant
+* [Mathieu Beucher], Ingénieur Informatique
 * Mathieu Bonnel, Max Digital Services
 * Mathieu Bridon, développeur chez [Hashbang](https://hashbang.fr)
 * Mathieu Capon, Développeur Web Fullstack
@@ -1117,6 +1127,7 @@ Ingénieur système ADSN
 * [Mathilde Rivoire](https://twitter.com/webdesign_23), designer
 * [Matt Marcha](https://github.com/Aveias), Développeur web
 * Matthias Heuveline - Développeur Web
+* Matthias Lelu, Consultant technique à Planisware
 * Matthieu Baechler, Développeur indépendant
 * Matthieu Boileau, Ingénieur de recherche au CNRS
 * Matthieu Caron, Lead Développeur
@@ -1135,6 +1146,7 @@ Ingénieur système ADSN
 * Maxime Guedj (ImaCrea) - Product Manager, Front Dev, UX Design, Auteur. MailTape / PCFH Studio
 * [Maxime Huran](https://twitter.com/MaximeHuran), Lead developer
 * [Maxime Louet](https://saumon.io), DevOps
+* [Maxime Mathis--Fumel](https://www.linkedin.com/in/maxime-mathis-fumel-974174108/), étudiant ingénieur / programmeur en alternance
 * Maxime Mirot, technicien multimédia
 * [Maxime Rimbault](https://teksi.net), designeur d'interface, vidéaste
 * [Maxime RIVIERE](https://www.linkedin.com/in/maximeriviere/), Développeur Freelance
@@ -1145,6 +1157,7 @@ Ingénieur système ADSN
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * Maximilien Desnos , Étudiant et développeur
 * [Mehdi Benadda](https://twitter.com/mbenadda), développeur open source
+* [Mehdi Chaouch](https://twitter.com/MehdiChch), Developer PHP (Magento2/Symfony)
 * Mehdi Chihaoui, A.I. Programmer (membre du STJV)
 * [Mehdi Guiraud](https://twitter.com/mguiraud), data analyst, Enercoop
 * [Mehdi Medjaoui](https://twitter.com/medjawii), fondateur de OAuth.io, GDPR.dev et APIdays conferences
@@ -1162,6 +1175,7 @@ Ingénieur système ADSN
 * [Michael Hauspie](https://twitter.com/MichaelHauspie), enseignant-chercheur, Université de Lille
 * [Michaël Lebeau](https://epistol.fr), développeur web
 * [Michel Blanc](https://twitter.com/b9m), sysadmin @ https://devops.works
+* Michel Cadennes (https://mamot.fr/@tchevengour), développeur indépendant, enseignant en informatique.
 * Michel Garanx, Architecte Big Data
 * [Michel Guillou](https:/twitter.com/michelguillou), Observateur
 * [Michel Perrocheau](https://github.com/myrrkel), Développeur Python
@@ -1370,7 +1384,6 @@ Ingénieur système ADSN
 * Pierre-Vincent Jacquier, Chef de projet
 * Pierrick Le Gall, Développeur
 * [Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)
-* [Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)
 * [Prosper Wanner](https://lesoiseauxdepassage.coop/), salarié doctorant, SCIC Les oiseaux de passage
 * Quentin Arnault, Développeur indépendant
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -1497,6 +1510,7 @@ Ingénieur système ADSN
 * Sébastien Hut, développeur 
 * [Sébastien Lerique](https://slvh.fr), chercheur postdoc en évolution du langage
 * Sébastien Maire (http://twitter.com/z0rien), Développeur 3D
+* [Sébastien Nicolaïdis](https://twitter.com/seb_nicolaidis), entrepreneur & lead developper
 * [Sébastien Pelletier](https://twitter.com/seb_tartanpion), Analyste fonctionnel
 * [Sébastien Picq](https://twitter.com/Kheltdire), Ingénieur frontend @ekino
 * [Sébastien Poivre](https://twitter.com/gizmhail), Concepteur développeur
@@ -1536,7 +1550,9 @@ Ingénieur système ADSN
 * Sophie Houzet, co-fondatrice d'Ozwillo
 * Sophie Mazzola, ste AUBAY
 * Sophie Pavoine, Déléguée à la protection des données, Référente diffusion numérique, Centre de Gestion d'Ille et Vilaine
+* Souen BONIFACE, développeur freelance
 * [Souen Mazouin](https://github.com/SouenMazouin), Ingénieur d'études R&D, CDiscount
+* Souriya Phongsavanh - [Les-Tilleuls.coop](https://les-tilleuls.coop/)
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
 * Stanislas Garret, Ingénieur Informatique scientifique
 * Stefan KRUGER - Développeur - Altitude Création - Cherbourg en Cotentin (Manche - 50)
@@ -1589,6 +1605,7 @@ Ingénieur système ADSN
 * Tanguy Le Carrour, développeur
 * Tania Aubert, Enseignante de FLE 
 * Tania Coone, designer
+* Tankred Chardeur, alternant en administration système chez /e/ Foundation
 * [Thê-Minh Trinh](https://twitter.com/@the_minh), Product Manager
 * Théo Faure, chef de projet
 * [Théo Fidry](https://twitter.com/tfidry), développeur
@@ -1794,3 +1811,4 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Fédération FDN](https://www.ffdn.org/)
 * [42l](https://42l.fr), association étudiante à l'école 42
 * [Union communiste libertaire](https://www.unioncommunistelibertaire.org/)
+* [Fédération des activités postales et de télécommunication SUD-PTT](http://www.sudptt.org)
