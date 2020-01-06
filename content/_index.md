@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 1727 signataires
+### 1735 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -155,6 +155,7 @@ En conséquence, nous appelons :
 * [Alexis MONTORO](https://twitter.com/Hoxydav), CTO
 * Alexis Roche, codeur à temps partiel
 * [Alexis Smadja](https://github.com/Alxss), Responsable technique [Big Youth](https://bigyouth.fr)
+* Alice Verstraet, Consultante métier, Test Leader
 * Alix Munier Kordon, professeur d'informatique à Sorbonne Université
 * [Allan Floury](https://www.linkedin.com/in/allanfloury/), Fondateur [Poi](https://poi.app) & Product Designer
 * Allan Rethoré, Freelance PHP
@@ -297,6 +298,7 @@ En conséquence, nous appelons :
 * [Benoit Galati](https://www.bgalati.fr), développeur
 * Benoît Gambier, co-gérant, [Spotlab](https://www.spotlab.net)
 * [Benoît Guigal](https://benoitguigal.fr), Développeur freelance
+* [Benoît Harrault](https://benoit.harrault.fr/), Technical Leader / Full Stack Developper
 * [Benoît Hillairet](https://twitter.com/BenoitHillairet), développeur web
 * Benoit Langlais, Ingénieur réseaux
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
@@ -630,6 +632,7 @@ Informaticiens en formation à l'UPEC
 * François COLOMBIER, salarié de Coopératic
 * [François Cornuaud](https://twitter.com/AtChA_), Développeur Front End
 * [François Ferrandis](https://github.com/francois-ferrandis), développeur, La Cordée
+* François GUÉRIN, Développeur dans une collectivité territoriale du Nord
 * François Jégou, Développeur
 * [François Jehl](https://twitter.com/FrancoisJehl), Engineering Manager
 * [François Konschelle](https://fraschelle.free.fr), Docteur en Physique, Data Scientist.
@@ -1055,6 +1058,7 @@ Ingénieur système ADSN
 * Ludovic Gonthier, Développeur web indépendant
 * [Ludovic Riaudel](https://twitter.com/lriaudel), Product Owner & Concepteur Web
 * Ludovic Richard, Consultant
+* Ludovic Salvi Borbolla - Développeur web
 * Ludovic Sire, Rédacteur SEO Freelance
 * [Luis ARIZAGA](https://www.linkedin.com/in/ingarizaga), Freelance, Architecte Réseau et Télécom 
 * [Luxon J-P](https://twitter.com/Gumichan01), Ingénieur logiciel
@@ -1097,6 +1101,7 @@ Ingénieur système ADSN
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Marion Karle](https://framapiaf.org/@marionkarle), Ingénieure réseaux
 * Marion Reinhard
+* Marion Rossignol Lemaire (https://www.linkedin.com/in/marion-lemaire-rossignol-b60972b4/), développeuz
 * [Marion Tommasi](http://marion.tommasi.free.fr), doctorante
 * Marius Ghislain, Développeur
 * Martial Fernandez, technicien réseau, Groupe ADSN
@@ -1254,6 +1259,7 @@ Ingénieur système ADSN
 * Nicolas Durand
 * [Nicolas Fédou](https://twitter.com/CoulasFedou), Lead Développeur
 * [Nicolas Froidure](https://insertafter.com) Développeur
+* [Nicolas Gillium](https://nicolas-gillium.fr/), Développeur web freelance
 * Nicolas Gomes, Développeur Web
 * Nicolas Gourlé, développeur
 * [Nicolas Goutay](https://twitter.com/phacks), Architecte Développeur, Theodo
@@ -1265,7 +1271,6 @@ Ingénieur système ADSN
 * [Nicolas Karolak](https://blog.karolak.fr), Ingénieur Systèmes Linux
 * [Nicolas Lair](https://twitter.com/nlair_dev), Développeur
 * Nicolas Leccia, Intégrateur système et solutions
-* [Nicolas Leccia], Intégrateur systèmes et solutions
 * Nicolas Liveris, Développeur Web.
 * Nicolas Lourdeaux, Entrepreneur
 * [Nicolas Malin](https://nereide.frl), coopérateur
@@ -1324,6 +1329,7 @@ Ingénieur système ADSN
 * [Olivier Simon](https://twitter.com/oligoelement), administrateur système
 * [Olivier Tétard](https://twitter.com/olivier_tetard), SRE
 * Olivier Vallée, développeur
+* Oumarou Mballo, Consultant Data
 * [OursBlanc](https://mamot.fr/@oursblanc) bénévole FDN et FFDN
 * Pablo Labarca, Consultant numérisation des outils de travail
 * [Pablo Rauzy](https://pablo.rauzy.name/), enseignant-chercheur en informatique, cofondateur du projet [Upsilon](https://upsilon.sh/)
@@ -1388,6 +1394,7 @@ Ingénieur système ADSN
 * [Pierre Hay](https://web-ou-reseau-social), Scala Developer
 * [Pierre Huyghe](https://twitter.com/MierreMuyghe), Développeur
 * Pierre Kuhner, Ingénieur sécurité
+* Pierre Malhaire, lead dev backend.
 * Pierre Mirou, Développeur
 * Pierre Rebeilleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
@@ -1708,6 +1715,7 @@ Ingénieur système ADSN
 * Tristan Helík, ingénieur réseaux
 * [Tristan Maindron](https://tristan.maindron.io), CTO
 * Tristan Prudhomme, Développeur, Max Digital Services
+* [Tristan Rivoallan](https://www.constructions-incongrues.net), Lead Devops
 * Tristan Touileb, Administrateur système.
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
 hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
