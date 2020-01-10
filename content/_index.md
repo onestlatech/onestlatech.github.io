@@ -1409,7 +1409,6 @@ Ingénieur système ADSN
 * Pierre-Olivier Cazenave
 * Pierre-Vincent Jacquier, Chef de projet
 * Pierrick Le Gall, Développeur
-* [Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)
 * [Prosper Wanner](https://lesoiseauxdepassage.coop/), salarié doctorant, SCIC Les oiseaux de passage
 * Quentin Arnault, Développeur indépendant
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
