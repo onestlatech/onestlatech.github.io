@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 1843 signataires
+### 1845 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -410,6 +410,7 @@ En conséquence, nous appelons :
 * [Christophe Brocas](https://twitter.com/cbrocas), ingénieur Sécurité
 * [Christophe CLOUZEAU](https://www.linkedin.com/in/christopheclouzeau/), Consultant UX chez [Digitzu.com](https://digitzu.com/)
 * [Christophe DEMAY](https://twitter.com/chrstphdm), bioinformaticien@chudeLille
+* Christophe Durpaire, informaticien salarié multi-employeurs
 * [Christophe Henry](https://github.com/christophehenry), développeur Python/Kotlin/Web @ Timon-Ethics/Coopaname 
 * Christophe Khaldi aka duke - https://khaldi.fr - CTO
 * Christophe Le Marc, Développeur backend
@@ -1174,6 +1175,7 @@ Ingénieur système ADSN
 * [Martin Moizard](https://github.com/MartinMoizard), ingénieur logiciel
 * [Martin Potel](https://twitter.com/p_mrtn), développeur artisan chez CN Films
 * [Martin Supiot](https://twitter.com/webaaz), Architecte PHP
+* Martine JESNE, enseignante
 * [Mathias Gesbert](https://github.com/mgesbert), Développeur
 * [Mathias PAUL](https://twitter.com/MathiasP__), Consultant
 * [Mathieu Beucher], Ingénieur Informatique
@@ -1797,6 +1799,7 @@ Ingénieur système ADSN
 * [Thomas Planques](http://www.thomas-planques.com/), directeur créatif / producteur, projet Ikigai, Sorbonne Université
 * [Thomas Porquet](https://twitter.com/tompork), chargé de mission
 * [Thomas Quinot](https://thomas.quinot.org/),Information Security Lead, AdaCore
+* Thomas RETAIL, gérant de Les Etudes Electroniques, électronicien et programmeur embarqué sur cartes électronique
 * Thomas Serre, Coach Agile
 * [Thomas SUCHON](https://thomas-suchon.fr), Administrateur Système
 * Thomas THOREZ
