@@ -10,14 +10,14 @@ déclarions qu'« **effectuer des heures supplémentaires est une aberration**, 
 l'automatisation galopante ». Et « la société de consommation, cette volonté imbécile de vouloir produire toujours plus et
 toujours plus inutile est en train de **détruire notre planète** ».
 
-Nous sommes convaincu que « les programmes et les machines que nous créons peuvent contribuer à lutter contre la pauvreté,
+Nous sommes convaincu·e·s que « les programmes et les machines que nous créons peuvent contribuer à lutter contre la pauvreté,
 permettre à toutes et tous de vivre mieux et plus confortablement (...) aux conditions que les richesses qu'ils produisent
 soient **plus équitablement réparties et que leurs impacts environnementaux soient réduits** ».
 
 Nous voulions donc que le combat contre le dérèglement climatique et les enjeux écologiques soient présents dans notre appel
-car nous sommes intimement convaincus que le combat contre cette réforme des retraites et le combat écologique sont liés :
+car nous sommes intimement persuadé·e·s que le combat contre cette réforme des retraites et le combat écologique sont liés :
 « **fin du monde, fin du mois, même combat** ».
-
+·
 ### Le climat absent des débats ?
 
 « Que penser de l’idée même de retraite, quand on nous rappelle quotidiennement que **le monde dans lequel nous vivons est en 
