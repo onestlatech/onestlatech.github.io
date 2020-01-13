@@ -30,16 +30,14 @@ C’est le constat que fait le professeur d’économie [Jean Gadrey](https://bl
 « une question est laissée en suspens aussi bien du côté des avocats de la réforme que du côté de ses opposants, c’est celle
 de la place des questions climatiques et plus généralement écologiques dans cette confrontation sociale et politique majeure ».
 
-Hervé Gardette, dans son article « [ça chauffe pour les retraites](https://www.franceculture.fr/emissions/la-transition/une-retraite-oui-mais-sur-quelle-planete) »
-regrette le fait que « ce lien entre retraites et climat alimente aussi peu le débat public » et va un peu plus loin en
-estimant que « ni le système par capitalisation, ni celui par répartition ne parait en mesure de répondre à ces enjeux
-systémiques ».
+Dans l'article « [ça chauffe pour les retraites](https://www.franceculture.fr/emissions/la-transition/une-retraite-oui-mais-sur-quelle-planete) », le journaliste Hervé Gardette regrette le fait que « ce lien entre retraites et climat alimente aussi peu le débat public » et va un peu plus loin en estimant que « ni le système par capitalisation, ni celui par répartition ne parait en mesure de répondre à ces enjeux systémiques ».
 
 ### Allonger le temps de travail pour produire plus, détruire plus ?
 
-[Dans une tribune, l’économiste Gaël Giraud](https://www.lemonde.fr/idees/article/2019/12/26/il-nous-faut-aujourd-hui-un-regime-de-retraite-post-croissance_6024118_3232.html)
-estime qu’« Il nous faut aujourd’hui **un régime de retraite “post-croissance”** ». Selon lui, le projet de réforme de retraites
-présenté par le gouvernement est à la fois contradictoire, inefficace et injuste.
+Dans une tribune, l’économiste Gaël Giraud estime qu’« il nous faut aujourd’hui
+[**un régime de retraite “post-croissance”**](https://www.lemonde.fr/idees/article/2019/12/26/il-nous-faut-aujourd-hui-un-regime-de-retraite-post-croissance_6024118_3232.html) ».
+Selon lui, le projet de réforme de retraites présenté par le gouvernement est à la fois contradictoire, inefficace et
+injuste.
 
 Gaël Giraud souligne que la tendance depuis deux siècles est « à la réduction du temps de travail ».
 Le gouvernement français est donc à rebours du sens de l’histoire :
@@ -47,7 +45,7 @@ Le gouvernement français est donc à rebours du sens de l’histoire :
 un projet, selon l’économiste « qui contribue à engager davantage notre société dans **l’impasse d’un productivisme qui nous
 tue** ».
 
-Dans une tribune, François Ruffin, député France insoumise, déclare que « [la bataille pour les retraites est une bataille
+Dans une autre tribune, François Ruffin, député France insoumise, déclare que « [la bataille pour les retraites est une bataille
 écologique](https://reporterre.net/La-bataille-pour-les-retraites-est-une-bataille-ecologique) » et rappelle que « Les
 retraites, c’est un combat sur le temps de travail ».
 Il cite l’économiste John Maynard Keynes qui estimait « qu’à la fin du XXe siècle, les besoins économiques seraient satisfaits,
