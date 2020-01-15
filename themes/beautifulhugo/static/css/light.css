@@ -16,7 +16,7 @@ html {
 }
 
 body {
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: 'IBM Plex Mono', monospace;
     font-size: 1em;
     color: #404040;
     background: #f0f0f0;
@@ -25,7 +25,23 @@ body {
     padding: 0;
 }
 
-h1 { font-size: 3.6em; }
+h1 { font-size: 4.2em; }
+
+h1.heading-title {
+    font-weight: 400;
+    font-size: 6em;
+}
+
+h1.heading-title>img{
+    display: inline;
+    height: 1em;
+    margin-right: 0.5em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
 h2 { font-size: 2.8em; }
 h3 { font-size: 2em; }
 h4 { font-size: 1.8em; }
@@ -49,9 +65,9 @@ a:hover { text-decoration: none; }
 
 .posts-heading,
 .page-heading {
-    font-weight: bold;
+    font-weight: normal;
     text-align: center;
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: "IBM Plex Mono" monospace;
 }
 
 .heading-title {
@@ -190,7 +206,7 @@ code {
 /** Mobile */
 @media only screen and (max-width: 720px) {
     .page-heading {
-        font-size: 0.8em;
+        font-size: 0.6em;
     }
     .navbar-nav {
         display: grid;
