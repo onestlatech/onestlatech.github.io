@@ -188,6 +188,14 @@ code {
     top: 20em;
 }
 
+/* Fix the header appearing under the sticky nav-bar when using a #anchor link */
+.blog-post h2 {
+    padding-top: 80px;
+}
+.blog-post * + h2 {
+    margin-top: -60px;
+}
+
 .social-networks {
     font-size: 1.8em;
     font-weight: bold;
