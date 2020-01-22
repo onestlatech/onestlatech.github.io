@@ -18,7 +18,7 @@ Comme nous l’écrivions précédemment, [plusieurs formes de blocages](https:/
 
 ## Une action collective pour construire le rapport de force
 
-En réalisant ces actions de façon collective, nous revendiquons le blocage comme un exercice du droit de grève pour les travailleurs du numérique, et nous limitons les risques de sanction qui pourraient intervenir en agissant de façon isolée. Dans beaucoup de professions, utiliser son outil de travail pendant une grève pour un blocage, l’organisation de piquets de grève, sont des pratiques syndicales courantes. L’état du [droit concernant les grèves numériques](https://blogs.mediapart.fr/community-managers-en-greve/blog/150120/le-droit-de-greve-l-ere-du-numerique) est encore flou, mais ce flou peut nous être favorable.
+En réalisant ces actions de façon collective, nous revendiquons le blocage comme un exercice du droit de grève pour les travailleuses et travailleurs du numérique, et nous limitons les risques de sanction qui pourraient intervenir en agissant de façon isolée. Dans beaucoup de professions, utiliser son outil de travail pendant une grève pour un blocage, l’organisation de piquets de grève, sont des pratiques syndicales courantes. L’état du [droit concernant les grèves numériques](https://blogs.mediapart.fr/community-managers-en-greve/blog/150120/le-droit-de-greve-l-ere-du-numerique) est encore flou, mais ce flou peut nous être favorable.
 
 C’est le rapport de force et l’action collective qui nous protègeront le mieux des sanctions. Regroupé dans une même action, nous pouvons plus facilement la revendiquer comme un mouvement d’ensemble.
 
