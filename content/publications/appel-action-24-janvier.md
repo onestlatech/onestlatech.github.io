@@ -6,7 +6,7 @@ draft: false
 
 La grève contre le projet de la réforme des retraites dure depuis bientôt 50 jours. Vendredi 24 janvier, prochaine journée de mobilisation, de nombreuses actions sont prévues. Pour nous aussi, travailleuses et travailleurs du numérique, notre grève doit être visible.
 
-À la suite de [notre appel précédent](https://onestla.tech/publications/appel-au-blocage/), nous appelons à **bloquer et occuper nos plateformes collectivement le vendredi 24 janvier**. Pendant 24 heures, ensemble, bloquons et occupons l’accès aux sites web, aux systèmes automatiques et aux réseaux sociaux que nous gérons. De nombreuses actions de blocage ou occupation numérique ont déjà eu lieu, cette fois-ci, agissons ensemble ! Montrons que nous sommes toujours présents, déterminés, nombreux, et solidaires.
+À la suite de [notre appel précédent](https://onestla.tech/publications/appel-au-blocage/), nous appelons à **bloquer et occuper nos plateformes collectivement le vendredi 24 janvier**. Pendant 24 heures, ensemble, bloquons et occupons l’accès aux sites web, aux systèmes automatiques et aux réseaux sociaux que nous gérons. De nombreuses actions de blocage et d'occupation numérique ont déjà eu lieu, cette fois-ci, agissons ensemble ! Montrons que nous sommes toujours présents, déterminés, nombreux, et solidaires.
 
 ## Différentes formes de blocage
 
