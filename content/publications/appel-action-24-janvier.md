@@ -22,7 +22,7 @@ En réalisant ces actions de façon collective, nous revendiquons le blocage com
 
 C’est le rapport de force et l’action collective qui nous protègeront le mieux des sanctions. Regroupé dans une même action, nous pouvons plus facilement la revendiquer comme un mouvement d’ensemble.
 
-Par ailleurs, en cas de menace ou sanction d’un employeur suite à cette action, tous les participant·es s’engagent collectivement à dénoncer les tentatives de pression de cet employeur.
+Par ailleurs, en cas de menace ou sanction d’un employeur suite à cette action, tous les participantes et participants s’engagent collectivement à dénoncer les tentatives de pression de cet employeur.
 
 ## Comment faire ?
 
