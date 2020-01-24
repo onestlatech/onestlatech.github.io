@@ -59,3 +59,6 @@ Par ailleurs, en cas de menace ou sanction d’un employeur suite à cette actio
 - Troopers (https://troopers.agency/)
 - Agence Différente (http://new.agence-differente.fr/)
 - Kévin Dunglas (https://dunglas.fr/)
+- Sweet AF (https://sweetaf.store/)
+- Strangebuzz (https://www.strangebuzz.com/fr)
+- Les logiciels Deuchnord (https://www.deuchnord.fr/)
