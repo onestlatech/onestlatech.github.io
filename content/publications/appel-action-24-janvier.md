@@ -43,6 +43,7 @@ Par ailleurs, en cas de menace ou sanction d’un employeur suite à cette actio
 
 ## Liste des sites mobilisés
 
+- Mediapart (https://www.mediapart.fr/)
 - Genre sexualité et société (https://journals.openedition.org/gss/)
 - Volume! (https://journals.openedition.org/volume/)
 - Carnets de géographes (https://journals.openedition.org/cdg/)
