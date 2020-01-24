@@ -40,3 +40,19 @@ Par ailleurs, en cas de menace ou sanction d’un employeur suite à cette actio
 
     Si possible, annoncez aussi votre intention de bloquer sur les réseaux sociaux, en mentionnant #blocage24janvier ou @onestlatech.
 4. **Vendredi 24 janvier, mettez en place le blocage ou l’occupation.**
+
+## Liste des sites mobilisés
+
+- Genre sexualité et société (https://journals.openedition.org/gss/)
+- Volume! (https://journals.openedition.org/volume/)
+- Carnets de géographes (https://journals.openedition.org/cdg/)
+- Genre & Histoire (https://journals.openedition.org/genrehistoire/)
+- Sociologie du travail (https://journals.openedition.org/sdt/)
+- Transposition (https://journals.openedition.org/transposition)
+- Continents Manuscrits (https://journals.openedition.org/coma/)
+- Tracés (https://journals.openedition.org/traces/)
+- Mouvements (http://mouvements.info/)
+- Sociologies pratiques (https://www.apse-asso.fr/apse,6-sociologies_pratiques.htm)
+- Noël Macé(https://noelmace.com/)
+- Web on F.I.R.E. (https://wof.show)
+- Troopers (https://troopers.agency/)
