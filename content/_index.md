@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 2012 signataires
+### 2018 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -421,6 +421,7 @@ En conséquence, nous appelons :
 * [Charles de Lacombe](https://twitter.com/Cha_de_L), développeur & sysadmin pour Hespul et Institut négaWatt
 * Charles Hutin-Persillon, Data Strategist
 * Charles Prévot, ingénieur et développeur
+* Charlotte David, Développeuse informatique 
 * Charlotte Declercq
 * Charlotte Plaisance, Cheffe de projet dans le digital
 * Charly Allemand, Sales
@@ -514,6 +515,7 @@ En conséquence, nous appelons :
 * Damien Le Garrec https://twitter.com/superdaminou
 * [Damien Le Thiec](https://github.com/damienlethiec), CTO chez Aventure Bio
 * [Damien List](https://twitter.com/dali_dalum), CTO
+* [Damien Matabon](https://github.com/zeliard91), Développeur
 * [Damien Pitard](https://twitter.com/pitpit0), CTO
 * [Damien Pobel](https://damien.pobel.fr/)
 * [Damien Senger](https://raccoon.studio), Design Systems & Accessibility Lead
@@ -714,7 +716,6 @@ En conséquence, nous appelons :
 * [Florine Sueur](https://www.soit.rocks/), UX Dev
 * [Floris MORICEAU](https://floris-moriceau.fr/), Développeur Front-End Drupal, Secrétaire de l'association [Drupal France](https://www.drupal.fr/)
 Informaticiens en formation à l'UPEC
-* Frantz Balinski, 54 ans, Développeur Informatique (retiré du marché de l'emploi pour cause de maladie), utilisateur Debian, projets récents : FOSS [LeBiniou](https://biniou.net) (plugins de zebulon, nommés z...)
 * Francis Chabouis, développeur, [Codeurs en Liberté](https://codeursenliberte.fr)
 * Franck BARRAUD, Expert DATA
 * Franck Butelle, enseignant chercheur
@@ -749,6 +750,7 @@ Informaticiens en formation à l'UPEC
 * [François-Xavier Lesaffre](https://yaal.fr), Administateur Système et Réseaux
 * [Françoise Romand](https://www.romand.org)
 * [Frankiz DANIEL], Indépendant/Gourou webdev
+* Frantz Balinski, 54 ans, Développeur Informatique (retiré du marché de l'emploi pour cause de maladie), utilisateur Debian, projets récents : FOSS [LeBiniou](https://biniou.net) (plugins de zebulon, nommés z...)
 * [Fred Petit](@Fr3dP3tit)
 * Fred Zind, Développeur
 * [Freddy Limpens](https://limpica.net), Ingénieur de recherche et Chef de projet chez Mnémotix.com
@@ -935,6 +937,7 @@ Ingénieur système ADSN
 * [Jean-Baptiste Guillard](https://artefacts.coop/), Dev Front, Coopérative Artefacts
 * Jean-Baptiste Kerbœuf, développeur à La Combe du lion vert
 * Jean-Baptiste Minvielle, UX designer indépendant 
+* [Jean-Baptiste Moreau], CTO
 * [Jean-Baptiste Quenot](https://www.linkedin.com/in/jbquenot/), Développeur Senior/CTO/Coach DevOps en Freelance
 * [Jean-Baptiste Vilain](https://github.com/jeanbaptistevilain), artisan logiciel chez Hôtentic
 * [Jean-Christophe Elineau](https://twitter.com/jcelineau), Expert logiciels libres
@@ -1462,6 +1465,7 @@ Ingénieur système ADSN
 * Nicolas JENOUVRIER, Développeur
 * [Nicolas Karolak](https://blog.karolak.fr), Ingénieur Systèmes Linux
 * [Nicolas Lair](https://twitter.com/nlair_dev), Développeur
+* Nicolas Leborgne, Ingénieur informatique
 * Nicolas Leccia, Intégrateur système et solutions
 * Nicolas Liveris, Développeur Web.
 * Nicolas Lourdeaux, Entrepreneur
@@ -1643,6 +1647,7 @@ Ingénieur système ADSN
 * Raphael Bizos, Développeur
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps 
 * Raphaël Glavieux, Développeur, Smile
+* [Raphael Isla](http://www.famille-isla.net/raphael/), Technicien support, Ecrivain
 * [Raphaël Mor](https://twitter.com/raphaelmor), développeur
 * Raphaël PINEAU, Développeur Spring, MAX Digital Services
 * Raphaël Ricklin, Ingénieur en modélisation ferroviaire
@@ -1978,6 +1983,7 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * V.Jammet, Concepteur
 * Valentin Aubin, technicien support
 * Valentin Auzanneau, chargé des relations usager à [Cliss XXI](https://cliss21.com)
+* Valentin Bilot, ingénieur traitement du signal, machine learning, développeur web
 * [Valentin Cazin](https://www.valcazin.com), designer
 * [Valentin Claras](https://github.com/valentin-claras), Lead Dev
 * [Valentin Crochemore](https://twitter.com/VCrochemore), Développeur Front End, Troupers
@@ -2053,6 +2059,7 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Xavier Detant](https://twitter.com/XDetant)
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
 * [Xavier Mouton-Dubosc](https://dascritch.net), Développeur, animateur de [CPU](http://cpu.pm)
+* [Xavier Nguyen](https://github.com/subtonix), Développeur Web
 * [Xavier Nguyen](https://github.com/subtonix), Développeur web.
 * Xavier Paulaud-Bayard, couteau suisse AMOE/AMOA
 * [Xavier Seignard](https://drangies.fr/), développeur web
