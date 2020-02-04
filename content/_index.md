@@ -633,7 +633,7 @@ En conséquence, nous appelons :
 * [Erwan Corre](https://twitter.com/CorreErwan), webmastering
 * [Erwan Dorso](http://www.erwan-dorso.net/) développeur freelance
 * Erwan Osouf
-* [Erwan Richard](https://twitter.com/dhalsimfr), CTO [Le Phare](https://www.lephare.com)
+* [Erwan Richard](https://twitter.com/dhalsimfr), développeur web
 * Erwan Vincent, développeur web chez Recommerce
 * Estelle Lepeigneux, développeuse web
 * [Étienne André](https://lipn.univ-paris13.fr/~andre/), professeur des universités, Université de Lorraine
