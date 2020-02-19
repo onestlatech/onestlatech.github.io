@@ -148,7 +148,6 @@ En conséquence, nous appelons :
 * [Alexandre Jaunasse](https://twitter.com/AlexJnse), Lead dev - Groupe Royer
 * [Alexandre Jauneau](https://www.etik.tech), Administrateur système GNU/Linux, Développeur, Société Etik Tech
 * [Alexandre JORON](https://xxifly.github.io/), développeur web.
-* [Alexandre Kempf], Data scientist
 * Alexandre Kempf, Data scientist
 * Alexandre Lababsa, Étudiant en informatique, ESGI
 * Alexandre Lhomme, technicien support IT chez OVH.
@@ -626,7 +625,7 @@ En conséquence, nous appelons :
 * [Eric Debra](https://twitter.com/_Harest), développeur aspirant consultant en game design
 * Eric DEFOUR Sysadmin
 * Éric Dorino, ingénieur informatique
-* [Eric Hemmy]
+* Eric Hemmy
 * Éric Jacoboni, enseignant en Informatique, Université Toulouse - Jean Jaurès.
 * Eric Launay, sysadmin Linux
 * [Éric Le Bihan](https://twitter.com/ericlebihan?lang=fr), UX Designer, Paris
@@ -954,7 +953,7 @@ Ingénieur système ADSN
 * [Jean-Baptiste Maillet](https://github.com/jbmaillet), Développeur
 * Jean-Baptiste Minvielle, UX designer indépendant 
 * [Jean-Baptiste Mora](https://moramora.fr), développeur
-* [Jean-Baptiste Moreau], CTO
+* Jean-Baptiste Moreau, CTO
 * Jean-Baptiste Minvielle, UX designer indépendant
 * Jean-Baptiste Moreau, CTO
 * [Jean-Baptiste Quenot](https://www.linkedin.com/in/jbquenot/), Développeur Senior/CTO/Coach DevOps en Freelance
@@ -1495,7 +1494,7 @@ Ingénieur système ADSN
 * Nicolas Leborgne, Ingénieur informatique
 * Nicolas Leccia, Intégrateur système et solutions
 * Nicolas Liveris, Développeur Web.
-* [Nicolas Lolmède], développeur Unity3D/Php/Sql/Ajax
+* Nicolas Lolmède, développeur Unity3D/Php/Sql/Ajax
 * Nicolas Lourdeaux, Entrepreneur
 * [Nicolas Malin](https://nereide.frl), coopérateur
 * Nicolas Mérigot, développeur, membre du collectif [Happy dev](https://www.happy-dev.fr)
@@ -1679,11 +1678,11 @@ Ingénieur système ADSN
 * [Quentin Seillier](https://www.behance.net/qseillier), Digital Designer
 * [Quinchy Riya](https://twitter.com/Dan_Dunne), Entrepreneur, UX Strategist & Formateur professionnel.
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
-* [Raffaele Tavarone], chercheur en apprentissage automatique. 
+* Raffaele Tavarone, chercheur en apprentissage automatique.
 * Raoul Bouteille
 * Raphael Bizos, Développeur
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps 
-* [Raphaël Fery], Développeur web
+* Raphaël Fery, Développeur web
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps
 * Raphaël Glavieux, Développeur, Smile
 * [Raphael Isla](http://www.famille-isla.net/raphael/), Technicien support, Ecrivain
