@@ -6,7 +6,7 @@ draft: false
 ## Lettre ouverte d'enseignant·e·s en informatique à L'Université de Lille : l'université doit retirer sa plainte visant des étudiant·e·s et enseignant·e·s en lutte contre la précarité, la réforme des retraites et la LPPR !
 
 Vendredi 8 novembre, Anas, 22 ans, s'immole devant le CROUS de Lyon pour dénoncer la précarité dans laquelle il vit. Dans le message expliquant son geste, il écrit : « J'accuse Macron, Hollande, Sarkozy, et l'UE de m'avoir tué ».
-Le mardi suivant une conférence de François Hollande est prévue à l'Université de Lille. Une centaine d'étudiant·e·s et de personnels solidaires se mobilisent et la venue de celui qu'Anas nommait comme responsable de son geste est annulée. Cette action s'inscrit également dans un contexte local très difficile, où - par exemple - des étudiants doivent vivre dans des résidences CROUS insalubres et envahies par les cafards [1].
+Le mardi suivant une conférence de François Hollande est prévue à l'Université de Lille. Une centaine d'étudiant·e·s et de personnels solidaires se mobilisent et la venue de celui qu'Anas nommait comme responsable de son geste est annulée. Cette action s'inscrit également dans un contexte local très difficile, où - par exemple - des étudiant·e·s doivent vivre dans des résidences CROUS insalubres et envahies par les cafards [1].
 
 Nous apprenons aujourd'hui qu'une dizaine d'étudiant·e·s ainsi que des collègues enseignant·e·s ayant participé à cette action et mobilisés dans la lutte en cours contre la réforme des retraites sont convoqués par la police.
 Ces convocations font suite à des plaintes déposées par l'Université, par un agent de l'Université, et par la préfecture.
@@ -24,7 +24,7 @@ Nous, travailleurs du numérique de l'Université de Lille (enseignants, cherche
 * HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
 * SECQ Yann, enseignant vacataire en informatique, Université de Lille
 
-[1] Pour comprendre ce que signifie être étudiant précaire à l'université de Lille, lire ces article de Mediapart et de la Voix du Nord :
+[1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces article de Mediapart et de la Voix du Nord :
 
 > « Il y a des cafards partout, cela m'est déjà arrivé qu'ils tombent sur moi pendant que je dors, j'en retrouve même dans mes provisions »
 
