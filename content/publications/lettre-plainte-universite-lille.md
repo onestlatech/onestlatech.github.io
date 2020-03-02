@@ -48,4 +48,4 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 
 > « À cela s'ajoutent des douches collectives fermées ou à la porte cassée, des sanitaires bouchés, des plaques de cuisines qui ne fonctionnent pas toujours et une globale vétusté des lieux. »
 
-[Villeneuve-d'Ascq Un an après, qu'est devenue la pire résidence universitaire du Nord - Pas-de-Calais ? (La Voix du Nord)](https://www.lavoixdunord.fr/530523/article/2019-01-31/un-apres-qu-est-devenue-la-pire-residence-universitaire-du-nord-pas-de-calais) et [Fuites d'eau et cafards : plongée dans un « ghetto » du Crous (Mediapart)](https://www.mediapart.fr/journal/france/030220/fuites-d-eau-et-cafards-plongee-dans-un-ghetto-du-crous)
+[Villeneuve-d'Ascq Un an après, qu'est devenue la pire résidence universitaire du Nord-Pas-de-Calais ? (La Voix du Nord)](https://www.lavoixdunord.fr/530523/article/2019-01-31/un-apres-qu-est-devenue-la-pire-residence-universitaire-du-nord-pas-de-calais) et [Fuites d'eau et cafards : plongée dans un « ghetto » du Crous (Mediapart)](https://www.mediapart.fr/journal/france/030220/fuites-d-eau-et-cafards-plongee-dans-un-ghetto-du-crous)
