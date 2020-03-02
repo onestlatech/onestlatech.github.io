@@ -19,7 +19,7 @@ Il s'agit pour la police et le gouvernement (l'un des plaignant étant la préfe
 
 Il est inadmissible que - plutôt que de répondre à leurs revendications légitimes - la présidence ait décidé de déposer plainte, au nom de l'Université, contre des étudiant·es et collègues ayant participé à une action collective dans le cadre d'une lutte sociale. Il est inadmissible que - via cette plainte - l'équipe présidentielle soutienne l'intimidation et la répression du mouvement social contre la réforme des retraites et la LPPR, alors même que certain·es membres de l'équipe prétendent être engagés contre ces lois et participent aux manifestations.
 
-Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATOSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes (par ordre alphabétique):
+Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes (par ordre alphabétique):
 
 * BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
