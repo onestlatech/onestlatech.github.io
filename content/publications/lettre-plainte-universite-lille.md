@@ -25,8 +25,10 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 * DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
 * HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
-* LHOUSSAINE Cédric, enseignant-chercheur en informatique, Université de Lille, CRISTaL
-* SECQ Yann, enseignant-chercheur en informatique, Université de Lille
+* LHOUSSAINE Cédric, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+* LOSSON Olivier, enseignant-chercheur en informatique, Département EEA, Laboratoire CRIStAL
+* SECQ Yann, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+* SUQUET Charles, professeur émérite de mathématiques, retraité
 
 [1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
 
