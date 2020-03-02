@@ -5,7 +5,7 @@ draft: false
 ---
 ## Lettre ouverte d'enseignant·e·s en informatique à L'Université de Lille : l'université doit retirer sa plainte visant des étudiant·e·s et enseignant·e·s en lutte contre la précarité, la réforme des retraites et la LPPR !
 
-Vendredi 8 novembre, Anas, 22 ans, s'immole devant le CROUS de Lyon pour dénoncer la précarité dans laquelle il vit. Dans le message expliquant son geste, il écrit :
+Vendredi 8 novembre 2019, Anas, 22 ans, s'immole devant le CROUS de Lyon pour dénoncer la précarité dans laquelle il vit. Dans le message expliquant son geste, il écrit :
 
 > « J'accuse Macron, Hollande, Sarkozy, et l'UE de m'avoir tué ».
 
