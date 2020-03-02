@@ -22,6 +22,7 @@ Il est inadmissible que - plutôt que de répondre à leurs revendications légi
 Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes (par ordre alphabétique):
 
 * BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+* BOGUCKI Thomas, Technicien informatique, Université de Lille, Direction des systèmes d'information
 * DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
 * HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
@@ -35,6 +36,7 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 * REDON Xavier, enseignant-chercheur en informatique, MCF Polytech'Lille, Université de Lille
 * SECQ Yann, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * SIBILLE Jérémie, administrateur système, Université de Lille, Direction des systèmes d'information
+* SILVESTRI Renaud, retraité de l'Université de Lille
 * SUQUET Charles, enseignant-chercheur (retraité) mathématiques Université de Lille, retraité
 * WEGRZYNOWSKI Eric, enseignant-chercheur en informatique et de mathématiques, Université de Lille
 
