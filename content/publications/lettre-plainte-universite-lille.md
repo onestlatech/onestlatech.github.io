@@ -21,10 +21,11 @@ Il est inadmissible que - plutôt que de répondre à leurs revendications légi
 
 Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATOSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes (par ordre alphabétique):
 
-* BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A" département informatique
+* BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
 * HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
+* LHOUSSAINE Cédric, enseignant-chercheur en informatique, Université de Lille, CRISTaL
 * SECQ Yann, enseignant vacataire en informatique, Université de Lille
 
 [1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
