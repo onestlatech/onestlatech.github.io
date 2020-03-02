@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 2100 signataires
+### 2110 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -232,6 +232,7 @@ En conséquence, nous appelons :
 * Antoine Guerrée, Administrateur systèmes Linux chez OVH
 * [Antoine Julien](https://lafabriqueavisuels.fr), designer
 * [Antoine Kuhn](https://linkedin.com/in/antoine-kuhn), Développeur Fullstack, SpaceAble
+* Antoine Limasset, chercheur en informatique au CNRS travaillant à l'université de Lille.
 * Antoine MARC, Administrateur Systèmes et Réseaux
 * Antoine Pérus, ingénieur de recherche au CNRS
 * [Antoine Plu](https://twitter.com/AntoinePlu), Designer
@@ -567,6 +568,7 @@ En conséquence, nous appelons :
 * Déborah Mautemps, admin système
 * [Delannoy Nicolas](https://github.com/Nick59), Freelance, Développeur
 * [Délita MAKANDA](https://github.com/delitamakanda), Développeuse full-stack
+* [Delphin Hauchard](https://delphin.design), designer de produits numériques
 * Delphine Chevalier
 * Delphine Gauthier, Développeuse Web
 * Delphine Nicolle
@@ -967,11 +969,9 @@ Ingénieur système ADSN
 * Jean-Baptiste Kerbœuf, développeur à La Combe du lion vert
 * [Jean-Baptiste Maillet](https://github.com/jbmaillet), Développeur
 * [Jean-Baptiste Maillet](https://github.com/jbmaillet), Développeur
-* Jean-Baptiste Minvielle, UX designer indépendant 
-* [Jean-Baptiste Mora](https://moramora.fr), développeur
-* Jean-Baptiste Moreau, CTO
 * Jean-Baptiste Minvielle, UX designer indépendant
 * Jean-Baptiste Minvielle, UX designer indépendant 
+* [Jean-Baptiste Mora](https://moramora.fr), développeur
 * [Jean-Baptiste Mora](https://moramora.fr), développeur
 * Jean-Baptiste Moreau, CTO
 * [Jean-Baptiste Moreau], CTO
@@ -1509,6 +1509,7 @@ Ingénieur système ADSN
 * [Nicolas Froidure](https://insertafter.com) Développeur
 * Nicolas Gaultier
 * [Nicolas Gillium](https://nicolas-gillium.fr/), Développeur web freelance
+* [Nicolas GOLLET](https://blog.ng.pe), Administrateurs base données
 * Nicolas Gomes, Développeur Web
 * Nicolas Gourlé, développeur
 * [Nicolas Goutay](https://twitter.com/phacks), Architecte Développeur, Theodo
@@ -1524,8 +1525,8 @@ Ingénieur système ADSN
 * Nicolas Leborgne, Ingénieur informatique
 * Nicolas Leccia, Intégrateur système et solutions
 * Nicolas Liveris, Développeur Web.
-* [Nicolas Lolmède], développeur Unity3D/Php/Sql/Ajax
 * Nicolas Lolmède, développeur Unity3D/Php/Sql/Ajax
+* [Nicolas Lolmède], développeur Unity3D/Php/Sql/Ajax
 * Nicolas Lourdeaux, Entrepreneur
 * [Nicolas Malin](https://nereide.frl), coopérateur
 * Nicolas Mérigot, développeur, membre du collectif [Happy dev](https://www.happy-dev.fr)
@@ -1712,16 +1713,13 @@ Ingénieur système ADSN
 * [Quentin Seillier](https://www.behance.net/qseillier), Digital Designer
 * [Quinchy Riya](https://twitter.com/Dan_Dunne), Entrepreneur, UX Strategist & Formateur professionnel.
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
+* Raffaele Tavarone, chercheur en apprentissage automatique.
 * [Raffaele Tavarone], chercheur en apprentissage automatique. 
 * Raoul Bouteille
 * Raphael Bizos, Développeur
-* Raffaele Tavarone, chercheur en apprentissage automatique.
-* Raoul Bouteille
-* Raphael Bizos, Développeur
-* [Raphaël DUCOM](https://twitter.com/rducom), DevOps 
-* Raphaël Fery, Développeur web
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps 
+* Raphaël Fery, Développeur web
 * [Raphaël Fery], Développeur web
 * Raphaël Glavieux, Développeur, Smile
 * [Raphael Isla](http://www.famille-isla.net/raphael/), Technicien support, Ecrivain
@@ -2179,6 +2177,7 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Yoan Castellani](https://www.facebook.com/yoan.castellani), Chef de projet, Solutions Citoyennes
 * [Yoan Malié](https://twitter.com/yoanmalie), intégrateur web
 * [Yoann Aubry](https://twitter.com/netimpulse), développeur fullstack, salarié, [CAE Vecteur Activités](https://vecteuractivites.com)
+* [Yoann Dufresne](https://www.linkedin.com/in/yoann-dufresne-02ba14b7/), ingénieur de recherche en informatique, Institut Pasteur
 * Yoann Duriaux, Co-fondateur des [Tiers Lieux Libres et Open Source](movilab.org)
 * [Yoann Gueny](http://yoann-gueny.fr/), développeur freelance
 * Yoann JAUFFROY, Développeur frontend
