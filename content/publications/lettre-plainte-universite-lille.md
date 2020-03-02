@@ -7,12 +7,12 @@ draft: false
 
 Vendredi 8 novembre 2019, Anas, 22 ans, s'immole devant le CROUS de Lyon pour dénoncer la précarité dans laquelle il vit. Dans le message expliquant son geste, il écrit :
 
-> « J'accuse Macron, Hollande, Sarkozy, et l'UE de m'avoir tué ».
+> « J'accuse Macron, Hollande, Sarkozy, et l'UE de m'avoir tué. »
 
-Le mardi suivant une conférence de François Hollande est prévue à l'Université de Lille. Une centaine d'étudiant·e·s et de personnels solidaires se mobilisent et la venue de celui qu'Anas nommait comme responsable de son geste est annulée. Cette action s'inscrit également dans un contexte local très difficile, où - par exemple - des étudiant·e·s doivent vivre dans des résidences CROUS insalubres et envahies par les cafards [1].
+Le mardi suivant une conférence de François Hollande est prévue à l'Université de Lille. Une centaine d'étudiant·es et de personnels solidaires se mobilisent et la venue de celui qu'Anas nommait comme responsable de son geste est annulée. Cette action s'inscrit également dans un contexte local très difficile, où - par exemple - des étudiant·es doivent vivre dans des résidences CROUS insalubres et envahies par les cafards [1].
 
-Nous apprenons aujourd'hui qu'une dizaine d'étudiant·es ainsi que des collègues enseignant·es ayant participé à cette action et mobilisés dans la lutte en cours contre la réforme des retraites sont convoqués par la police.
-Ces convocations font suite à des plaintes déposées par l'Université, par un agent de l'Université, et par la préfecture.
+ Nous apprenons aujourd'hui qu'une dizaine d'étudiant·es ainsi que des collègues enseignant·es ayant participé à cette action et mobilisés dans la lutte en cours contre la réforme des retraites sont convoqués par la police.
+ Ces convocations font suite à des plaintes déposées par l'Université, par un agent de l'Université, et par la préfecture.
 
 Les premières convocations ont eu lieu le matin du 6 février, jour de manifestation nationale et interprofessionnelle contre la réforme des retraites.
 Il s'agit pour la police et le gouvernement (l'un des plaignant étant la préfecture) d'utiliser ces plaintes afin d'intimider des étudiant·es et enseignant·es qu'ils ont identifiés comme « leaders » syndicaux et politiques. Il s'agit de les faire taire et de les dissuader de participer aux mobilisations en cours contre la précarité, la réforme des retraites et [la LPPR](https://www.mediapart.fr/journal/france/230120/mobilisation-dans-les-labos-les-raisons-de-la-colere). Il s'agit, via la répression policière et judiciaire, d'affaiblir le mouvement social dans son ensemble.
