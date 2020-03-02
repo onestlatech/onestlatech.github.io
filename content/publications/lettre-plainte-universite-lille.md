@@ -1,9 +1,9 @@
 ---
-title: Lettre ouverte à L'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
+title: Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
 date: 2020-03-01T09:00:00+01:00  
 draft: false
 ---
-## Lettre ouverte à L'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
+## Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
 
 Vendredi 8 novembre 2019, Anas, 22 ans, s'immole devant le CROUS de Lyon pour dénoncer la précarité dans laquelle il vit. Dans le message expliquant son geste, il écrit :
 
