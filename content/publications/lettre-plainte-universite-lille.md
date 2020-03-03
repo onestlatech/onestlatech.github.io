@@ -44,6 +44,7 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 
 Cette lettre est également signée par :
 
+- DUBUISSON Aurélien, enseignant chercheur en histoire, Université de Lille
 - ELOIRE Fabien, enseignant-chercheur en sociologie, Université de Lille
 - HELALI Asma, maître de conférences, Université de Lille
 - LESOUEF Anne, chargée d'information et d'orientation, Université de Lille
