@@ -1,6 +1,6 @@
 ---
-title: Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
-date: 2020-03-01T09:00:00+01:00  
+title: "Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !"
+date: 2020-03-02T09:30:00+01:00  
 draft: false
 ---
 ## Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
