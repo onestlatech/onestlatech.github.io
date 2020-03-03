@@ -1,8 +1,9 @@
 ---
 title: "Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !"
-date: 2020-03-02T09:30:00+01:00  
+date: 2020-03-02T09:30:00+01:00
 draft: false
 ---
+
 ## Lettre ouverte à la présidence de l'Université de Lille : la plainte visant des étudiant·es et enseignant·es en lutte contre la précarité, la réforme des retraites et la LPPR doit être retirée !
 
 Vendredi 8 novembre 2019, Anas, 22 ans, s'immole devant le CROUS de Lyon pour dénoncer la précarité dans laquelle il vit. Dans le message expliquant son geste, il écrit :
@@ -21,30 +22,37 @@ Il est inadmissible que - plutôt que de répondre à leurs revendications légi
 
 Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes (par ordre alphabétique):
 
-* BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
-* BOGUCKI Thomas, Technicien informatique, Université de Lille, Direction des systèmes d'information
-* DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
-* HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
-* HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
-* LHOUSSAINE Cédric, enseignant-chercheur en informatique, Université de Lille, IUT "A"
-* LIMASSET Antoine, chargé de recherche CNRS, Université de Lille, laboratoire Cristal, équipe Bonsaï
-* LOSSON Olivier, enseignant-chercheur en informatique, Université de Lille, Département EEA, Laboratoire CRIStAL
-* MARCHET Camille, enseignant vacataire en informatique en informatique, Université de Lille, FIL
-* MARQUET Philippe, enseignant-chercheur en informatique, Université de Lille
-* NAIT ABDELAZIZ Moussa, directeur du département mécanique de Polytech’Lille, Université de Lille
-* PREUX Alain, enseignant-chercheur en informatique, université de Lille, IUT "B"
-* REDON Xavier, enseignant-chercheur en informatique, MCF Polytech'Lille, Université de Lille
-* SECQ Yann, enseignant-chercheur en informatique, Université de Lille, IUT "A"
-* SIBILLE Jérémie, administrateur système, Université de Lille, Direction des systèmes d'information
-* SILVESTRI Renaud, retraité de l'Université de Lille
-* SUQUET Charles, enseignant-chercheur (retraité) mathématiques Université de Lille, retraité
-* WEGRZYNOWSKI Eric, enseignant-chercheur en informatique et de mathématiques, Université de Lille
+- BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+- BLONDELLE Nathalie, développeur/webmestre, Direction des systèmes d'information, Université de Lille
+- BOGUCKI Thomas, Technicien informatique, Université de Lille, Direction des systèmes d'information
+- DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
+- HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+- HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
+- LHOUSSAINE Cédric, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+- LIMASSET Antoine, chargé de recherche CNRS, Université de Lille, laboratoire Cristal, équipe Bonsaï
+- LOSSON Olivier, enseignant-chercheur en informatique, Université de Lille, Département EEA, Laboratoire CRIStAL
+- MARCHET Camille, enseignant vacataire en informatique en informatique, Université de Lille, FIL
+- MARQUET Philippe, enseignant-chercheur en informatique, Université de Lille
+- NAIT ABDELAZIZ Moussa, directeur du département mécanique de Polytech’Lille, Université de Lille
+- PREUX Alain, enseignant-chercheur en informatique, université de Lille, IUT "B"
+- REDON Xavier, enseignant-chercheur en informatique, MCF Polytech'Lille, Université de Lille
+- SECQ Yann, enseignant-chercheur en informatique, Université de Lille, IUT "A"
+- SIBILLE Jérémie, administrateur système, Université de Lille, Direction des systèmes d'information
+- SILVESTRI Renaud, retraité de l'Université de Lille
+- SUQUET Charles, enseignant-chercheur (retraité) mathématiques Université de Lille, retraité
+- WEGRZYNOWSKI Eric, enseignant-chercheur en informatique et de mathématiques, Université de Lille
+
+Cette lettre est également signée par :
+
+- ELOIRE Fabien, enseignant-chercheur en sociologie, Université de Lille
+- HELALI Asma, maître de conférences, Université de Lille
+- LESOUEF Anne, chargée d'information et d'orientation, Université de Lille
 
 [1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
 
 > « Il y a des cafards partout, cela m'est déjà arrivé qu'ils tombent sur moi pendant que je dors, j'en retrouve même dans mes provisions »
 
-> « Hier, il y en avait tellement dans le couloir qu'on n'osait plus y aller. » 
+> « Hier, il y en avait tellement dans le couloir qu'on n'osait plus y aller. »
 
 > « À cela s'ajoutent des douches collectives fermées ou à la porte cassée, des sanitaires bouchés, des plaques de cuisines qui ne fonctionnent pas toujours et une globale vétusté des lieux. »
 
