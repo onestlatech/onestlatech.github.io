@@ -48,7 +48,7 @@ Cette lettre est également signée par :
 - ELOIRE Fabien, enseignant-chercheur en sociologie, Université de Lille
 - FLECHER Claire, ATER en sociologie, Université de Lille
 - HELALI Asma, maître de conférences, Université de Lille
-- LESOUEF Anne, chargée d'information et d'orientation, Université de Lille
+- LESOUEF Anne, BIATSS, Université de Lille
 
 [1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
 
