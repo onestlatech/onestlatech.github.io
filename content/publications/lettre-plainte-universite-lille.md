@@ -45,10 +45,12 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 Cette lettre est également signée par :
 
 - DUBUISSON Aurélien, enseignant-chercheur en histoire, Université de Lille
+- DESAGE Fabien, enseignant-chercheur en science politique, Université de Lille
 - ELOIRE Fabien, enseignant-chercheur en sociologie, Université de Lille
 - FLECHER Claire, ATER en sociologie, Université de Lille
 - HELALI Asma, maître de conférences, Université de Lille
 - LESOUEF Anne, BIATSS, Université de Lille
+- STIJEPIC Hana, BIATSS, Université de Lille
 
 [1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
 
