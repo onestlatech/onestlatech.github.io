@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
 
-### 2110 signataires
+### 2113 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -868,6 +868,7 @@ Ingénieur système ADSN
 * Guillaume Cauchois, Développeur Full-Stack
 * Guillaume Chabrier, Ingénieur Logiciel
 * [Guillaume Démésy](https://twitter.com/magsout), Co-fondateur, développeur [Splitfire](https://www.splitfire.fr/)
+* [Guillaume Eynard-Bontemps](https://github.com/guillaumeeb), Développeur traitements distribués au CNES
 * [Guillaume Garcia](https://github.com/GuGarcia), Développeur Back-end
 * [Guillaume Gay](http://morphogenie.fr), développeur, ingénieur de recherche
 * Guillaume Gensou, Développeur Web
@@ -1054,6 +1055,7 @@ Ingénieur système ADSN
 * Joel Oosterlinck
 * Joel PASTOL, SysAdmin DevOps, [NBS-System.com](https://www.nbs-system.com/)
 * Joëlle Randrianaly, Assistante Marketing
+* Johan AUSSENAC / Architecte Infrastructure
 * [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
 * [Johan Dufour](https://twitter.com/lutangar), aimable président [@Amabla](https://www.amabla.org/) et gérant de [L'Arrière Guichet](https://larriereguichet.fr/)
 * Johan Girod, Freelance, Développeur web, Prestataire de l'Etat
@@ -1979,6 +1981,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Théotime Grohens, doctorant en informatique, INSA Lyon
 * [Thibaud DAVID](https://twitter.com/thibauddavid) iOS | Android | Software Engineer
 * [Thibaud Lamarche](https://twitter.com/Lamarchethibaud) Référent technique
+* Thibault Baudoin, Administration du système d'information, Université de Lille
 * [Thibault Duplessis](https://github.com/ornicar), code monkey
 * [Thibault Lacroux](https://twitter.com/Rykian), Développeur freelance
 * Thibault OLLIVIER, développeur web
