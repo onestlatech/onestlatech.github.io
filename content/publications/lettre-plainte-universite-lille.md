@@ -52,6 +52,8 @@ Cette lettre est également signée par :
 - LESOUEF Anne, BIATSS, Université de Lille
 - STIJEPIC Hana, BIATSS, Université de Lille
 
+Si vous travaillez à l'Université de Lille et souhaitez signer cette lettre, envoyez-nous un mail à onestlatech@protonmail.com.
+
 [1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
 
 > « Il y a des cafards partout, cela m'est déjà arrivé qu'ils tombent sur moi pendant que je dors, j'en retrouve même dans mes provisions »
