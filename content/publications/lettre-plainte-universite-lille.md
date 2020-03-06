@@ -34,6 +34,7 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 - MARCHET Camille, enseignant vacataire en informatique en informatique, Université de Lille, FIL
 - MARQUET Philippe, enseignant-chercheur en informatique, Université de Lille
 - NAIT ABDELAZIZ Moussa, directeur du département mécanique de Polytech’Lille, Université de Lille
+- PERICHON Renaud, Ingénieur, Université de Lille, Faculté de Médecine
 - PREUX Alain, enseignant-chercheur en informatique, université de Lille, IUT "B"
 - REDON Xavier, enseignant-chercheur en informatique, MCF Polytech'Lille, Université de Lille
 - SECQ Yann, enseignant-chercheur en informatique, Université de Lille, IUT "A"
