@@ -24,7 +24,8 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 
 - BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 - BLONDELLE Nathalie, développeur/webmestre, Direction des systèmes d'information, Université de Lille
-- BOGUCKI Thomas, Technicien informatique, Université de Lille, Direction des systèmes d'information
+- BOGUCKI Thomas, technicien informatique, Université de Lille, Direction des systèmes d'information
+- DJAMENT Aurélien, chargé de recherche du CNRS au laboratoire Paul Painlevé, Université de Lille
 - DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
 - HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 - HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
@@ -46,12 +47,31 @@ Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es e
 
 Cette lettre est également signée par :
 
+- BORY Anne, maître de conférences, Clersé, Université de Lille
+- CHARBONNIER Sébastien, enseignant-chercheur en philosophie de l'éducation, Université de Lille
+- DEMOLIN Marie-Paule, BIATSS, Université de Lille
 - DUBUISSON Aurélien, enseignant-chercheur en histoire, Université de Lille
 - DESAGE Fabien, enseignant-chercheur en science politique, Université de Lille
 - ELOIRE Fabien, enseignant-chercheur en sociologie, Université de Lille
+- FARDOUX Olivier, maître de conférences en droit privé et sciences criminelles, Faculté des Sciences Juridiques Politiques et Sociales, Université de Lille
 - FLECHER Claire, ATER en sociologie, Université de Lille
+- GUICHETEAU Samuel, formateur à l'Inspe de Nantes
+- HAUTE Tristan, enseignant vacataire, méthodes quantitatives en science politique, Université de Lille / FSJPS
+- HAYEM Judith, maître de conférences en anthropologie, FSES, Université de Lille
 - HELALI Asma, maître de conférences, Université de Lille
+- HERLIN-GIRET Camille, CNRS, CERAPS, Université de Lille
+- JLUC Martineau, maître de conférences en histoire, INALCO
+- KRZYWKOWSKI Isabelle, professeure de littérature générale et comparée, Université Grenoble Alpes
+- LEBRUN Nathalie, enseignante-chercheure en physique, Université de Lille
 - LESOUEF Anne, BIATSS, Université de Lille
+- MACCHI Yves, maître de conférences en espagnol, UFR LLCER, Université de Lille
+- MAZEL Claude, maître de conférences en informatique, Université Clermont-Auvergne
+- PALHETA Ugo, maître de conférences en sciences de l'éducation, Université de Lille
+- RANGEL VICENTE Montserrat, maîtresse de conférences en linguisitique espagnole, Université de Lille
+- ROBIN Paul, Doctorant Moniteur en Philosophie, Université de Lille
+- SCHOTTÉ Manuel, PU à la FSES, chercheur au Clersé (UMR 8019)
+- SOUANEF Karim, maître de conférences en sociologie, Université de Lille
+- STETTINGER Vanessa, maîtresse de conférences en sociologie, Université de Lille / CeRIES
 - STIJEPIC Hana, BIATSS, Université de Lille
 
 Si vous travaillez à l'Université de Lille et souhaitez signer cette lettre, envoyez-nous un mail à onestlatech@protonmail.com.
