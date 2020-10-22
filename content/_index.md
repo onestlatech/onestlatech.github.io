@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2135 signataires
+### 2132 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -1452,7 +1452,7 @@ Ingénieur système ADSN
 * [Michel Blanc](https://twitter.com/b9m), sysadmin @ https://devops.works
 * Michel Cadennes (https://mamot.fr/@tchevengour), développeur indépendant, enseignant en informatique.
 * Michel Garanx, Architecte Big Data
-* [Michel Guillou](https:/twitter.com/michelguillou), Observateur
+* [Michel Guillou](https://twitter.com/michelguillou), Observateur
 * [Michel Loiseleur](https://www.doyoubuzz.com/michel-loiseleur), Responsable infra
 * [Michel Perrocheau](https://github.com/myrrkel), Développeur Python
 * Michel Roux, Webmestre, formateur sécurité sur internet
@@ -1607,7 +1607,7 @@ Ingénieur système ADSN
 * Olivier Vandeputte, chargé de communication print et web
 * Olivier Vicente, Administrateur S&R / Webmaster
 * Olympe Roux, Chef de projet digital
-* [Ophélie Coelho](), product manager & UX researcher freelance - étudiante en histoire des sciences et des techniques à l'EHESS
+* Ophélie Coelho, product manager & UX researcher freelance - étudiante en histoire des sciences et des techniques à l'EHESS
 * Ouissame Ghmimat, développeur
 * Oumarou Mballo, Consultant Data
 * [OursBlanc](https://mamot.fr/@oursblanc) bénévole FDN et FFDN
@@ -2037,7 +2037,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Thomas Delacourt], CEO chez Alter SI
 * Thomas Desvenain, Développeur Sénior
 * [Thomas du Boÿs](https://twitter.com/tduboys), DevOps, OVH
-* [Thomas GERARDIN](), Ingénieur cloud & DevOps
+* Thomas GERARDIN, Ingénieur cloud & DevOps
 * [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
 * [Thomas Gratier](https://twitter.com/ThomasG77), Consultant SIG
 * Thomas Guégan, Développeur
