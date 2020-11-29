@@ -1382,7 +1382,6 @@ Ingénieur système ADSN
 * [Mathieu POUSSE](https://twitter.com/m_pousse), lead dev chez [Ouest-France](https://www.ouest-france.fr/)
 * [Mathieu REMY](https://www.linkedin.com/in/mathieuremy/), Expert en Product & Services Management, Low code evangelist
 * Mathieu Rogelja. Responsable Frontend.
-* [Mathieu Santostefano](https://twitter.com/welcomattic), développeur web chez [JoliCode](https://jolicode.com)
 * Mathieu T. - SysAdmin
 * [Mathieu TUDISCO](https://github.com/mathieutu), Lead developer
 * [Mathieu UETTWILLER](https://twitter.com/lagrossepuce), Ingénieur Informatique - Automatisation des tests logiciels
