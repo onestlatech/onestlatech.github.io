@@ -86,7 +86,7 @@ En conséquence, nous appelons :
 ### Signez !
 
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
-* ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
+* ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
 ### 2135 signataires
 
@@ -293,7 +293,7 @@ En conséquence, nous appelons :
 * [Axel Layeb](https://twitter.com/Salbalacrab), Etudiant / Développeur
 * [Axelle Ribault](https://https://dev.to/axelledrouge), développeuse web
 * [Aymeric PITRE](https://twitter.com/AymericPitre), Développeur
-* [Badr BADDOU](https://twitter.com/GraalSeeker),  Software engineer. 
+* [Badr BADDOU](https://twitter.com/GraalSeeker),  Software engineer.
 * Badr ZEROUAL, Agile facilitator / Java Developer
 * Balam Saldana, testeur
 * [Baptiste Adrien](https://twitter.com/shinework), développeur [Premier Octet](https://www.premieroctet.com)
@@ -600,7 +600,7 @@ En conséquence, nous appelons :
 * [Edouard Bozon](https://github.com/Edouardbozon), Développeur
 * [Edouard COMTET](https://ecomtet.com), Tech Lead Developer Web
 * [Edouard Cunibil](https://twitter.com/DuaelFr), [Happyculture](https://happyculture.coop)
-* Édouard Lacan, développeur fullstack / devOps. 
+* Édouard Lacan, développeur fullstack / devOps.
 * Edouard Lafon ingénieur IT freelance , membre de l'[April](https://april.org) et de [la communauté des Blue Hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Édouard Lopez](https://twitter.com/edouard_lopez), Développeur
 * Elie Ladia, Data Scientist, Freelance
@@ -715,7 +715,7 @@ En conséquence, nous appelons :
 * [Florent Berthelot](https://twitter.com/Aeden_), Développeur
 * [Florent Biffi](https://florentbiffi.com/), Développeur Front Freelance
 * [Florent Clerc](https://twitter.com/fe4nn0r), développeur fullstack
-* [Florent Denis](http://florentdenis.net), Développeur Web à Webedia 
+* [Florent Denis](http://florentdenis.net), Développeur Web à Webedia
 * Florent Naranjo, Travailleur du web indépendant, Conseiller métropolitain et municipal à Clermont-Fd
 * Florent NARANJO, travailleur du web indépendant, Conseiller métropolitain et municipal à Clermont-Fd.
 * [Florent Naud](https://exnihil.fr), Développeur et Ingénieur DevOps chez Misakey
@@ -929,7 +929,7 @@ Ingénieur système ADSN
 * [Hugo BINI](https://mastodon.social/@octopoulpe), Développeur
 * [Hugo Bonnaffé](http://unbiengrandmot.com), journaliste / rédacteur IT, ex-OVHcloud
 * Hugo Capocci, Développeur Web & Craft
-* Hugo Capocci, Développeur Web & Craft 
+* Hugo Capocci, Développeur Web & Craft
 * Hugo Delval, développeur dans une SCOP
 * Hugo Faye, Développeur
 * Hugo Fouques, dévéloppeur, Fretlink
@@ -947,7 +947,7 @@ Ingénieur système ADSN
 * Irène Poli
 * Irénée Régnauld, blogueur sur maisouvaleweb.fr
 * Isabelle Blanc, ingénieur informatique
-* Isabelle Boyer, Coordinatrice Collectif des associations citoyennes 
+* Isabelle Boyer, Coordinatrice Collectif des associations citoyennes
 * Isabelle Dupeux, Coordinatrice de test
 * Isabelle Mazain, Développeuse
 * [Iskandar Abdulac](http://adulac.me), data scientist, freelance
@@ -980,7 +980,7 @@ Ingénieur système ADSN
 * Jean-Baptiste Kerbœuf, développeur à La Combe du lion vert
 * [Jean-Baptiste Maillet](https://github.com/jbmaillet), Développeur
 * Jean-Baptiste Minvielle, UX designer indépendant
-* Jean-Baptiste Minvielle, UX designer indépendant 
+* Jean-Baptiste Minvielle, UX designer indépendant
 * [Jean-Baptiste Mora](https://moramora.fr), développeur
 * Jean-Baptiste Moreau, CTO
 * [Jean-Baptiste Moreau], CTO
@@ -1189,7 +1189,7 @@ Ingénieur système ADSN
 * [Kim Laï Trinh](https://kimlaitrinh.me), Développeur web
 * [Korbak](https://cyphergoat.net), webmaster, membre d'[Aquilenet](https://www.aquilenet.fr) et de la [FFDN](https://ffdn.org)
 * [Kyâne Pichou](https://www.kyane.fr), sysadmin
-* [Laetitia Modine](https://www.laetitiamodine.com), Développeuse front-end et photographe 
+* [Laetitia Modine](https://www.laetitiamodine.com), Développeuse front-end et photographe
 * [Lara Dufour](https://lamecarlate.net), développeuse web
 * Laura Dumont, Développeuse
 * [Laurence Dorman](https://laurencedorman.com), Développeur web front end chez [pixelcabin](https://pixelcabin.io/)
@@ -1206,7 +1206,7 @@ Ingénieur système ADSN
 * Laurent Klajnbaum, webmaster
 * Laurent Malgras, Développeur full stack
 * [Laurent Mesguen](https://www.linkedin.com/in/laurent-mesguen-b7a194a3/), Ingénieur logiciel
-* Laurent Perrin, Architecte Cloud, Orange 
+* Laurent Perrin, Architecte Cloud, Orange
 * Laurent Perroy, développeur
 * [Laurent Pitteloud](https://github.com/lpitteloud), développeur
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
@@ -1231,7 +1231,7 @@ Ingénieur système ADSN
 * [Liandri](https://libox.fr), Administrateur Système
 * Lili Rotzooi
 * Lilian Labayle, Développeur
-* Lionel Da Costa, développeur web  
+* Lionel Da Costa, développeur web
 * Lionel Orsini, Dev. Front
 * [Loan ROBERT](https://twitter.com/rbrtloan), développeur web - [Yaal](https://www.yaal.fr/)
 * [Loïc Barouty](https://twitter.com/loicbarouty), développeur web
@@ -1487,7 +1487,7 @@ Ingénieur système ADSN
 * [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
 * Nawo Mbechezi, Développeur
 * [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique
-* [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique 
+* [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique
 * Nelly Mercey, webdesigneuse
 * [Nelson Herbin](https://github.com/Asone), Développeur fullstack
 * nico FDN
@@ -1700,7 +1700,7 @@ Ingénieur système ADSN
 * Pierre Tondereau, Développeur
 * Pierre Trolle, développeur
 * [Pierre van de Velde](https://www.linkedin.com/in/pierre-vdev), développeur
-* [Pierre van de Velde](https://www.linkedin.com/in/pierre-vdev), développeur 
+* [Pierre van de Velde](https://www.linkedin.com/in/pierre-vdev), développeur
 * [Pierre-Alain Dubrulle](https://onestla.tech/?fbclid=IwAR3cXf9pUVYMzj96X4xUWOMyDcvcnghYtTL3qHiWx94AtzjEvg03tMeth08), Développeur
 * Pierre-Antoine Burdet, Développeur
 * [Pierre-Jean CHANCELLIER](https://normandie-libre.fr), développeur web Université Le Havre Normandie
@@ -1729,11 +1729,11 @@ Ingénieur système ADSN
 * [Quinchy Riya](https://twitter.com/Dan_Dunne), Entrepreneur, UX Strategist & Formateur professionnel.
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
 * Raffaele Tavarone, chercheur en apprentissage automatique.
-* [Raffaele Tavarone], chercheur en apprentissage automatique. 
+* [Raffaele Tavarone], chercheur en apprentissage automatique.
 * Raoul Bouteille
 * Raphael Bizos, Développeur
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps
-* [Raphaël DUCOM](https://twitter.com/rducom), DevOps 
+* [Raphaël DUCOM](https://twitter.com/rducom), DevOps
 * Raphaël Fery, Développeur web
 * [Raphaël Fery], Développeur web
 * Raphaël Glavieux, Développeur, Smile
@@ -1857,7 +1857,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Sarah Kugel, UX designer
 * Sarah Ramos, Développeuse Web, stagiaire ICRC
 * [Sayah El Yatim](https://www.linkedin.com/in/elyatimsayah/), CTO
-* Scan le Gentil, administration système et réseau 
+* Scan le Gentil, administration système et réseau
 * [Sébastien “Elzen” Dufromentel](http://fadrienn.irlnc.org/), médiateur scientifique et enseignant en informatique, membre de la Fédération FDN et de quelques autres assos autour du numérique libre
 * Sébastien Allemand, Dev & ops soprasteria
 * Sebastien Badia, Ingénieur systèmes et réseaux, Bénévole chez [Gitoyen](https://gitoyen.net/), [Globenet](https://globenet.org/) et [LDN](https://ldn-fai.net/)
@@ -1963,7 +1963,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Sven Rodriguez, Data Scientist
 * Swann LE VIGOUROUX, développeur web
 * [Sylvain Boulmé](http://www-verimag.imag.fr/~boulme/), Enseignant-Chercheur en informatique (Grenoble-INP Ensimag, Verimag).
-* [Sylvain Boulmé](http://www-verimag.imag.fr/~boulme/), Enseignant-Chercheur en informatique (Grenoble-INP Ensimag, Verimag). 
+* [Sylvain Boulmé](http://www-verimag.imag.fr/~boulme/), Enseignant-Chercheur en informatique (Grenoble-INP Ensimag, Verimag).
 * Sylvain Cardine, responsable des systèmes d'information, ODÉON-Théâtre de l'Europe
 * [Sylvain Chabert](https://twitter.com/ChabertSylvain), Développeur autonome
 * [Sylvain Conny](https://github.com/sylvainmrs), Développeur web à Tënk
@@ -2069,7 +2069,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Thomas THOREZ
 * [Thomas Toledo](https://dev.to/nugetchar), développeur freelance
 * [Thomas Villain](https://anybodesign.com), graphiste & web designer indépendant.
-* [Thomas Villain](https://anybodesign.com), graphiste & web designer indépendant. 
+* [Thomas Villain](https://anybodesign.com), graphiste & web designer indépendant.
 * Thomas Vuillermet, artisan du web
 * Thomas Wersinger - aka Tomplays - Frontend dev.
 * [Thomas Zilliox](https://tzi.fr), expert CSS indépendant
