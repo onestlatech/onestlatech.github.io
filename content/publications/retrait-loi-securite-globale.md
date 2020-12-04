@@ -7,11 +7,11 @@ draft: false
 
 > « Soyez fiers d’être des amateurs » déclarait Emmanuel Macron aux députés LREM le 11 février 2020. 
 
-Cet amateurisme, assumé par le président et sa majorité, qui faisait leur fieté, ne fonctionne plus. C'est désormais l'exercice d'un pouvoir de plus en plus autoritaire et violent qui leur permet d'imposer leurs idées.
+Cet amateurisme, assumé par le président et sa majorité, qui faisait leur fierté, ne fonctionne plus. C'est désormais l'exercice d'un pouvoir de plus en plus autoritaire et violent qui leur permet d'imposer leurs idées.
 Cet autoritarisme et cette violence sont pourtant niées jusqu'aux plus hauts niveaux : 
-> « Ne parlez pas de répression et de violences policières, ces mots sont inacceptables dans un État de droit » disait encore Emmanuel Macron le 7 mars 2019.
+> « Ne parlez pas de répression et de violences policières, ces mots sont inacceptables dans un État de droit » disait encore Emmanuel Macron le 7 mars 2019
 
-> « Quand j’entends le mot violences policières, je m’étouffe » déclarait Gérald Darmanin, ministre de l'Intérieur, le 29 juillet 2020. 
+> « Quand j’entends le mot violences policières, je m’étouffe » déclarait Gérald Darmanin, ministre de l'Intérieur, le 29 juillet 2020
 
 Pourtant, cette dérive autoritaire et ces violences policières on les a tous vues, et parfois subies directement.
 L'année dernière nous avons pris position contre la réforme des retraites. Un mouvement social qui a subi une répression violente, rarement vue sous la Ve République. Nous avons dû faire face à un maintien de l'ordre qui cherchait à nous dissuader de revenir à la manifestation suivante.
@@ -19,7 +19,7 @@ L'année précédente c'était celle des gilets jaunes, là encore on découvrai
 Et on pourrait continuer à remonter les mouvements sociaux précédents (Loi Travail, Nuit Debout) pour prendre du recul et se rendre compte de cette escalade de violence.
 
 Et c'est dans ce contexte que surgit cette proposition de loi "Sécurité globale".
-L'article 24 de ce texte, un des plus emblématiques de loi, permettra de condamner à une amende et à de la de prison toute personne diffusant des images de policiers ou de gendarmes dans le but de leur porter atteinte physiquement ou psychiquement.
+L'article 24 de ce texte, un des plus emblématiques de la loi, permettra de condamner à une amende et à de la prison toute personne diffusant des images de policiers ou de gendarmes dans le but de leur porter atteinte physiquement ou psychiquement.
 Le gouvernement défend qu'il n'y a aucune atteinte au droit de filmer la police, [une version pourtant contestée par un collectif d'avocats](https://twitter.com/BlackRobeBrigad/status/1330964792824172545).
 Les premiers visé·e·s par cet article seront les journalistes indépendants dont certains sont déjà clairement la cible de policiers radicalisés.
 On pense notamment à [Taha Bouhafs; régulièrement attaqué par des syndicats policiers et la fachosphère](https://www.revolutionpermanente.fr/Taha-Bouhafs-odieusement-attaque-par-Alliance-94-Reporters-En-Colere-repond-TahaNEstPasSeul), à [Rémy Buisine, qui ne peut quasiment plus couvrir une manifestation sans prendre de coups de la part des forces de l'ordre](https://twitter.com/RemyBuisine/status/1330993051263791104) et à tant d'autres sans qui nous ne pourrions savoir ce qu'il se passe dans les manifestations. 
