@@ -16,7 +16,7 @@ Cet autoritarisme et cette violence sont pourtant niés jusqu'aux plus hauts niv
 Pourtant, cette dérive autoritaire et ces violences policières on les a tous vues, et parfois subies directement.
 L'année dernière nous avons pris position contre la réforme des retraites. Un mouvement social qui a subi une répression violente, rarement vue sous la Ve République. Nous avons dû faire face à un maintien de l'ordre qui cherchait à nous dissuader de revenir à la manifestation suivante.
 L'année précédente c'était celle des gilets jaunes, là encore on découvrait un nouveau degré de violences policières avec le préfet Lallement et ses "Brigades de répression de l'action violente motorisée" (BRAV).
-Et on pourrait continuer à remonter les mouvements sociaux précédents (Loi Travail, Nuit Debout) pour prendre du recul et se rendre compte de l'escalade de violence.
+Et on pourrait continuer à remonter les mouvements sociaux précédents (Loi Travail, Nuit Debout) pour prendre du recul et se rendre compte de cette escalade de violence.
 
 Et c'est dans ce contexte que surgit cette proposition de loi "Sécurité globale".
 L'article 24 de ce texte, un des plus emblématiques de loi, permettra de condamner à une amende et à de la de prison toute personne diffusant des images de policiers ou de gendarmes dans le but de leur porter atteinte physiquement ou psychiquement.
