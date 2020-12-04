@@ -21,7 +21,7 @@ Et on pourrait continuer à remonter les mouvements sociaux précédents (Loi Tr
 Et c'est dans ce contexte que surgit cette proposition de loi "Sécurité globale".
 L'article 24 de ce texte, un des plus emblématiques de loi, permettra de condamner à une amende et à de la de prison toute personne diffusant des images de policiers ou de gendarmes dans le but de leur porter atteinte physiquement ou psychiquement.
 Le gouvernement défend qu'il n'y a aucune atteinte au droit de filmer la police, [une version pourtant contestée par un collectif d'avocats](https://twitter.com/BlackRobeBrigad/status/1330964792824172545).
-Les premiers visés par cet article seront les journalistes indépendants dont certains sont clairement visés par des policiers radicalisés.
+Les premiers visés par cet article seront les journalistes indépendants dont certains sont déjà clairement la cible de policiers radicalisés.
 On pense notamment à [Taha Bouhafs régulièrement attaqué par des syndicats policiers et la fachosphère](https://www.revolutionpermanente.fr/Taha-Bouhafs-odieusement-attaque-par-Alliance-94-Reporters-En-Colere-repond-TahaNEstPasSeul), à [Rémy Buisine qui ne peut quasiment plus couvrir une manifestation sans prendre de coups de la part des forces de l'ordre](https://twitter.com/RemyBuisine/status/1330993051263791104) et également à tant d'autres sans qui nous ne pourrions savoir ce qu'il se passe dans les manifestations. 
 Le Syndicat National des Journalistes (SNJ) a d'ailleurs fait un communiqué dont le titre est sans ambiguïté : [La France piétine la liberté de la presse](http://www.snj.fr/article/la-france-pi%C3%A9tine-la-libert%C3%A9-de-la-presse-758987731)
 
