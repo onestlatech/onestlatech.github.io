@@ -7,8 +7,8 @@ draft: false
 
 > « Soyez fiers d’être des amateurs » déclarait Emmanuel Macron aux députés LREM le 11 février 2020. 
 
-Un amateurisme assumé par le président et sa majorité qui s'appuie surtout sur un pouvoir de plus en plus autoritaire et violent.
-Cet autoritarisme et cette violence sont pourtant niés jusqu'aux plus hauts niveaux : 
+Cet amateurisme, assumé par le président et sa majorité, qui faisait leur fieté, ne fonctionne plus. C'est désormais l'exercice d'un pouvoir de plus en plus autoritaire et violent qui leur permet d'imposer leurs idées.
+Cet autoritarisme et cette violence sont pourtant niées jusqu'aux plus hauts niveaux : 
 > « Ne parlez pas de répression et de violences policières, ces mots sont inacceptables dans un État de droit » disait encore Emmanuel Macron le 7 mars 2019.
 
 > « Quand j’entends le mot violences policières, je m’étouffe » déclarait Gérald Darmanin, ministre de l'Intérieur, le 29 juillet 2020. 
@@ -21,7 +21,7 @@ Et on pourrait continuer à remonter les mouvements sociaux précédents (Loi Tr
 Et c'est dans ce contexte que surgit cette proposition de loi "Sécurité globale".
 L'article 24 de ce texte, un des plus emblématiques de loi, permettra de condamner à une amende et à de la de prison toute personne diffusant des images de policiers ou de gendarmes dans le but de leur porter atteinte physiquement ou psychiquement.
 Le gouvernement défend qu'il n'y a aucune atteinte au droit de filmer la police, [une version pourtant contestée par un collectif d'avocats](https://twitter.com/BlackRobeBrigad/status/1330964792824172545).
-Les premiers visés par cet article seront les journalistes indépendants dont certains sont déjà clairement la cible de policiers radicalisés.
+Les premiers visé·e·s par cet article seront les journalistes indépendants dont certains sont déjà clairement la cible de policiers radicalisés.
 On pense notamment à [Taha Bouhafs; régulièrement attaqué par des syndicats policiers et la fachosphère](https://www.revolutionpermanente.fr/Taha-Bouhafs-odieusement-attaque-par-Alliance-94-Reporters-En-Colere-repond-TahaNEstPasSeul), à [Rémy Buisine, qui ne peut quasiment plus couvrir une manifestation sans prendre de coups de la part des forces de l'ordre](https://twitter.com/RemyBuisine/status/1330993051263791104) et à tant d'autres sans qui nous ne pourrions savoir ce qu'il se passe dans les manifestations. 
 Le Syndicat National des Journalistes (SNJ) a d'ailleurs fait un communiqué dont le titre est sans ambiguïté : [La France piétine la liberté de la presse](http://www.snj.fr/article/la-france-pi%C3%A9tine-la-libert%C3%A9-de-la-presse-758987731)
 
@@ -35,4 +35,4 @@ Dès le lendemain, des milliers de personnes se sont rassemblées pour dénoncer
 La semaine suivante (28 novembre 2020) plus de 100 appels à rassemblements et manifestations ont rassemblé plusieurs centaines de milliers de personnes à travers toute la France. Nous y avons vu une convergence des luttes : associations, syndicats, journalistes, mouvements des quartiers populaires, gilets jaunes et simples individus s'opposant à ces dérives autoritaires. 
 Malgré les peurs légitimes liées au risque sanitaire, et alors que le mouvement social n'a pas encore mobilisé toutes ses forces, les rues et les places sont déjà pleines pour s'opposer à cette proposition de loi. 
 
-Comme nous l'avons fait pour la réforme des retraites, nous sommes déjà mobilisés et continuerons à l'être jusqu'au retrait de cette loi. Nous vous invitons donc à vous joindre à ce mouvement qui est en cours et à participer aux [nouvelles manifestations qui auront lieu ce samedi 5 décembre](https://twitter.com/CerveauxNon/status/1334550552563343360).
+Comme nous l'avons fait pour la réforme des retraites, nous sommes déjà mobilisé·e·s et continuerons à l'être jusqu'au retrait de cette loi. Nous vous invitons donc à vous joindre à ce mouvement qui est en cours et à participer aux [nouvelles manifestations qui auront lieu ce samedi 5 décembre](https://twitter.com/CerveauxNon/status/1334550552563343360).
