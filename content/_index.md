@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2135 signataires
+### 2132 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -661,7 +661,7 @@ En conséquence, nous appelons :
 * Erwan Osouf
 * [Erwan Richard](https://twitter.com/dhalsimfr), développeur web
 * Erwan Vincent, développeur web chez Recommerce
-[Leslie-Alexandre DENIS](https://twitter.com/eagleusb), SRE - Entrepreneur
+* [Leslie-Alexandre DENIS](https://twitter.com/eagleusb), SRE - Entrepreneur
 * Estelle Lepeigneux, développeuse web
 * [Étienne André](https://lipn.univ-paris13.fr/~andre/), professeur des universités, Université de Lorraine
 * [Etienne Bennequin](https://twitter.com/bennequin), Data Scientist
@@ -929,7 +929,6 @@ Ingénieur système ADSN
 * [Hugo BINI](https://mastodon.social/@octopoulpe), Développeur
 * [Hugo Bonnaffé](http://unbiengrandmot.com), journaliste / rédacteur IT, ex-OVHcloud
 * Hugo Capocci, Développeur Web & Craft
-* Hugo Capocci, Développeur Web & Craft
 * Hugo Delval, développeur dans une SCOP
 * Hugo Faye, Développeur
 * Hugo Fouques, dévéloppeur, Fretlink
@@ -979,7 +978,6 @@ Ingénieur système ADSN
 * [Jean-Baptiste Guillard](https://artefacts.coop/), Dev Front, Coopérative Artefacts
 * Jean-Baptiste Kerbœuf, développeur à La Combe du lion vert
 * [Jean-Baptiste Maillet](https://github.com/jbmaillet), Développeur
-* Jean-Baptiste Minvielle, UX designer indépendant
 * Jean-Baptiste Minvielle, UX designer indépendant
 * [Jean-Baptiste Mora](https://moramora.fr), développeur
 * Jean-Baptiste Moreau, CTO
@@ -1452,7 +1450,7 @@ Ingénieur système ADSN
 * [Michel Blanc](https://twitter.com/b9m), sysadmin @ https://devops.works
 * Michel Cadennes (https://mamot.fr/@tchevengour), développeur indépendant, enseignant en informatique.
 * Michel Garanx, Architecte Big Data
-* [Michel Guillou](https:/twitter.com/michelguillou), Observateur
+* [Michel Guillou](https://twitter.com/michelguillou), Observateur
 * [Michel Loiseleur](https://www.doyoubuzz.com/michel-loiseleur), Responsable infra
 * [Michel Perrocheau](https://github.com/myrrkel), Développeur Python
 * Michel Roux, Webmestre, formateur sécurité sur internet
@@ -1486,7 +1484,6 @@ Ingénieur système ADSN
 * Nathalie Rosenberg, UX designer et advocate
 * [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
 * Nawo Mbechezi, Développeur
-* [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique
 * [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique
 * Nelly Mercey, webdesigneuse
 * [Nelson Herbin](https://github.com/Asone), Développeur fullstack
@@ -1607,7 +1604,7 @@ Ingénieur système ADSN
 * Olivier Vandeputte, chargé de communication print et web
 * Olivier Vicente, Administrateur S&R / Webmaster
 * Olympe Roux, Chef de projet digital
-* [Ophélie Coelho](), product manager & UX researcher freelance - étudiante en histoire des sciences et des techniques à l'EHESS
+* Ophélie Coelho, product manager & UX researcher freelance - étudiante en histoire des sciences et des techniques à l'EHESS
 * Ouissame Ghmimat, développeur
 * Oumarou Mballo, Consultant Data
 * [OursBlanc](https://mamot.fr/@oursblanc) bénévole FDN et FFDN
@@ -1700,7 +1697,6 @@ Ingénieur système ADSN
 * Pierre Tondereau, Développeur
 * Pierre Trolle, développeur
 * [Pierre van de Velde](https://www.linkedin.com/in/pierre-vdev), développeur
-* [Pierre van de Velde](https://www.linkedin.com/in/pierre-vdev), développeur
 * [Pierre-Alain Dubrulle](https://onestla.tech/?fbclid=IwAR3cXf9pUVYMzj96X4xUWOMyDcvcnghYtTL3qHiWx94AtzjEvg03tMeth08), Développeur
 * Pierre-Antoine Burdet, Développeur
 * [Pierre-Jean CHANCELLIER](https://normandie-libre.fr), développeur web Université Le Havre Normandie
@@ -1732,7 +1728,6 @@ Ingénieur système ADSN
 * [Raffaele Tavarone], chercheur en apprentissage automatique.
 * Raoul Bouteille
 * Raphael Bizos, Développeur
-* [Raphaël DUCOM](https://twitter.com/rducom), DevOps
 * [Raphaël DUCOM](https://twitter.com/rducom), DevOps
 * Raphaël Fery, Développeur web
 * [Raphaël Fery], Développeur web
@@ -1963,7 +1958,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Sven Rodriguez, Data Scientist
 * Swann LE VIGOUROUX, développeur web
 * [Sylvain Boulmé](http://www-verimag.imag.fr/~boulme/), Enseignant-Chercheur en informatique (Grenoble-INP Ensimag, Verimag).
-* [Sylvain Boulmé](http://www-verimag.imag.fr/~boulme/), Enseignant-Chercheur en informatique (Grenoble-INP Ensimag, Verimag).
 * Sylvain Cardine, responsable des systèmes d'information, ODÉON-Théâtre de l'Europe
 * [Sylvain Chabert](https://twitter.com/ChabertSylvain), Développeur autonome
 * [Sylvain Conny](https://github.com/sylvainmrs), Développeur web à Tënk
@@ -2037,7 +2031,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Thomas Delacourt], CEO chez Alter SI
 * Thomas Desvenain, Développeur Sénior
 * [Thomas du Boÿs](https://twitter.com/tduboys), DevOps, OVH
-* [Thomas GERARDIN](), Ingénieur cloud & DevOps
+* Thomas GERARDIN, Ingénieur cloud & DevOps
 * [Thomas Goldstein](https://github.com/thomasgoldstein), Développeur
 * [Thomas Gratier](https://twitter.com/ThomasG77), Consultant SIG
 * Thomas Guégan, Développeur
@@ -2068,7 +2062,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Thomas SUCHON](https://thomas-suchon.fr), Administrateur Système
 * Thomas THOREZ
 * [Thomas Toledo](https://dev.to/nugetchar), développeur freelance
-* [Thomas Villain](https://anybodesign.com), graphiste & web designer indépendant.
 * [Thomas Villain](https://anybodesign.com), graphiste & web designer indépendant.
 * Thomas Vuillermet, artisan du web
 * Thomas Wersinger - aka Tomplays - Frontend dev.
