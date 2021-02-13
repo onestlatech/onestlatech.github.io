@@ -3,6 +3,20 @@ title: Ressources
 draft: false
 menu: "main"
 ---
+
+## Sommaire
+
+* [Présentations](#présentations-formations-éducation-populaire)
+* [Pancartes pour les manifestations](#pancartes-pour-les-manifestations)
+* [Bannieres](#bannieres)
+* [QR Code](#qr-code)
+* [Stickers](#stickers)
+* [Tract](#tract)
+
+## Présentations, formations, éducation populaire
+
+* [Taiwan et bidouillages civiques](https://canard.tube/videos/watch/81fa0b3e-8690-4750-95c5-2f1959a71faa)
+
 ## Pancartes pour les manifestations
 
 {{< gallery >}}
@@ -42,7 +56,7 @@ Par Ginifizz
 ## QR Code
 
 ![onestlatech QR code](/QR_code/qrcode-onestlatech_nom.png)
-#
+
 par Gheb - version [SVG](/QR_code/qrcoode-onestlatech.svg) <!-- XXX ajouter credit/lien -->
 
 ## Stickers
