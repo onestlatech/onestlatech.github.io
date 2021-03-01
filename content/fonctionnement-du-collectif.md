@@ -1,7 +1,7 @@
 ---
 title: "Fonctionnement du collectif"
 date: 2019-12-15T16:12:59+01:00
-draft: true
+draft: false
 ---
 
 Le collectif onestla.tech s'est constitué en décembre 2019 suite à la publication de [l'appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites](_index.md).
