@@ -10,3 +10,6 @@ sectionPagesMenu = "main"
   organizationName = "onestla.tech"
   favicon = "avatar.png"
   logo = "avatar.png"
+
+  [markup.goldmark.renderer]
+  unsafe = true
