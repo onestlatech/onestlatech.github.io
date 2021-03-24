@@ -475,7 +475,7 @@ En conséquence, nous appelons :
 * Chrystelle Coupat, Responsable Exploitation Mediapart
 * Claire Dhénin, Ingénieure Full Stack chez Misakey
 * Claire Migné, Product owner @ Gandi
-* [Claire Villard](https://twitter.com/neur0nia), Développeuse
+* Claire Villard, Développeuse
 * Clara Ponte, enseignante d'histoire géographie dans le privé sous contrat avec l'état
 * Clémence Magnien, Directrice de recherche au CNRS
 * [Clément Biron](https://www.clementbiron.com) Designer UX/UI freelance et gérant de [Altweb, création de site internet à Grenoble.](https://www.altweb.fr)
