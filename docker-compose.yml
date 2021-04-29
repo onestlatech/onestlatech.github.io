@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+
+  hugo:
+    image: monachus/hugo:latest
+    volumes:
+      - .:/usr/share/blog
+    ports:
+      - "1313:1313"
+    environment:
+      HUGO_BASE_URL: ${HUGO_BASE_URL:-http://onestla.docker}
+      HUGO_PARAMS_DISALLOW: ${HUGO_PARAMS_DISALLOW:-/}
+      VIRTUAL_HOST: ${HUGO_BASE_URL:-http://onestla.docker}
