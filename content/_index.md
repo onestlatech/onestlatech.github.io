@@ -1446,7 +1446,6 @@ Ingénieur système ADSN
 * [Michael COULLERET](https://twitter.com/Mike20uf), Lead Developer
 * Michaël Couren
 * [Michael Hauspie](https://twitter.com/MichaelHauspie), enseignant-chercheur, Université de Lille
-* [Michaël Lebeau](https://epistol.fr), développeur web
 * [Michel Blanc](https://twitter.com/b9m), sysadmin @ https://devops.works
 * Michel Cadennes (https://mamot.fr/@tchevengour), développeur indépendant, enseignant en informatique.
 * Michel Garanx, Architecte Big Data
