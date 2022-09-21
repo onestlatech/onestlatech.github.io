@@ -28,7 +28,7 @@ Parce qu'internet c'est bien, mais ce voir en vrai c'est mieux et quand même pl
 * Lille : RDV dans le locaux de [l'Offensive](https://offensive.eco) (41 rue de Valmy)
 * Nantes : RDV dans les locaux de la coopérative [Troopers](https://troopers.coop/) (4 rue des Olivettes)
 
-Si vous souhaitez organiser un meetup dans votre ville, [contactez-nous par mail](mailto:contact@onestla.tech) ou [venez sur le Discord](https://discord.gg/se3PnEr).
+Si vous souhaitez organiser un meetup dans votre ville, [contactez-nous par mail](mailto:onestlatech@protonmail.com) ou [venez sur le Discord](https://discord.gg/se3PnEr).
 
 ## Plus à venir
 
