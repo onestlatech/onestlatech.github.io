@@ -22,7 +22,7 @@ Nous organiserons [donc un Twitter Space ce vendredi à midi](https://twitter.co
 
 ## Meetups de rentrée
 
-Parce qu'internet c'est bien, mais se voir en vrai c'est mieux et quand même plus sympa, le collectif appelle à organiser des meetups pour permettre aux gens intéressés pour montrer qu'"[une autre tech est possible](une-autre-tech-est-possible.md)" le mardi 27 septembre à 18h. Trois villes ont déjà répondu présentes :
+Parce qu'internet c'est bien, mais se voir en vrai c'est mieux et quand même plus sympa, le collectif appelle à organiser des meetups pour permettre aux gens intéressés pour montrer qu'[une autre tech est possible]({{< ref "/publications/une-autre-tech-est-possible" >}}) le mardi 27 septembre à 18h. Trois villes ont déjà répondu présentes :
 
 * Paris : RDV dans les locaux de la coopérative [Fairness](https://fairness.coop) (3D rue de la Concertation 75018)
 * Lille : RDV dans le locaux de [l'Offensive](https://offensive.eco) (41 rue de Valmy)
