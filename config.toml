@@ -13,3 +13,15 @@ sectionPagesMenu = "main"
 
   [markup.goldmark.renderer]
   unsafe = true
+
+[menu]
+[[menu.main]]
+  identifier = 'adhesion'
+  title = 'Adhérer'
+  url = 'https://opencollective.com/onestlatech'
+  weight = 3
+[[menu.main]]
+  identifier = 'conference'
+  title = 'Conférence'
+  url = 'https://conf.onestla.tech'
+  weight = 3

@@ -8,7 +8,19 @@ navigation: L'appel 2
 weight: -40
 ---
 
-## Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
+Parce-qu'[une autre tech est possible](/publications/une-autre-tech-est-possible/), nous sommes des travailleuses et travailleurs du numérique qui nous organisons !
+
+[**Rejoignez-nous !**](https://opencollective.com/onestlatech)
+
+Le collectif est membre de [l'Offensive](https://offensive.eco).
+
+## L'appel
+
+Ce texte fondateur, [qui a débouché sur la création du collectif](/page/a-propos/), a été publié pendant [le mouvement social contre la réforme des retraites en France de 2019-2020](https://fr.wikipedia.org/wiki/Mouvement_social_contre_la_r%C3%A9forme_des_retraites_en_France_de_2019-2020).
+
+Les actions et publications du collectif ne reflètent pas forcément la vision de l'ensemble des signataires du texte initial.
+
+### Appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 
 L'automatisation peut être une chance pour l'humanité : elle permet de déléguer aux machines
 toujours plus de tâches fastidieuses, ingrates, complexes, ennuyeuses ou non épanouissantes.

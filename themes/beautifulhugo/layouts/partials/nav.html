@@ -10,7 +10,7 @@
         {{ range .Site.Menus.main.ByWeight }}
             {{ if and (ne .Identifier "page") (or (ne .Identifier "publications") $hasPosts) }}
             <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
-                <a class="sidebar-nav-item" href="{{ .Page.RelPermalink }}" title="{{ .Title }}">
+                <a class="sidebar-nav-item" href="{{ if .Page }}{{ .Page.RelPermalink }}{{ else }}{{ .URL }}{{ end }}" title="{{ .Title }}">
                     {{ if eq .Identifier "publications" }}Publications{{ else }}{{ .Title }}{{ end }}
                 </a>
             </li>

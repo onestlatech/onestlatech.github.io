@@ -12,4 +12,4 @@ La conférence sera gratuite, ouverte à toutes et tous, et en français.
 
 Cette 1ère conférence onestla.tech aura lieu en marge des [apidays](https://www.apidays.global/paris/), une conférence tech internationale qui attire 3 000 personnes chaque année et qui parle de logiciel et de transformation numérique, qui nous fait le plaisir de nous héberger.
 
-**[Toutes les infos et inscription sur le site de la conférence**](https://conf.onestla.tech)
+[**Toutes les infos et inscription sur le site de la conférence**](https://conf.onestla.tech)
