@@ -88,7 +88,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2166 signataires
+### 2172 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -169,6 +169,7 @@ En conséquence, nous appelons :
 * Alexis Gras, Ingénieur en informatique
 * [Alexis Janvier](https://www.alexisjanvier.net), développeur
 * Alexis Leclerc, Freelance, Developpeur Rails
+* [Alexis Lefebvre](https://alexislefebvre.com/), développpeur Web chez [Troopers](https://troopers.coop/)
 * Alexis Levasseur, Développeur web Fullstack
 * [Alexis MONTORO](https://twitter.com/Hoxydav), CTO
 * [Alexis Ragot](https://twitter.com/rgt_alexis), développeur
@@ -793,6 +794,7 @@ Informaticiens en formation à l'UPEC
 * Fred Zind, Développeur
 * [Freddy Limpens](https://limpica.net), Ingénieur de recherche et Chef de projet chez Mnémotix.com
 * [Frédéric Caffin](https://frederic.caffin.net), Dev et intégration Wordpress
+* [Frédéric Faure](https://github.com/ffaure32), Directeur Technique Zenika Bordeaux
 * [Frédéric Faure](https://twitter.com/ffaure32), Développeur et accessoirement directeur technique chez Zenika Bordeaux
 * [Frédéric Jost](https://twitter.com/fredericjost), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Frederic Lieto, ingénieur développeur
@@ -1107,6 +1109,7 @@ Ingénieur système ADSN
 * Jules Buret, développeur
 * Jules CLERICI, Développeur web Fullstack indépendant
 * [Jules Emery](https://www.linkedin.com/in/ethicnology/), R&D Blockchain
+* [Jules HABLOT](https://fr.linkedin.com/in/jules-hablot-zenika-grenoble), Artisan Front, Zenika Grenoble
 * [Jules Hamellin](https://www.adaltas.com/en/), Tech Lead Senior, Adaltas
 * [Jules Pietri](https://twitter.com/julespietri)
 * Julia Dagnan
@@ -1360,6 +1363,7 @@ Ingénieur système ADSN
 * Marius Ghislain, Développeur
 * [Maroin Al Dandachi](https://www.maroin.fr), entrepreneur-salarié chez Optéos
 * Martial Fernandez, technicien réseau, Groupe ADSN
+* [Martin Choraine](https://github.com/mchoraine), Développeur front & back, Zenika Grenoble
 * [Martin Desrumaux](https://github.com/gnuletik/), développeur web, IRCAM
 * Martin Florent, Ingénieur système
 * [Martin Guilloux](https://cv.nimrodel.fr), Ingénieur Système Linux
@@ -1470,6 +1474,7 @@ Ingénieur système ADSN
 * [Michael COULLERET](https://twitter.com/Mike20uf), Lead Developer
 * Michaël Couren
 * [Michael Hauspie](https://twitter.com/MichaelHauspie), enseignant-chercheur, Université de Lille
+* [Michaël Lebeau](https://mikaleb.com), développeur web
 * [Michel Blanc](https://twitter.com/b9m), sysadmin @ https://devops.works
 * Michel Cadennes (https://mamot.fr/@tchevengour), développeur indépendant, enseignant en informatique.
 * Michel Garanx, Architecte Big Data
@@ -1828,6 +1833,7 @@ Ingénieur système ADSN
 * Romain Chaffal, développeur
 * Romain Cousseau, Responsable R&D @ Picpurify
 * [Romain Deltour](http://twitter.com/rdeltour), développeur
+* [Romain DeneauNom](https://twitter.com/DeneauRomain), Software engineer à D-EDGE
 * Romain Dubreil, développeur
 * [Romain Durand](https://twitter.com/romaindurand) - Développeur web
 * [Romain Eggermont](https://gitlab.com/reggermont), Lead Développeur Web @ Wizards Technologies
