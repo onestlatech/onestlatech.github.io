@@ -1138,7 +1138,7 @@ Ingénieur système ADSN
 * Julien Blanchard, Développeur
 * [Julien Bosquain](https://twitter.com/ping_julien), sysOp
 * [Julien Boulnois](https://github.com/julbouln), CTO et co-fondateur immatériel.fr
-* [Julien Bouquillon](https://twitter.com/revolunet), DSI des Ministères sociaux
+* [Julien Bouquillon](https://twitter.com/revolunet), tech lead dans l'administration
 * [Julien Camblan](https://twitter.com/Sylfaen), développeur back-end @ Tymate
 * [Julien Chaumont](https://github.com/julienc91), Lead Developer
 * Julien CHERON, Développeur JAVA
