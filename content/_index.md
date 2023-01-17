@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2172 signataires
+### 2200 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -129,6 +129,7 @@ En conséquence, nous appelons :
 * [Adrien Taudière](https://adrientaudiere.com), micro-entrepreneur (bio-informatique, analyses de données)
 * Adrien Touzouli https://www.linkedin.com/in/adrien-touzouli-892180138/ développeur.
 * [Adrien Turcey](https://github.com/aturcey), développeur Web
+* [Agnes Crepet](https://agnescrepet.org/), (S)low Tech Activist - Head of Software Longevity&IT [@Fairphone](http://fairphone.com/) - Co-Founder [@NinjaSquad](https://ninja-squad.com/) , [@MiXiTConf](https://mixitconf.org/en/) & [@le_numero_zero](https://lenumerozero.info/) - Board [@duchessfr](https://www.duchess-france.org/)
 * [Alain "moustachu" Buchotte](https://github.com/moustachu), DevOps chez [Open Source Politics](https://opensourcepolitics.eu/)
 * Alain DIETRICH, Unix Morale Officer
 * Alain Loisel, Ingénieur en Intelligence artificielle
@@ -141,6 +142,7 @@ En conséquence, nous appelons :
 * [Alban Mouton](https://github.com/albanm), co-fondateur [Koumoul](https://koumoul.com)
 * [Albert de Pétigny](https://twitter.com/adepetigny), Éditeur
 * Albert Lanne, Développeur Web
+* [Alberto Lumbreras](https://albertolumbreras.net/), chercheur en apprentissage automatique
 * Albin Suplisson, DevOps chez OVH
 * [Alex Morel](https://www.doyoubuzz.com/alex-lagarde), CTO à CAPACITES-SAS
 * [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l'[AFUP](https://afup.org/)
@@ -184,6 +186,7 @@ En conséquence, nous appelons :
 * [Alexis Lefebvre](https://alexislefebvre.com/), développpeur Web chez [Troopers](https://troopers.coop/)
 * Alexis Levasseur, Développeur web Fullstack
 * [Alexis MONTORO](https://twitter.com/Hoxydav), CTO
+* [Alexis Prayez], VFX Pipeline developer
 * [Alexis Ragot](https://twitter.com/rgt_alexis), développeur
 * Alexis Roche, codeur à temps partiel
 * [Alexis Smadja](https://github.com/Alxss), Responsable technique [Big Youth](https://bigyouth.fr)
@@ -265,6 +268,7 @@ En conséquence, nous appelons :
 * Arnaud Combellas, développeur, salarié
 * Arnaud Courtès, artisan logiciel
 * [Arnaud de Mouhy](mailto:onestla@admds.net), artisan développeur freelance
+* [Arnaud Delevacque](https://piaille.fr/@ArnaudDlvq), Lead Développeur
 * Arnaud Favreau, développeur web
 * Arnaud Lécuyer
 * Arnaud Lefebvre
@@ -322,6 +326,7 @@ En conséquence, nous appelons :
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Baptiste Rasschaert, Développeur, co-gêrant d'un studio web
 * Barikad, architecte d'infrastructure
+* Bastien Auneau, architecte logiciel
 * [Bastien Durel](https://github.com/BastienDurel), Développeur
 * [Bastien LEMALE](https://github.com/blemale), software engineer
 * [Bastien Mosnier](https://www.linkedin.com/in/bastien-mosnier-69ba6a137), Ingénieur logiciel
@@ -369,6 +374,7 @@ En conséquence, nous appelons :
 * [Benoît Merlet](https://twitter.com/trompouet), développeur senior
 * [Benoit NICOLETTI](https://loutreo.fr), Président de la société LOUTREO
 * [Benoît Petitcollot](https://github.com/bpetitcollot), développeur web
+* [Benoît PROVÔT](www.linkedin.com/in/benoit-provot-7637b918), Tech Lead Test
 * Benoit Taralle aka Diwoka, Dev Back Chez foodchéri
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
 * [Benoit Viguier](https://twitter.com/b_viguier), Lead Développeur
@@ -596,6 +602,7 @@ En conséquence, nous appelons :
 * Derek Roth
 * [Derek Salmon](https://www.pikselkraft.com/), développeur web chez Pikselkraft
 * Designer UI/UX, co-fondateur Whisperies
+* Diana Nimh
 * [Didier Demory](https://twitter.com/wolforg), Co-traducteur du CMS WordPress
 * [Dimitri Bouriez](https://twitter.com/_Dim_itri_), Développeur freelance
 * Djan GICQUEL, formateur sur les logiciels libres
@@ -762,6 +769,7 @@ En conséquence, nous appelons :
 * [Florian Parreno](https://twitter.com/iFlohw), Lead Dev
 * Florian S., Maitre de conférences en informatique
 * Florian T., AdminSys
+* [Florian Vaneste](https://github.com/FloVnst/), développeur Web
 * [Florine Sueur](https://www.soit.rocks/), UX Dev
 * [Floris MORICEAU](https://floris-moriceau.fr/), Développeur Front-End Drupal, Secrétaire de l'association [Drupal France](https://www.drupal.fr/)
 Informaticiens en formation à l'UPEC
@@ -944,6 +952,7 @@ Ingénieur système ADSN
 * [Herve Guigoz](https://twitter.com/RvGuigoz), développer
 * Hervé LE BARS, administrateur système
 * Herve Madouas, ingenieur industrie
+* Hervé Sainct, retraité, ex ingénieur systèmes spatiaux
 * [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
 * Hubert "Jean-Beru" Lenoir, Développeur
 * [Hubert Bettan](https://www.thecodeisgreen.com), owner
@@ -986,6 +995,7 @@ Ingénieur système ADSN
 * [Jacques Labansat](https://www.linkedin.com/in/jacques-labansat-b09a45113/), Analyste Développeur chez CGI
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jacques Rimbault](https://jrimbault.io)
+* [Jacques-Olivier Farcy](https://mamot.fr/@Jolivier), level designer & médiateur numérique chez Astrolabe CAE
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jalil Arfaoui](https://jalil.arfaoui.net) ([Twitter](https://twitter.com/jalilarfaoui)), ([Mastodon](https://framapiaf.org/@jalil)), Artisan logiciel indépendant
 * [James Hemery](https://github.com/JamesHemery), Développeur Freelance
@@ -1005,6 +1015,7 @@ Ingénieur système ADSN
 * [Jean-Baptiste Guillard](https://artefacts.coop/), Dev Front, Coopérative Artefacts
 * Jean-Baptiste Kerbœuf, développeur à La Combe du lion vert
 * [Jean-Baptiste Maillet](https://github.com/jbmaillet), Développeur
+* [Jean-Baptiste Maillet](https://stackoverflow.com/users/5257515/jbm), développeur cybersec senior
 * Jean-Baptiste Minvielle, UX designer indépendant
 * [Jean-Baptiste Mora](https://moramora.fr), développeur
 * Jean-Baptiste Moreau, CTO
@@ -1026,6 +1037,7 @@ Ingénieur système ADSN
 * Jean-marc Evrard, Technicien Informatique (université)
 * [Jean-Marc Ferron](https://dweez.com), développeur web indépendant
 * [Jean-Marie Favreau](https://jmtrivial.info), enseignant-chercheur en informatique
+* Jean-Marie Simonet, co-fondateur du CMS Open Source Joomla.
 * [Jean-Pascal Devierne](https://twitter.com/CheapHasz), Développeur
 * Jean-Philippe Peyrache, Enseignant en informatique à Télécom Saint-Etienne
 * [Jean-Philippe Reculeau](https://github.com/jpreculeau), Consultant en transformation des SI
@@ -1147,6 +1159,7 @@ Ingénieur système ADSN
 * [Julien Dargelos](https://github.com/juliendargelos)
 * Julien Delalande, ingénieur
 * [Julien Dubois](https://twitter.com/Artusamak), [Happyculture](https://happyculture.coop)
+* [Julien Ducos](https://mastodon.social/jucos/), Genius, Apple
 * Julien Dugoudron, étudiant a l'école 42
 * [Julien Duthoit](https://github.com/julienduthoit), Développeur Web Freelance
 * Julien Falque, développeur web
@@ -1164,7 +1177,6 @@ Ingénieur système ADSN
 * [Julien Leicher](https://julien.leicher.me), Développeur indépendant
 * Julien LORENTZ, Ingénieur Réseaux - développeur
 * Julien Manganne, développeur
-* Julien Manganne, Développeur
 * [Julien Marzin](https://twitter.com/Al_Ouest_), développeur web
 * [Julien Maulny](https://twitter.com/alcalyn_), développeur
 * Julien Mithra, Manager en développement Web
@@ -1232,6 +1244,7 @@ Ingénieur système ADSN
 * Laurent Dargent, Développeur Web Fullstack et formateur, indépendant
 * [Laurent de Vaulx](https://twitter.com/ldevaulx) Développeur Web Freelance
 * Laurent Frottier, twitter : @LaurentFrottier, Chef de projet technique, lead dev, enseignant
+* [Laurent Fuentes](https://pouet.chapril.org/@peshane), sysadmin/devops
 * [Laurent Guigo](https://www.linkedin.com/in/laurent-guigo-15a50339/), developer
 * Laurent Ignacio, Webdesigner
 * Laurent Klajnbaum, webmaster
@@ -1269,6 +1282,7 @@ Ingénieur système ADSN
 * Lionel Orsini, Dev. Front
 * [Loan ROBERT](https://twitter.com/rbrtloan), développeur web - [Yaal](https://www.yaal.fr/)
 * [Loïc Barouty](https://twitter.com/loicbarouty), développeur web
+* [Loïc BOUQUET](https://www.linkedin.com/in/lo%C3%AFc-bouquet-fr/), Responsable de l'exploitation d'un Cloud
 * Loïc Chambard, chef de Projet Informatique
 * [Loïc Knuchel](https://twitter.com/loicknuchel), tech lead
 * Loïc Perrin, Directeur de projet
@@ -1439,6 +1453,7 @@ Ingénieur système ADSN
 * Matthieu Trubert, Ingénieur - Collectif Numérique UGICT - [Le Numérique Autrement](https://lenumeriqueautrement.fr/)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Maud LH, Cheffe de projets numérique
+* Max Gautier, Développeur @ Red Hat
 * [Max Schleiffer](https://twitter.com/maxschleiffer), digital marketer
 * Maxime AURIAU, Développeur web, défenseur du climat et de la démocratie
 * [Maxime Bréhin](https://twitter.com/mbrehin), Ingénieur R&D
@@ -1528,11 +1543,13 @@ Ingénieur système ADSN
 * [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique
 * Nelly Mercey, webdesigneuse
 * [Nelson Herbin](https://github.com/Asone), Développeur fullstack
+* Nelson Parrilla, Développeur iOS
 * nico FDN
 * Nico Prat, développeur indépendant
 * [Nicolas « aeris » Vinot](https://imirhil.fr/), développeur
 * Nicolas ABOT, Assistant ingénieur en informatique à l'Université de Versailles St-Quentin-En-Yvelines
 * Nicolas Assing, développeur
+* [Nicolas Balligand](https://masto.bike/@nikill), Senior Data Consultant
 * Nicolas BARNOUD, délégué Syndical CFE-CGC / FIECI
 * Nicolas Bertaux, développeur/testeur dans le ferroviaire
 * Nicolas Bétheuil, Développeur
@@ -1759,6 +1776,7 @@ Ingénieur système ADSN
 * Quentin Caillaud(https://twitter.com/Garth_Funkel), développeur
 * [Quentin Decaunes](https://twitter.com/storm1er), Ingénieur Étude et Développement, [Smile](https://www.smile.eu/)
 * [Quentin Fahrner](https://renrhaf.fr), Développeur web backend
+* [Quentin Lemonnier](https://www.quentinlemonnier.fr), Ingé R&D /  Développeur Front-end / Designer 🕊️
 * [Quentin Mazars-Simon](https://quentin.ms), Ingénieur logiciel
 * [Quentin Mendel](https://twitter.com/eozim), Développeur
 * Quentin Pezeril, testeur
@@ -1844,6 +1862,7 @@ Ingénieur système ADSN
 * Romain Bousseau, Développeur Web
 * Romain Chaffal, développeur
 * Romain Cousseau, Responsable R&D @ Picpurify
+* [Romain de Laage](https://rdelaage.ovh), étudiant en ingénierie des systèmes d'information
 * [Romain Deltour](http://twitter.com/rdeltour), développeur
 * [Romain DeneauNom](https://twitter.com/DeneauRomain), Software engineer à D-EDGE
 * Romain Dubreil, développeur
@@ -1892,17 +1911,20 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Samuel Neveu, Developpeur étudiant à 42 Paris
 * [Samuel PECOUL](https://twitter.com/Kaizen_Dev), Developpeur Freelance
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
+* [Sandra Guerreiro Jacinto](https://twitter.com/S_Mouska), Développeuse
 * [Sandra Guerreiro](https://twitter.com/S_Mouska), Développeuse web, Norsys
 * Sara Crubellier, intégratrice web
 * [Sarah Daden](https://twitter.com/Sarah_DADEN), Ingénieur Infrastructure informatique à Ippon Technologies
 * Sarah Kugel, UX designer
 * Sarah Ramos, Développeuse Web, stagiaire ICRC
+* [Sarah Trichet-Allaire](@Sarah_Trichet_Allaire@mastodon.cloud), informaticienne à [Yuna](https://yuna.bzh), libriste
 * [Sayah El Yatim](https://www.linkedin.com/in/elyatimsayah/), CTO
 * Scan le Gentil, administration système et réseau
 * Sebastian Castro - Développeur
 * [Sébastien “Elzen” Dufromentel](http://fadrienn.irlnc.org/), médiateur scientifique et enseignant en informatique, membre de la Fédération FDN et de quelques autres assos autour du numérique libre
 * Sébastien Allemand, Dev & ops soprasteria
 * Sebastien Badia, Ingénieur systèmes et réseaux, Bénévole chez [Gitoyen](https://gitoyen.net/), [Globenet](https://globenet.org/) et [LDN](https://ldn-fai.net/)
+* [Sébastien Barre](https://twitter.com/sebabarreu), SRE chez Evaneos
 * [Sébastien Bartoli](https://twitter.com/__sebastien), Web Engineer & Consultant dans un cabinet de conseil IT
 * Sébastien Bazaud, développeur salarié et bénévole pour le FAI [Touraine Data Network](https://www.tdn-fai.net)
 * Sébastien Berrou, Développeur, Cambox Vision
@@ -2037,6 +2059,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Thê-Minh Trinh](https://twitter.com/@the_minh), Product Manager
 * Théo Faure, chef de projet
 * [Théo Fidry](https://twitter.com/tfidry), développeur
+* [Théo Goedert](https://theogoedert.com/), Développeur créatif, artiste, enseignant création numérique.
 * Théo Le Peltier, Ingénieur monitoring DevOps
 * [Théo Murgat](https://github.com/murgatt), Développeur Web
 * [Théo Simonet](https://www.montessoriparis.com/), Consultant Web
@@ -2062,6 +2085,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Thierry Charnois, Enseignant chercheur en informatique, Université Paris 13
 * Thierry Coutier, Ingénieur Chercheur
 * [Thierry Geindre](https://github.com/t-geindre), développeur
+* [Thierry lechat](https://klicat.com), CEO Klicat
 * [Thierry Sioukam](https://sioukam.re), développeur web indépendant
 * Thierry Turletti, Chercheur en informatique
 * [Thierry Vallée](https://www.36tribus.com), Développeur indépendant
@@ -2099,6 +2123,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
 * [Thomas MICHEL](https://esprit-libre-conseil.com/esprit-libre), Entrepreneur co-fondateur de [Lydra](https://lydra.fr/) et des [Compagnons du DevOps](https://compagnons-devops.fr/)
+* [Thomas Mostkowy](https://github.com/tomazed), Expert Test de Performance chez Sogeti
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * [Thomas Noël](https://twitter.com/totonono), informaticien
 * Thomas Nonglaton, développeur web
@@ -2250,6 +2275,7 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Yoan Castellani](https://www.facebook.com/yoan.castellani), Chef de projet, Solutions Citoyennes
 * [Yoan Malié](https://twitter.com/yoanmalie), intégrateur web
 * [Yoann Aubry](https://twitter.com/netimpulse), développeur fullstack, salarié, [CAE Vecteur Activités](https://vecteuractivites.com)
+* [Yoann Brieux](https://yoann.brieux.net), Développeur backend
 * [Yoann Dufresne](https://www.linkedin.com/in/yoann-dufresne-02ba14b7/), ingénieur de recherche en informatique, Institut Pasteur
 * Yoann Duriaux, Co-fondateur des [Tiers Lieux Libres et Open Source](movilab.org)
 * [Yoann Gueny](http://yoann-gueny.fr/), développeur freelance
