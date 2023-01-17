@@ -1836,7 +1836,7 @@ Ingénieur système ADSN
 * [Rocky Road](https://github.com/RockyRoad29) Développeur et contributeur Open Source
 * [Rodolphe Peccatte](https://gothor.github.io/), Développeur
 * Rodrigue Couanon, Front-end developer
-* [Rodrigue Villetard](https://twitter.com/gorghoa)
+* [Rodrigue Villetard](https://mastodon.social/@gorghoa)
 * Roland Donat
 * [Romain (Artwo) Rouault](https://twitter.com/Artwo), Graphiste et Développeur Frontend
 * [Romain Batby](https://twitter.com/BatbyRomain) Architecte développeur
