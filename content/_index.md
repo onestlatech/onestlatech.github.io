@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2218 signataires
+### 2222 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -258,6 +258,7 @@ En conséquence, nous appelons :
 * [Antoine Rousseau](https://antoine.rousseau.im), développeur indépendant
 * [Antoine Rozo](https://entwanne.github.io), Developer @ PeopleDoc by Ultimate Software
 * Antoine Samson, Resp. Exploitation
+* [Antoine Schirer](https://twitter.com/antoineschirer), motion designer et journaliste
 * [Antoine Smagghe](https://twitter.com/smaggheantoine), Développeur web
 * [Antonin Dupont](https://dupon.in), sysadmin
 * [Antonin Lenfant](http://antonin-lenfant.com/), Développeur
@@ -880,8 +881,8 @@ Ingénieur système ADSN
 * [Grégoire Dubourg](https://www.linkedin.com/in/gregoiredubourg/), développeur-intégrateur web chez Linkfluence
 * [Grégoire Gaonach](https://twitter.com/GregoireGaonach), ingénieur en cybersécurité, acteur de la civictech
 * [Grégoire Hébert](https://knot.gheb.dev/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Grégoire Marchal](https://twitter.com/gregoire_m), Développeur
+* [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Grégoire Noyelle](https://www.gregoirenoyelle.com/), Formateur indépendant, développeur de thème sur mesure.
 * [Grégoire Pineau](https://github.com/lyrixx), Développeur
 * [Grégory Chabut](https://www.linkedin.com/in/gregchab/), Consultant SEO
@@ -1115,6 +1116,7 @@ Ingénieur système ADSN
 * [Johan Dufour](https://twitter.com/lutangar), aimable président [@Amabla](https://www.amabla.org/) et gérant de [L'Arrière Guichet](https://larriereguichet.fr/)
 * Johan Girod, Freelance, Développeur web, Prestataire de l'Etat
 * Johan Le Baut, Ingénieur développeur
+* [Johan Le Baut](https://github.com/jojolb), ingénieur DevOps chez HelloAsso 
 * [Johan Richer](https://twitter.com/JohanRicher), [Jailbreak](https://www.jailbreak.paris/)
 * [Johan Soulet](https://twitter.com/johansoulet), développeur
 * Johann Belleguie, sysadmin
@@ -1550,6 +1552,7 @@ Ingénieur système ADSN
 * Nastasia Saby, développeur data
 * [Nathalie Pauchet](http://lunatopia.fr/), intégratrice
 * Nathalie Rosenberg, UX designer et advocate
+* [Nathanaël Martel](https://www.simplement-web.com/), développeur web
 * [Navarre Julien](https://twitter.com/navarre_julien), Data analyst
 * Nawo Mbechezi, Développeur
 * [Nazmi](https://nazmi.fr), éditeur, traducteur, integrateur électronique
@@ -2266,6 +2269,7 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * [Xavier Mouton-Dubosc](https://dascritch.net), Développeur, animateur de [CPU](http://cpu.pm)
 * [Xavier Nguyen](https://github.com/subtonix), Développeur Web
 * Xavier Paulaud-Bayard, couteau suisse AMOE/AMOA
+* Xavier Payn, ingénieur en informatique
 * [Xavier Seignard](https://drangies.fr/), développeur web
 * [Xavier Van de Woestyne](https://xvw.github.io), Data Engineer
 * [Yaacov Cohen](https://www.goodimpact.studio), développeur et co-fondateur de Good Impact
