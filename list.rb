@@ -10,8 +10,8 @@ issues = client.list_issues(repo, :labels => "signature")
 
 newSignatures = ""
 issues.each do |issue|
-    puts "Closing " << issue.title << " - " << issue.body
-    if issue.body == ""
+    puts "Closing " << issue.title << " - " << issue.body.to_s
+    if issue.body == nil
         newSignatures << "* " << issue.title << "\n"
     else
         newSignatures << "* " << issue.body << "\n"
