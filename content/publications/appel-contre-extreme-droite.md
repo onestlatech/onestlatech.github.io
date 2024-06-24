@@ -24,3 +24,4 @@ Premiers Signataires :
 *	Le Mouton Numérique
 *	Collectif Changer de Cap - Groupe Numérique
 *	Podcast Techologie
+*	Les-Tilleuls.coop
