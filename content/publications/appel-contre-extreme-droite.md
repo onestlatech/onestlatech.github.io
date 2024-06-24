@@ -25,3 +25,4 @@ Premiers Signataires :
 *	Collectif Changer de Cap - Groupe Numérique
 *	Podcast Techologie
 *	Les-Tilleuls.coop
+*	Bug Builders
