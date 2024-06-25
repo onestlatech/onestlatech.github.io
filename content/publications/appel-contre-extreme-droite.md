@@ -27,3 +27,4 @@ Premiers Signataires :
 *	Les-Tilleuls.coop
 *	Bug Builders
 *	Noesya
+*	Spirale.coop
