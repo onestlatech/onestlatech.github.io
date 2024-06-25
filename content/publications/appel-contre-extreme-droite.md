@@ -22,7 +22,6 @@ Un rassemblement aura lieu ce mercredi midi devant Station F à Paris, devant Eu
 Premiers Signataires :
 *	OnEstLaTech
 *	Le Mouton Numérique
-*	Solidaires Informatique
 *	Collectif Changer de Cap - Groupe Numérique
 *	Podcast Techologie
 *	Les-Tilleuls.coop
