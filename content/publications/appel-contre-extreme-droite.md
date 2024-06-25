@@ -9,7 +9,7 @@ Ces luttes auxquelles nous avons participé n’étaient que les prémices d’u
 
 Aujourd’hui, après l’irresponsable dissolution de notre assemblée nationale entraînant la montée d’un **facisme débridé** en France qui se sent de plus en plus libre d’exprimer ses idées nauséabondes, nous voulons porter une parole. Celle des individus et organisations qui font le numérique, le pensent mais aussi le déchiffrent, en font la critique ou en dénoncent les effets. Nous appelons à soutenir activement le **Nouveau Front Populaire**.
 
-Nous, travailleurs et travailleuses, coopératives, syndicats, entreprises, associations, chercheurs et chercheuses, journalistes et autres acteurs du numérique avons une part de responsabilité dans le monde actuel et dans celui qui adviendra. Nous ne pouvons la nier et souhaitons aujourd’hui affirmer notre volonté de construire un **numérique durable, utile et accessible** et non permettre aux outils technologiques de servir une **politique violente et mortifère**.
+Nous, travailleurs et travailleuses, coopératives, entreprises, associations, chercheurs et chercheuses, journalistes et autres acteurs du numérique avons une part de responsabilité dans le monde actuel et dans celui qui adviendra. Nous ne pouvons la nier et souhaitons aujourd’hui affirmer notre volonté de construire un **numérique durable, utile et accessible** et non permettre aux outils technologiques de servir une **politique violente et mortifère**.
 
 Nous voulons mettre la technologie au service du **bien commun**, faire cesser les inégalités systémiques, répartir les richesses et le pouvoir d’une manière juste et **préserver notre planète** du cataclysme écologique en cours tant qu’il en est encore temps. 
 
@@ -22,7 +22,6 @@ Un rassemblement aura lieu ce mercredi midi devant Station F à Paris, devant Eu
 Premiers Signataires :
 *	OnEstLaTech
 *	Le Mouton Numérique
-*	Solidaires Informatique
 *	Collectif Changer de Cap - Groupe Numérique
 *	Podcast Techologie
 *	Les-Tilleuls.coop
