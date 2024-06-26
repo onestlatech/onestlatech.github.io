@@ -29,3 +29,4 @@ Premiers Signataires :
 *	Noesya
 *	Spirale.coop
 *	Orbitale.io
+*	Troopers Web Republic
