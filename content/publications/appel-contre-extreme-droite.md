@@ -30,3 +30,4 @@ Premiers Signataires :
 *	Spirale.coop
 *	Orbitale.io
 *	Troopers Web Republic
+* Mathieu Marchois de fairness.coop
