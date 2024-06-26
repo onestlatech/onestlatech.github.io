@@ -1,8 +1,10 @@
 ---
-title: "Appel commun contre l’extrême-droite et Soutien au Nouveau Front Populaire"
+title: "Appel commun contre l’extrême-droite et soutien au Nouveau Front Populaire"
 date: 2024-06-24T14:43:29+01:00
 draft: false
 ---
+
+## Appel commun contre l’extrême-droite et soutien au Nouveau Front Populaire
 
 Il y a presque 5 ans, plus de 2 000 personnes ont signé l’appel [des travailleuses et travailleurs du numérique](https://onestla.tech/) pour une autre réforme des retraites que celle proposée par le gouvernement sous la présidence d’Emmanuel Macron.
 Ces luttes auxquelles nous avons participé n’étaient que les prémices d’une série de **mesures anti-sociales** et toujours plus violentes à l’égard des plus modestes pour asseoir une politique qui vise à améliorer coûte que coûte la vie des **5% les plus riches** de France tout en montrant du doigt ceux qui subissent la **violence institutionnelle et la répression policière dès qu’ils trouvent le courage de protester**.
