@@ -33,3 +33,10 @@ Premiers Signataires :
 *	Orbitale.io
 *	Troopers Web Republic
 * Mathieu Marchois de fairness.coop
+* [Céline Louvet](https://celine.louvet.me/), Lead développeuse
+* [La Première Ligne](https://lapremiereligne.fr/)
+* [Compositech](https://compositech.org/)
+* [Mehdi Medjaoui](https://www.linkedin.com/in/mehdimedjaoui/), CEO Olympe.legal et fondateur des conférences APIDays et GenerationAI
+* [Sébastien Majerowicz](https://www.sebastien-majerowicz.fr/), chef de projet en informatique, conseiller municipal de L'Arbresle (69)
+* [Benoit Petit](https://bpetit.nce.re/), Développeur, consultant impacts environnementaux du numérique, co-fondateur @hubblo-org
+* [Yoann Henrio](https://yoannh.dev/), développeur web freelance
