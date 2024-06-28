@@ -32,7 +32,7 @@ Premiers Signataires :
 *	Spirale.coop
 *	Orbitale.io
 *	Troopers Web Republic
-* Mathieu Marchois de fairness.coop
+* Mathieu Marchois de [fairness.coop](https://fairness.coop/)
 * [Céline Louvet](https://celine.louvet.me/), Lead développeuse
 * [La Première Ligne](https://lapremiereligne.fr/)
 * [Compositech](https://compositech.org/)
@@ -40,3 +40,10 @@ Premiers Signataires :
 * [Sébastien Majerowicz](https://www.sebastien-majerowicz.fr/), chef de projet en informatique, conseiller municipal de L'Arbresle (69)
 * [Benoit Petit](https://bpetit.nce.re/), Développeur, consultant impacts environnementaux du numérique, co-fondateur @hubblo-org
 * [Yoann Henrio](https://yoannh.dev/), développeur web freelance
+* [Codeureuses en liberté](https://www.codeursenliberte.fr/)
+* [Rodolphe Robles](https://m.g3l.org/@rodinux), administrateur système
+* [Théo Fidry](https://github.com/theofidry), Développeur web
+* Simon DUCLUT, Designer UX/UI
+* Benoît de [fairness.coop](https://fairness.coop/)
+* Hélène de [fairness.coop](https://fairness.coop/)
+* Florimond de [fairness.coop](https://fairness.coop/)
