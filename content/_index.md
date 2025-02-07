@@ -2166,7 +2166,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Thomas Laurent, Développeur
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
 * [Thomas Maziere](https://twitter.com/thomasmaziere), [SCOP Incaya](https://www.incaya.fr)
-* [Thomas MICHEL](https://esprit-libre-conseil.com/esprit-libre), Entrepreneur co-fondateur de [Lydra](https://lydra.fr/) et des [Compagnons du DevOps](https://compagnons-devops.fr/)
+* [Thomas MICHEL](https://lydra.fr/#team), Entrepreneur co-fondateur de [Lydra](https://lydra.fr/) et des [Compagnons du DevOps](https://compagnons-devops.fr/)
 * [Thomas Mostkowy](https://github.com/tomazed), Expert Test de Performance chez Sogeti
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
 * [Thomas Noël](https://twitter.com/totonono), informaticien
