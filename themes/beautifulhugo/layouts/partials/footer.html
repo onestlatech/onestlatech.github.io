@@ -7,9 +7,9 @@
     <div class="row">
       <ul class="list-inline text-center footer-links">
         {{ range .Site.Data.beautifulhugo.social.social_icons }}
-          {{- if isset $.Site.Author .id }}
+          {{- if isset $.Site.Params.author .id }}
             <li>
-              <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+              <a href="{{ printf .url (index $.Site.Params.author .id) }}" title="{{ .title }}">
                 <span class="fa-stack fa-lg">
                   <i class="fas fa-circle fa-stack-2x"></i>
                   <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
@@ -78,12 +78,12 @@
 <!-- End Piwik Code -->
 {{ end }}
 
-{{ if and .Site.Params.delayDisqus .Site.DisqusShortname }}
+{{ if and .Site.Params.delayDisqus .Site.Config.Services.Disqus.Shortname }}
 <!-- Delayed Disqus -->
 <script type="text/javascript">
 $(function(){
   $('#show-comments').on('click', function(){
-    var disqus_shortname = '{{ .Site.DisqusShortname }}';
+    var disqus_shortname = '{{ .Site.Config.Services.Disqus.Shortname }}';
 
     (function() {
       var disqus = document.createElement('script');
@@ -98,7 +98,7 @@ $(function(){
   });
 
 </script>
-<script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//{{ .Site.Config.Services.Disqus.Shortname }}.disqus.com/count.js" async></script>
 <!-- End Delayed Disqus -->
 {{ end }}
 
