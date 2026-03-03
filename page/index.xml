@@ -1,7 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on ✊ onestla.tech</title><link>https://onestla.tech/page/</link><description>Recent content in Pages on ✊ onestla.tech</description><generator>Hugo</generator><language>fr-fr</language><atom:link href="https://onestla.tech/page/index.xml" rel="self" type="application/rss+xml"/><item><title>À propos</title><link>https://onestla.tech/page/a-propos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onestla.tech/page/a-propos/</guid><description>À propos Genèse Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteurs du numérique se sont organisés, et se sont mis d&amp;rsquo;accord pour publier cet appel. Ce texte appelle les travailleuses et travailleurs du numérique à se mobiliser pour dire non à la réforme des retraites du gouvernement et pour proposer une alternative : réduire le temps de travail en mettant la technologie au service du bien commun.</description></item><item><title>Calendrier</title><link>https://onestla.tech/page/calendrier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onestla.tech/page/calendrier/</guid><description>Lien vers le calendrier pleine page: https://framagenda.org/apps/calendar/p/9TLSJsoQ9JmxYQ7i
-Vous pouvez importer ce calendrier en utilisant le lien : https://framagenda.org/remote.php/dav/public-calendars/9TLSJsoQ9JmxYQ7i?export .</description></item><item><title>Ressources</title><link>https://onestla.tech/page/ressources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onestla.tech/page/ressources/</guid><description>Sommaire Présentations Pancartes pour les manifestations Bannieres QR Code Stickers Tract Présentations, formations, éducation populaire Taiwan et bidouillages civiques Pancartes pour les manifestations Bannieres par Edouard Lafon - version SVG
-par jcfrog - version SVG
-Par @signez
-Par Ginifizz
-QR Code par Gheb - version SVG Stickers par @artwo - Planche A4 PDF
-Tract par @pmorinerie@mastodon.xyz – Page A5 recto-verso PDF</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on ✊ onestla.tech</title><link>https://onestla.tech/page/</link><description>Recent content in Pages on ✊ onestla.tech</description><generator>Hugo</generator><language>fr-fr</language><atom:link href="https://onestla.tech/page/index.xml" rel="self" type="application/rss+xml"/><item><title>À propos</title><link>https://onestla.tech/page/a-propos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onestla.tech/page/a-propos/</guid><description>&lt;h2 id="à-propos"&gt;À propos&lt;/h2&gt;
+&lt;h3 id="genèse"&gt;Genèse&lt;/h3&gt;
+&lt;p&gt;Au cours du week-end du 6 et 7 décembre 2019, plus d’une centaine d’actrices et d’acteurs du numérique se sont organisés,
+et se sont mis d&amp;rsquo;accord pour publier cet appel.
+Ce texte appelle les travailleuses et travailleurs du numérique à se mobiliser pour dire non à la réforme des retraites
+du gouvernement et pour proposer une alternative : réduire le temps de travail en mettant la technologie au service du
+bien commun.
+Pour en savoir plus, &lt;a href="https://soundcloud.com/podcastecho/e41-appel-des-travailleuses-et-travailleurs-du-numerique-pour-une-autre-reforme-des-retraites"&gt;écoutez ce podcast&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Calendrier</title><link>https://onestla.tech/page/calendrier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onestla.tech/page/calendrier/</guid><description>&lt;iframe width="100%" height="700em" src="https://framagenda.org/apps/calendar/embed/9TLSJsoQ9JmxYQ7i"&gt;&lt;/iframe&gt;
+&lt;p&gt;Lien vers le calendrier pleine page: &lt;a href="https://framagenda.org/apps/calendar/p/9TLSJsoQ9JmxYQ7i"&gt;https://framagenda.org/apps/calendar/p/9TLSJsoQ9JmxYQ7i&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vous pouvez importer ce calendrier en utilisant le lien : &lt;a href="https://framagenda.org/remote.php/dav/public-calendars/9TLSJsoQ9JmxYQ7i?export"&gt;https://framagenda.org/remote.php/dav/public-calendars/9TLSJsoQ9JmxYQ7i?export&lt;/a&gt; .&lt;/p&gt;</description></item><item><title>Ressources</title><link>https://onestla.tech/page/ressources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onestla.tech/page/ressources/</guid><description>&lt;h2 id="sommaire"&gt;Sommaire&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#pr%C3%A9sentations-formations-%C3%A9ducation-populaire"&gt;Présentations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#pancartes-pour-les-manifestations"&gt;Pancartes pour les manifestations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#bannieres"&gt;Bannieres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#qr-code"&gt;QR Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#stickers"&gt;Stickers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#tract"&gt;Tract&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="présentations-formations-éducation-populaire"&gt;Présentations, formations, éducation populaire&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://canard.tube/videos/watch/81fa0b3e-8690-4750-95c5-2f1959a71faa"&gt;Taiwan et bidouillages civiques&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="pancartes-pour-les-manifestations"&gt;Pancartes pour les manifestations&lt;/h2&gt;
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery"&gt;
+	 
+
+&lt;link rel="stylesheet" href="https://onestla.tech/css/hugo-easy-gallery.css" /&gt;
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte1.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte1.png" alt="Poing levé on est la tech"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte1.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte2.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte2.png" alt="Retrait de la réforme des retraites"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte2.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte3.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte3.png" alt="&amp;lt;/macron&amp;gt;"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte3.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte4.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte4.png" alt="rm -Rf macron"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte4.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte5.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte5.png" alt="Disruptons la réforme des retraites"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte5.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte6.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte6.png" alt="La tech en grève !"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte6.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte7.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte7.png" alt="chown peuple:peuple Elysée"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte7.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte8.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte8.png" alt="Error 417: Expectation failed"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte8.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://onestla.tech//pancartes/pancarte9.png');"&gt;
+ &lt;img itemprop="thumbnail" src="https://onestla.tech/pancartes/pancarte9.png" alt="Error 409: Conflict"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://onestla.tech/pancartes/pancarte9.pdf" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;h2 id="bannieres"&gt;Bannieres&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://onestla.tech/bannieres/onestla_2.png" alt="onestlatech banniere"&gt;
+par &lt;a href="https://pouet.chapril.org/users/elafon/statuses/103329844781461295"&gt;Edouard Lafon&lt;/a&gt; - version &lt;a href="https://onestla.tech/bannieres/onestla_2_banniere_mastodon.svg"&gt;SVG&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
