@@ -1,0 +1,164 @@
+Guide d’autodéfense numérique pour les mouvements sociaux
+
+Face à la surveillance, protégeons nos luttes.
+
+L’État et la police disposent d’un arsenal techno-sécuritaire pour surveiller les mobilisations et réprimer celles et ceux qui luttent. Refusons de leur faciliter le travail. Protéger nos données, c’est aussi protéger nos camarades.
+
+Repères juridiques : France. Informations vérifiées le 4 octobre 2026. Les précautions ci-dessous réduisent les risques sans garantir l’anonymat.
+
+Le portable en manif : un mouchard dans la poche
+
+Les opérateurs connaissent les antennes auxquelles nos téléphones se connectent. La police peut obtenir ces informations dans les cadres légaux applicables, y compris après coup pour reconstituer des déplacements. Même un vieux téléphone sans GPS peut être localisé par le réseau. Désactiver la localisation ne suffit pas. [1]
+
+Pour que votre téléphone ne révèle pas votre présence, le plus simple reste de ne pas l’emporter. Prévoyez un point de rendez-vous et notez sur papier les numéros utiles, dont celui du soutien juridique. Si vous devez rester joignable ou utiliser un outil d’accessibilité, un téléphone secondaire à jour contenant peu de données limite les conséquences d’une saisie. Il ne vous rend pas anonyme. [2]
+
+Éteindre le téléphone en arrivant n’efface pas les traces du trajet. Le mode avion coupe la connexion mobile, mais vérifiez séparément que le Wi-Fi et le Bluetooth sont désactivés dans les paramètres. Vous ne pourrez alors plus communiquer par ces réseaux. Certains appareils restent repérables après extinction via leur fonction de localisation hors connexion : vérifiez les réglages de votre modèle et de vos objets connectés. [2, 3, 4]
+
+Protéger les échanges
+
+Les appels classiques et les SMS ne sont pas chiffrés de bout en bout. Le chiffrement du réseau ne les protège pas contre l’opérateur ou les interceptions réalisées avec son concours. Les IMSI-catchers imitent des antennes pour identifier ou localiser des téléphones et, selon les équipements, intercepter certaines communications. Quand votre appareil le permet, désactivez la 2G pour réduire certaines de ces attaques. [1, 5, 6]
+
+Utilisez Signal, une messagerie libre, gratuite et portée par une organisation à but non lucratif. Messages, appels et groupes sont chiffrés de bout en bout par défaut. Un nom d’utilisateur ou un QR code permet d’entrer en contact sans donner votre numéro ; vérifiez aussi les réglages de confidentialité. Un numéro reste nécessaire à l’inscription. [7, 8]
+
+Signal protège le contenu transmis. Il n’empêche ni la localisation par le réseau mobile, ni la lecture des messages sur un appareil déverrouillé. [2]
+
+Une saisie ne doit pas livrer toute notre vie
+
+La police peut chercher à extraire le contenu d’un appareil avec des outils comme ceux de l’entreprise israélienne Cellebrite. Le résultat dépend du modèle, des mises à jour et de l’état de verrouillage. Ne considérons ces outils ni comme tout-puissants, ni comme inoffensifs : un téléphone récent ou éteint n’est pas inviolable. [9, 25]
+
+1. Protégez l’accès avec un code
+
+Choisissez un code long et difficile à deviner, idéalement un mot de passe alphanumérique. Évitez les schémas et les codes évidents. Activez un verrouillage automatique rapide. Désactivez le déverrouillage par empreinte ou reconnaissance faciale : quelqu’un pourrait tenter de vous imposer l’usage de votre doigt ou de votre visage. [2]
+
+2. Chiffrez et mettez à jour
+
+Le chiffrement est intégré aux iPhone et activé par défaut sur les Android modernes conformes aux exigences de Google. Le code reste essentiel ; les cartes mémoire ne bénéficient pas forcément de la même protection. Installez les mises à jour du système et des applications. Un appareil privé de correctifs accumule des failles non corrigées. L’abandon logiciel est aussi un scandale écologique. [2, 10, 11]
+
+3. Réduisez les traces conservées
+
+Activez les messages éphémères de Signal avec un délai adapté. Ils réduisent l’historique conservé, sans garantir la disparition de toutes les copies : un destinataire peut faire une capture d’écran ou enregistrer le contenu. Ce réglage s’applique aux nouveaux messages, pas rétroactivement à toute la conversation. [12]
+
+Masquez le contenu des notifications, notamment sur l’écran verrouillé. Vérifiez les appareils associés à Signal et retirez les inconnus. Un ordinateur lié contient lui aussi des conversations. Vérifiez les personnes admises dans les groupes sensibles. Ne partagez jamais vos codes de vérification ; méfiez-vous des faux messages d’assistance et des QR codes demandant de lier un appareil. [13]
+
+4. Verrouiller n’est pas éteindre
+
+Éteindre le téléphone, ou le redémarrer sans le déverrouiller ensuite, renforce la protection de nombreuses données par rapport à un simple verrouillage après utilisation. Cela ne garantit pas qu’aucune extraction ne sera possible. Protégez aussi vos ordinateurs et vos sauvegardes : chiffrement, accès sécurisés et arrêt complet de l’ordinateur plutôt que simple mise en veille. [9, 10, 11]
+
+Le code face à la police : connaître le cadre
+
+En France, refuser de communiquer un code peut être une infraction lorsque les conditions de l’article 434-15-2 sont réunies : connaissance d’une clé de déchiffrement, moyen de cryptologie susceptible d’avoir servi à préparer, faciliter ou commettre un crime ou un délit, et réquisition judiciaire. Le code d’un téléphone peut entrer dans ce cadre. [14, 15]
+
+Il n’existe pas d’obligation générale de donner son code à toute demande policière. Demandez l’assistance d’un·e avocat·e pour votre situation. Préparer collectivement notre défense, c’est refuser que chacun·e se retrouve isolé·e face à la pression policière.
+
+Les caméras aussi servent à nous surveiller
+
+La surveillance policière ne s’arrête pas à nos téléphones. Caméras fixes, caméras portées par les forces de l’ordre, drones : nos déplacements et nos mobilisations peuvent être enregistrés. Les images publiées par les participant·es peuvent, elles aussi, exposer des camarades. [2, 16, 17]
+
+Pour les dispositifs fixes de vidéoprotection, la conservation est limitée à un mois au maximum ; les images extraites pour une procédure peuvent être conservées séparément. La reconnaissance faciale existe aussi dans le cadre du fichier TAJ. Cela ne signifie pas que toutes les caméras identifient automatiquement tout le monde. [16, 18]
+
+Limiter l’identification, connaître les risques
+
+Des vêtements passe-partout peuvent vous rendre moins facilement identifiable, sans garantir l’anonymat. Un visage couvert aide également, mais n’empêche pas toute identification. [2]
+
+En France, dissimuler volontairement son visage sans motif légitime, au sein ou aux abords immédiats d’une manifestation où des troubles sont commis ou risquent de l’être, peut constituer un délit. D’autres règles encadrent la dissimulation du visage dans l’espace public. Connaître ces restrictions permet d’évaluer les risques, pas de les approuver. [19, 20]
+
+Le masque a aussi une fonction sanitaire. Un FFP2 bien ajusté contribue à réduire le risque d’infections respiratoires, notamment pour les personnes vulnérables. Prenons soin les un·es des autres pour rendre nos mobilisations accessibles. Un motif sanitaire ne garantit pas l’absence de contestation lors d’un contrôle. [20, 21]
+
+Nos images ne doivent pas servir la répression
+
+Avant de publier une photo ou une vidéo, demandez l’accord des personnes reconnaissables. À défaut, masquez les visages et les autres signes distinctifs. Retirez les métadonnées de localisation de la copie publiée. Évitez les publications en direct qui révèlent la position d’autres personnes. [2]
+
+Pour flouter les visages dans les vidéos, utilisez deface (https://github.com/ORB-HD/deface). Vérifiez le résultat avant publication : la détection automatique peut manquer des visages. [24]
+
+Si les images documentent des violences, conservez une copie originale en sécurité pour pouvoir la transmettre à un·e avocat·e ou à une organisation de défense des droits. Publier une copie anonymisée et préserver une preuve originale répondent à deux besoins différents.
+
+S’organiser pour ne pas subir
+
+Aucun réglage ne remplacera la solidarité. Préparons nos mobilisations ensemble, partageons ces pratiques et organisons le soutien aux personnes visées par la répression. L’arsenal de l’État ne doit pas nous faire renoncer à lutter.
+
+onestla.tech est un collectif de travailleuses et travailleurs du numérique qui s’organisent pour une tech au service de l’émancipation. Notre collectif est membre de l’Offensive. [22]
+
+Pour faire durer les luttes, organisons-nous dans l’Offensive. Rejoignez l’association pour construire une société écologiste, égalitaire et féministe, fondée sur la démocratie directe. Face à l’État et à sa police, construisons notre force collective. [23]
+
+onestla.tech  ·  offensive.eco
+
+Seule la lutte paie.
+
+Sources et vérifications
+
+Les numéros renvoient aux passages du guide. Liens consultés le 4 octobre 2026. Les capacités des outils et les règles juridiques peuvent évoluer. Les annonces de Cellebrite décrivent les prétentions du fournisseur, sans valoir validation indépendante de tous les cas d’usage.
+
+[1] EFF, Localisation des téléphones
+https://ssd.eff.org/module/mobile-phones-location-tracking
+
+[2] EFF, Participer à une manifestation (conseils techniques ; droit américain à ne pas transposer)
+https://ssd.eff.org/module/attending-protest
+
+[3] Apple, Localiser et partage de position
+https://support.apple.com/en-gb/guide/personal-safety/ips05ede4573/web
+
+[4] Google, Retrouver un appareil Android égaré
+https://support.google.com/android/answer/3265955?hl=fr-fr
+
+[5] EFF, Surveillance des communications mobiles
+https://ssd.eff.org/module/telefones-celulares-espionagem-de-comunicacoes-moveis
+
+[6] Android, Désactiver la 2G
+https://source.android.com/docs/security/features/cellular-security/disable-2g
+
+[7] Signal, Présentation
+https://signal.org/fr/
+
+[8] Signal, Nom d’utilisateur et confidentialité du numéro
+https://support.signal.org/hc/fr/articles/6712070553754
+
+[9] Cellebrite, Capacités d’extraction annoncées (source commerciale)
+https://cellebrite.com/en/premium/
+
+[10] Apple, Classes de protection des données
+https://support.apple.com/en-gb/guide/security/secb010e978a/web
+
+[11] Android, Chiffrement par fichiers
+https://source.android.com/docs/security/features/encryption/file-based
+
+[12] Signal, Configurer les messages éphémères
+https://support.signal.org/hc/fr/articles/360007320771
+
+[13] Signal, Comment se protéger
+https://support.signal.org/hc/fr/articles/9932632052378
+
+[14] Code pénal, Article 434-15-2
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032654251
+
+[15] Cour de cassation, 7 novembre 2022, n° 21-83.146
+https://www.courdecassation.fr/decision/6368dc51f1ea8a7f744fbf98
+
+[16] CNIL, La vidéoprotection
+https://www.cnil.fr/fr/la-videoprotection
+
+[17] CNIL, Drones équipés de caméras
+https://www.cnil.fr/fr/les-drones-equipes-de-cameras-pour-la-securite-publique
+
+[18] CNIL, Le fichier TAJ et la reconnaissance faciale
+https://cnil.fr/fr/cnil-direct/question/taj-traitement-dantecedents-judiciaires-anciens-stic-et-judex-cest-quoi
+
+[19] Code pénal, Article 431-9-1
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038382669
+
+[20] Service Public, Cacher son visage dans un lieu public
+https://www.service-public.gouv.fr/particuliers/vosdroits/F21613
+
+[21] Assurance maladie, Se protéger des épidémies
+https://www.ameli.fr/assure/sante/themes/epidemie-et-pandemie/epidemie-pandemie-se-proteger
+
+[22] onestla.tech, Présentation et appartenance à l’Offensive
+https://onestla.tech/
+
+[23] L’Offensive, Présentation et adhésion
+https://offensive.eco
+
+[24] deface, Détection et floutage des visages dans les vidéos
+https://github.com/ORB-HD/deface
+
+[25] Cellebrite, Siège social en Israël
+https://cellebrite.com/en/contact/
