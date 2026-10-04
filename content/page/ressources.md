@@ -18,7 +18,7 @@ menu: "main"
 
 [Guide d’autodéfense numérique pour les mouvements sociaux](/publications/guide-autodefense-numerique/)
 
-[Télécharger le PDF prêt à imprimer](/guides/guide-autodefense-numerique-onestlatech.pdf) · [Télécharger le texte brut](/guides/guide-autodefense-numerique-onestlatech.txt)
+[Télécharger le PDF prêt à imprimer](/guides/guide-autodefense-numerique-onestlatech.pdf)
 
 ## Présentations, formations, éducation populaire
 

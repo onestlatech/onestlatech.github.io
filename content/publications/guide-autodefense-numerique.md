@@ -7,7 +7,7 @@ summary: "Protégeons nos communications, nos données et nos camarades face à 
 
 # Guide d’autodéfense numérique pour les mouvements sociaux
 
-[Télécharger le PDF prêt à imprimer](/guides/guide-autodefense-numerique-onestlatech.pdf) · [Télécharger le texte brut](/guides/guide-autodefense-numerique-onestlatech.txt)
+[Télécharger le PDF prêt à imprimer](/guides/guide-autodefense-numerique-onestlatech.pdf)
 
 **Face à la surveillance, protégeons nos luttes.**
 
