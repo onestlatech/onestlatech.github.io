@@ -13,11 +13,13 @@ summary: "Protégeons nos communications, nos données et nos camarades face à 
 
 L’État et la police disposent d’un arsenal techno-sécuritaire pour surveiller les mobilisations et réprimer celles et ceux qui luttent. Refusons de leur faciliter le travail. Protéger nos données, c’est aussi protéger nos camarades.
 
-Repères juridiques : France. Informations vérifiées le 4 octobre 2026. Les précautions ci-dessous réduisent les risques sans garantir l’anonymat.
+Repères juridiques : France. Vérifications : 4 et 5 octobre 2026. Les précautions ci-dessous réduisent les risques sans garantir l’anonymat.
 
 ## Le portable en manif : un mouchard dans la poche
 
 Les opérateurs connaissent les antennes auxquelles nos téléphones se connectent. La police peut obtenir ces informations dans les cadres légaux applicables, y compris après coup pour reconstituer des déplacements. Même un vieux téléphone sans GPS peut être localisé par le réseau. Désactiver la localisation ne suffit pas. <sup>[1](#source-1)</sup>
+
+Le GPS fonctionne sans Internet et ne transmet pas lui-même votre position. Mais une appli peut conserver des positions hors connexion et les transmettre à la reconnexion, selon son fonctionnement et ses réglages. Lancer Waze puis couper Internet ne garantit donc pas l’absence de traces. Couper les données mobiles ne déconnecte pas du réseau opérateur. <sup>[1](#source-1), [26](#source-26), [27](#source-27)</sup>
 
 Pour que votre téléphone ne révèle pas votre présence, le plus simple reste de ne pas l’emporter. Prévoyez un point de rendez-vous et notez sur papier les numéros utiles, dont celui du soutien juridique. Si vous devez rester joignable ou utiliser un outil d’accessibilité, un téléphone secondaire à jour contenant peu de données limite les conséquences d’une saisie. Il ne vous rend pas anonyme. <sup>[2](#source-2)</sup>
 
@@ -57,6 +59,8 @@ Masquez le contenu des notifications, notamment sur l’écran verrouillé. Vér
 
 En France, refuser de communiquer un code peut être une infraction lorsque les conditions de l’article 434-15-2 sont réunies : connaissance d’une clé de déchiffrement, moyen de cryptologie susceptible d’avoir servi à préparer, faciliter ou commettre un crime ou un délit, et réquisition judiciaire. Le code d’un téléphone peut entrer dans ce cadre. <sup>[14](#source-14), [15](#source-15)</sup>
 
+Un oubli réel ou une erreur de bonne foi n’est pas un refus volontaire. Déclarer un oubli ne garantit toutefois pas l’absence de poursuites. <sup>[14](#source-14), [28](#source-28)</sup>
+
 **Il n’existe pas d’obligation générale de donner son code à toute demande policière.** Demandez l’assistance d’un·e avocat·e pour votre situation. Préparer collectivement notre défense, c’est refuser que chacun·e se retrouve isolé·e face à la pression policière.
 
 ## Les caméras aussi servent à nous surveiller
@@ -95,7 +99,7 @@ Aucun réglage ne remplacera la solidarité. Préparons nos mobilisations ensemb
 
 ## Sources et vérifications
 
-Les numéros renvoient aux passages du guide. Liens consultés le 4 octobre 2026. Les capacités des outils et les règles juridiques peuvent évoluer. Les annonces de Cellebrite décrivent les prétentions du fournisseur, sans valoir validation indépendante de tous les cas d’usage.
+Les numéros renvoient aux passages du guide. Liens consultés les 4 et 5 octobre 2026. Les capacités des outils et les règles juridiques peuvent évoluer. Les annonces de Cellebrite décrivent les prétentions du fournisseur, sans valoir validation indépendante de tous les cas d’usage.
 
 1. <a id="source-1"></a>[EFF, Localisation des téléphones](https://ssd.eff.org/module/mobile-phones-location-tracking)
 
@@ -146,3 +150,9 @@ Les numéros renvoient aux passages du guide. Liens consultés le 4 octobre 2026
 24. <a id="source-24"></a>[deface, Détection et floutage des visages dans les vidéos](https://github.com/ORB-HD/deface)
 
 25. <a id="source-25"></a>[Cellebrite, Siège social en Israël](https://cellebrite.com/en/contact/)
+
+26. <a id="source-26"></a>[Waze, Données de localisation et de trajet collectées](https://support.google.com/waze/answer/12075406?hl=en)
+
+27. <a id="source-27"></a>[Google Maps, Enregistrement et sauvegarde des trajets](https://support.google.com/maps/answer/6258979?hl=fr)
+
+28. <a id="source-28"></a>[Code pénal, Article 121-3 : intention](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
