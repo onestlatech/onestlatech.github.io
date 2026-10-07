@@ -6,12 +6,19 @@ menu: "main"
 
 ## Sommaire
 
+* [Autodéfense numérique](#autodéfense-numérique)
 * [Présentations](#présentations-formations-éducation-populaire)
 * [Pancartes pour les manifestations](#pancartes-pour-les-manifestations)
 * [Bannieres](#bannieres)
 * [QR Code](#qr-code)
 * [Stickers](#stickers)
 * [Tract](#tract)
+
+## Autodéfense numérique
+
+[Guide d’autodéfense numérique pour les mouvements sociaux](/publications/guide-autodefense-numerique/)
+
+[Télécharger le PDF prêt à imprimer](/guides/guide-autodefense-numerique-onestlatech.pdf)
 
 ## Présentations, formations, éducation populaire
 
