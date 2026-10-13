@@ -1969,7 +1969,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Sandra Guerreiro Jacinto](https://twitter.com/S_Mouska), Développeuse
 * [Sandra Guerreiro](https://twitter.com/S_Mouska), Développeuse web, Norsys
-* Sara Crubellier, intégratrice web
 * [Sarah Daden](https://twitter.com/Sarah_DADEN), Ingénieur Infrastructure informatique à Ippon Technologies
 * Sarah Kugel, UX designer
 * Sarah Ramos, Développeuse Web, stagiaire ICRC
