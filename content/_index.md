@@ -2014,7 +2014,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Serge Hardy](https://twitter.com/sergehardy), développeur
 * Séverine Bianchi, développeuse web
 * Séverine Wiltgen, SRE Mediapart
-* [Simon Alberny](https://www.simounet.net), Développeur web
 * [Simon Bée](https://github.com/simon-bee), Développeur web
 * [Simon Boisnard](https://twitter.com/SBoisnard), Product manager
 * Simon Budin, developeur
