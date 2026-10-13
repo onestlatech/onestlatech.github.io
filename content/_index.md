@@ -1871,7 +1871,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * Rémi Katchadourian, Développeur Web - Rémi Katchadourian, Développeur Web
 * [Rémi Labergère](https://twitter.com/Rems0511/), Développeur
 * [Rémi Oudin](irc.freenode.net/Gu1nn3zz), doctorant en informatique au LIP6, Sorbonne Université
-* [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
 * Rémi S., Développeur indépendant
 * [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
