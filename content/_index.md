@@ -2313,7 +2313,6 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * William Pezet, Formateur, développeur et designer interactif à Coop'Alpha/Monsieur Pixel
 * Wladimir Delcros, CEO — [Agence Growth & Intelligence Artificielle Uclic](https://www.uclic.fr)
 * Wolfgang This
-* [Xavier Borderie](https://xavier.borderie.net) Head of Content
 * [Xavier Detant](https://masto.ai/@xdetant)
 * [Xavier Detant](https://twitter.com/XDetant)
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
