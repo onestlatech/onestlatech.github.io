@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2262 signataires
+### 2261 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -2013,7 +2013,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Simon Cadec, Développeur front
 * SImon Chatteleyn, développeur
 * [Simon Cléris](https://fractorylab.org/), Ingénieur généraliste CNRS
-* Simon Deleruyelle, développeur full-stack.
 * Simon Descarpentries, gérant [Acoeuro.com](http://Acoeuro.com)
 * [Simon Georges](https://twitter.com/simongeorges)
 * [Simon Leblanc](https://www.leblanc-simon.fr), développeur
