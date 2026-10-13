@@ -1127,7 +1127,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jimmy Fayolle, apprenti ingénieur INFRES
 * [Joachim Jablon](https://joachim.jablon.fr), Lead developer eSignature @ PeopleDoc by Ultimate Software
-* [Joachim Robert](https://boitam.eu/@joachim), développeur web
 * [Jocelyn Delalande](https://jocelyn.delalande.fr), Programmeur et formateur en coopérative d'activité chez [OB44](https://cooperer-paysdelaloire.coop/ouvre-boites/), bénévole chez [FAImaison](https://faimaison.net).
 * [Jocelyn Wissocq](https://twitter.com/JocelynWissocq), Technicien du numérique en pédagogie
 * Joel Oosterlinck
