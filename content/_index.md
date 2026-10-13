@@ -1273,7 +1273,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Korbak](https://cyphergoat.net), webmaster, membre d'[Aquilenet](https://www.aquilenet.fr) et de la [FFDN](https://ffdn.org)
 * [Kyâne Pichou](https://www.kyane.fr), sysadmin
 * [Laetitia Modine](https://www.laetitiamodine.com), Développeuse front-end et photographe
-* [Lara Dufour](https://lamecarlate.net), développeuse web
 * Laura Dumont, Développeuse
 * Laura Le Goff, développeuse web
 * Laura Ricci, Chargée de communication, associée (SCOP)
