@@ -347,7 +347,6 @@ En conséquence, nous appelons :
 * [Ben Bouillet](https://twitter.com/bromatofiel), Data Scientist @ Decathlon
 * Benjamin André , développeur
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
-* [Benjamin Becquet](https://bbecquet.net), développeur web/cartographie.
 * [Benjamin Borlet](https://github.com/xontik), Developpeur Smile
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Benjamin Danon](https://bndn.fr/), artisan du web chez [Optéos](https://www.opteos.fr/)
@@ -1965,7 +1964,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Sandra Guerreiro Jacinto](https://twitter.com/S_Mouska), Développeuse
 * [Sandra Guerreiro](https://twitter.com/S_Mouska), Développeuse web, Norsys
-* Sara Crubellier, intégratrice web
 * [Sarah Daden](https://twitter.com/Sarah_DADEN), Ingénieur Infrastructure informatique à Ippon Technologies
 * Sarah Kugel, UX designer
 * Sarah Ramos, Développeuse Web, stagiaire ICRC
@@ -2103,8 +2101,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Sylvain V., développeur Scala — ce texte est parfait.
 * Sylvain Viart, Sysadmin DevOps
 * [Tahiri Hamza](https://twitter.com/aoe_opnerf), IAM
-* Tam Kien Duong
-* [tam kien duong](https://11d.im), data analyst [Mediapart](https://mediapart.fr)
 * Tangui Morlier, développeur notamment au sein du [24ème](https://24eme.fr/)
 * [Tanguy ⧓ Herrmann](https://twitter.com/hashtang__), développeur, formateur, Go, blockchain et DevOps.
 * [Tanguy Falconnet](https://github.com/tanguyfalconnet), DevOpsDev
