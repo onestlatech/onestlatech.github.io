@@ -1077,7 +1077,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Jean-Yves Michaud](https://framapiaf.org/web/accounts/42726), Administrateur Systèmes GNU/Linux
 * [Jeanne LONDICHE](https://twitter.com/jlondiche), Fondatrice [JL Recrutement](https://www.jlrecrutement.com/)
 * [Jef Mathiot](https://twitter.com/TouitTouit), programmeur
-* Jef Roelandt, Développeur à Polyconseil
 * [Jeff Martins-Jacquelot](https://github.com/jacquelotjeff), développeur Web
 * Jennifer Aguiar, Tech lead
 * [Jennifer Proust](https://github.com/proustibat), front end developer
