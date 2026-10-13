@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2274 signataires
+### 2262 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -284,6 +284,7 @@ En conséquence, nous appelons :
 * [Arnaud Lefevre](https://github.com/arnaud-23), Back End chez OpenClassrooms
 * [Arnaud Levy](https://arnaudlevy.com/), Directeur associé Les Poupées Russes, Maître de conférences associé Université Bordeaux Montaigne
 * [Arnaud Ligny](https://arnaudligny.fr), Consultant Web, mobile & e-commerce
+* [Arnaud Ligny](https://ligny.fr), expert web et e-commerce
 * Arnaud LUSTRAT, Développeur Backend
 * [Arnaud Pichon](http://molo.cool/), ingénieur de recherche au médialab de Sciences Po
 * Arnaud Rossi
@@ -860,6 +861,7 @@ Informaticiens en formation à l'UPEC
 * [Gaoussou Koné](https://twitter.com/Theonizu) Développeur Front
 * Garance Wetzel, Développeuse web
 * [Gary Houbre](https://twitter.com/garyhoubre), Expert Technique PHP Symfony / Laravel
+* [Gaspard Benoit](https://basic.coop), chargé de recherche sur le système alimentaire
 * [Gaston Bouchayer](http://www.gastonbouchayer.com), pixel crafter
 * [Gautier Souesme](https://cestca.eu), développeur indépendant, CESTCA SAS
 * [Gavark](https://github.com/Gavark)
