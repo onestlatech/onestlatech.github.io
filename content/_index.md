@@ -852,7 +852,6 @@ Informaticiens en formation à l'UPEC
 * [Gabriel Bugeaud](https://seizeheures.fr), développeur web
 * Gaël DONAT, RSSI chez Recommerce
 * Gaël Glenadel, Tech Manager
-* [Gaël Pasgrimaud](https://twitter.com/gawel_), développeur et sociétaire chez [Bearstech SCOP](https://bearstech.com)
 * [Gaël Poupard](https://www.ffoodd.fr), intégrateur web
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com)
 * [Gaël Salaün](https://twitter.com/gsalaun1), développeur, Education Nationale
