@@ -699,7 +699,6 @@ En conséquence, nous appelons :
 * [Éric Redon](https://www.coox.org/), ingénieur logiciel
 * [Eric Siber](https://eric.siber.fr/), développeur freelance
 * Eric Vergne, Développeur OVH
-* [Erick Gardin](https://twitter.com/newick), bâtisseur d'interfaces web
 * Erik Gollot, Développeur / Architecte
 * [Erwan Bozec](https://pixnwave.fr/), Coach Numérique
 * [Erwan Corre](https://twitter.com/CorreErwan), webmastering
