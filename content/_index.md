@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2261 signataires
+### 2258 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -1263,7 +1263,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Kevin Raynel](https://twitter.com/kraynl), Architecte Développeur, Theodo
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * KheOps, [Codeurs en Liberté](https://codeursenliberté.fr), bénévole pour [FAImaison](https://www.faimaison.net) et devops
-* [Khrys](https://mamot.fr/@Khrys/), touillette bénévole chez [FDN](https://fdn.fr), [FédérationFDN](https://ffdn.org) et [Parinux](https://parinux.org/)
 * Killian Hascoet, https://twitter.com/KillianOnweb DevOps ✊
 * [Kim Laï Trinh](https://kimlaitrinh.me), Développeur web
 * [Korbak](https://cyphergoat.net), webmaster, membre d'[Aquilenet](https://www.aquilenet.fr) et de la [FFDN](https://ffdn.org)
@@ -1312,7 +1311,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Léonard Michelet](http://opencorporatefacts.fr/), Développeur et syndicaliste CGT chez [Smile](https://opencorporatefacts.fr/corporate/812882132)
 * [Leslie-Alexandre DENIS](https://twitter.com/eagleusb), SRE - Entrepreneur
 * [Liandri](https://libox.fr), Administrateur Système
-* Lili Rotzooi
 * Lionel Da Costa, développeur web
 * [Lionel De La Quintana](https://digivosges.fr), consultant SEO chez DigiVosges
 * Lionel Orsini, Dev. Front
@@ -2181,7 +2179,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Thomas MICHEL](https://lydra.fr/#team), Entrepreneur co-fondateur de [Lydra](https://lydra.fr/) et des [Compagnons du DevOps](https://compagnons-devops.fr/)
 * [Thomas Mostkowy](https://github.com/tomazed), Expert Test de Performance chez Sogeti
 * [Thomas Nieto](https://twitter.com/tbenett_), développeur
-* [Thomas Noël](https://twitter.com/totonono), informaticien
 * Thomas Nonglaton, développeur web
 * Thomas Parmelan, ingénieur systèmes et réseaux
 * Thomas Pepio, développeur, Solidaires Informatique
