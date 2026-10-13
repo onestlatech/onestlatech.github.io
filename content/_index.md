@@ -347,7 +347,6 @@ En conséquence, nous appelons :
 * [Ben Bouillet](https://twitter.com/bromatofiel), Data Scientist @ Decathlon
 * Benjamin André , développeur
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
-* [Benjamin Becquet](https://bbecquet.net), développeur web/cartographie.
 * [Benjamin Borlet](https://github.com/xontik), Developpeur Smile
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Benjamin Danon](https://bndn.fr/), artisan du web chez [Optéos](https://www.opteos.fr/)
@@ -410,7 +409,6 @@ En conséquence, nous appelons :
 * [bikepunk](https://mastodon.tetaneutral.net/@bikepunk), touillette travailleuse bénévole de la [FédérationFDN](https://ffdn.org)
 * Bilel Jegham, étudiant
 * Biljana Knezevic, ingénieure linguiste
-* [BohwaZ](https://bohwaz.net/), Free software engineer
 * Bonjour,
 * [Boris Jamot](https://halte-tab.frama.io/), développeur chez Orange
 * Boris Rouault
@@ -699,7 +697,6 @@ En conséquence, nous appelons :
 * [Éric Redon](https://www.coox.org/), ingénieur logiciel
 * [Eric Siber](https://eric.siber.fr/), développeur freelance
 * Eric Vergne, Développeur OVH
-* [Erick Gardin](https://twitter.com/newick), bâtisseur d'interfaces web
 * Erik Gollot, Développeur / Architecte
 * [Erwan Bozec](https://pixnwave.fr/), Coach Numérique
 * [Erwan Corre](https://twitter.com/CorreErwan), webmastering
@@ -852,7 +849,6 @@ Informaticiens en formation à l'UPEC
 * [Gabriel Bugeaud](https://seizeheures.fr), développeur web
 * Gaël DONAT, RSSI chez Recommerce
 * Gaël Glenadel, Tech Manager
-* [Gaël Poupard](https://www.ffoodd.fr), intégrateur web
 * [Gaël Reyrol](https://twitter.com/GaelReyrol), [dans ma culotte](https://dansmaculotte.com)
 * [Gaël Salaün](https://twitter.com/gsalaun1), développeur, Education Nationale
 * Gaet's
@@ -1076,7 +1072,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Jean-Yves Michaud](https://framapiaf.org/web/accounts/42726), Administrateur Systèmes GNU/Linux
 * [Jeanne LONDICHE](https://twitter.com/jlondiche), Fondatrice [JL Recrutement](https://www.jlrecrutement.com/)
 * [Jef Mathiot](https://twitter.com/TouitTouit), programmeur
-* Jef Roelandt, Développeur à Polyconseil
 * [Jeff Martins-Jacquelot](https://github.com/jacquelotjeff), développeur Web
 * Jennifer Aguiar, Tech lead
 * [Jennifer Proust](https://github.com/proustibat), front end developer
@@ -1126,7 +1121,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jimmy Fayolle, apprenti ingénieur INFRES
 * [Joachim Jablon](https://joachim.jablon.fr), Lead developer eSignature @ PeopleDoc by Ultimate Software
-* [Joachim Robert](https://boitam.eu/@joachim), développeur web
 * [Jocelyn Delalande](https://jocelyn.delalande.fr), Programmeur et formateur en coopérative d'activité chez [OB44](https://cooperer-paysdelaloire.coop/ouvre-boites/), bénévole chez [FAImaison](https://faimaison.net).
 * [Jocelyn Wissocq](https://twitter.com/JocelynWissocq), Technicien du numérique en pédagogie
 * Joel Oosterlinck
@@ -1273,7 +1267,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Korbak](https://cyphergoat.net), webmaster, membre d'[Aquilenet](https://www.aquilenet.fr) et de la [FFDN](https://ffdn.org)
 * [Kyâne Pichou](https://www.kyane.fr), sysadmin
 * [Laetitia Modine](https://www.laetitiamodine.com), Développeuse front-end et photographe
-* [Lara Dufour](https://lamecarlate.net), développeuse web
 * Laura Dumont, Développeuse
 * Laura Le Goff, développeuse web
 * Laura Ricci, Chargée de communication, associée (SCOP)
@@ -1870,7 +1863,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * Rémi Katchadourian, Développeur Web - Rémi Katchadourian, Développeur Web
 * [Rémi Labergère](https://twitter.com/Rems0511/), Développeur
 * [Rémi Oudin](irc.freenode.net/Gu1nn3zz), doctorant en informatique au LIP6, Sorbonne Université
-* [Rémi Parmentier](https://twitter.com/HTeuMeuLeu), intégrateur
 * [Rémi Patrizio](https://twitter.com/remipatrizio), Développeur chez Antadis
 * Rémi S., Développeur indépendant
 * [Rémi San](https://twitter.com/RemiSan), Développeur, Head of Engineering
@@ -1969,7 +1961,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Samuel Thibault](http://dept-info.labri.fr/~thibault/), enseignant-chercheur
 * [Sandra Guerreiro Jacinto](https://twitter.com/S_Mouska), Développeuse
 * [Sandra Guerreiro](https://twitter.com/S_Mouska), Développeuse web, Norsys
-* Sara Crubellier, intégratrice web
 * [Sarah Daden](https://twitter.com/Sarah_DADEN), Ingénieur Infrastructure informatique à Ippon Technologies
 * Sarah Kugel, UX designer
 * Sarah Ramos, Développeuse Web, stagiaire ICRC
@@ -2013,7 +2004,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Serge Hardy](https://twitter.com/sergehardy), développeur
 * Séverine Bianchi, développeuse web
 * Séverine Wiltgen, SRE Mediapart
-* [Simon Alberny](https://www.simounet.net), Développeur web
 * [Simon Bée](https://github.com/simon-bee), Développeur web
 * [Simon Boisnard](https://twitter.com/SBoisnard), Product manager
 * Simon Budin, developeur
@@ -2108,8 +2098,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Sylvain V., développeur Scala — ce texte est parfait.
 * Sylvain Viart, Sysadmin DevOps
 * [Tahiri Hamza](https://twitter.com/aoe_opnerf), IAM
-* Tam Kien Duong
-* [tam kien duong](https://11d.im), data analyst [Mediapart](https://mediapart.fr)
 * Tangui Morlier, développeur notamment au sein du [24ème](https://24eme.fr/)
 * [Tanguy ⧓ Herrmann](https://twitter.com/hashtang__), développeur, formateur, Go, blockchain et DevOps.
 * [Tanguy Falconnet](https://github.com/tanguyfalconnet), DevOpsDev
@@ -2312,7 +2300,6 @@ hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
 * William Pezet, Formateur, développeur et designer interactif à Coop'Alpha/Monsieur Pixel
 * Wladimir Delcros, CEO — [Agence Growth & Intelligence Artificielle Uclic](https://www.uclic.fr)
 * Wolfgang This
-* [Xavier Borderie](https://xavier.borderie.net) Head of Content
 * [Xavier Detant](https://masto.ai/@xdetant)
 * [Xavier Detant](https://twitter.com/XDetant)
 * [Xavier Gorse](https://twitter.com/xgorse), Entrepreneur
