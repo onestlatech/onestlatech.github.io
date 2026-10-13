@@ -410,7 +410,6 @@ En conséquence, nous appelons :
 * [bikepunk](https://mastodon.tetaneutral.net/@bikepunk), touillette travailleuse bénévole de la [FédérationFDN](https://ffdn.org)
 * Bilel Jegham, étudiant
 * Biljana Knezevic, ingénieure linguiste
-* [BohwaZ](https://bohwaz.net/), Free software engineer
 * Bonjour,
 * [Boris Jamot](https://halte-tab.frama.io/), développeur chez Orange
 * Boris Rouault
