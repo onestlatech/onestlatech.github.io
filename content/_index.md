@@ -347,7 +347,6 @@ En conséquence, nous appelons :
 * [Ben Bouillet](https://twitter.com/bromatofiel), Data Scientist @ Decathlon
 * Benjamin André , développeur
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
-* [Benjamin Becquet](https://bbecquet.net), développeur web/cartographie.
 * [Benjamin Borlet](https://github.com/xontik), Developpeur Smile
 * [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Benjamin Danon](https://bndn.fr/), artisan du web chez [Optéos](https://www.opteos.fr/)
