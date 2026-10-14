@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2258 signataires
+### 2256 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -985,7 +985,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * Hubert Mercier, ingénieur virtualisation, Université de Limoges
 * [Hubert Moutot](http://moutot.me), Développeur web indépendant
 * Hugo Beauzée-Luyssen, Développeur VLC/VideoLAN
-* [Hugo BINI](https://mastodon.social/@octopoulpe), Développeur
 * [Hugo Blanc](https://twitter.com/ezekieldotsh), Administrateur système
 * [Hugo Bonnaffé](http://unbiengrandmot.com), journaliste / rédacteur IT, ex-OVHcloud
 * Hugo Capocci, Développeur Web & Craft
@@ -1037,7 +1036,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Jean Charpentier](https://jeancharpentier.fr/) Bidouilleur informatique et jeux vidéo
 * Jean Christophe VIARD (https://www.pixad.fr), Développeur indépendant, [pixad.fr](https://www.pixad.fr), [solution-ecommerce.pro](https://www.solution-ecommerce.pro)
 * Jean Galland, développeur web
-* Jean Paliès, développeur
 * [Jean Thomas](https://github.com/dohseven), développeur
 * [Jean-Baptiste Dusseaut](https://twitter.com/bodysplash), CTO, eXtreme Programmer
 * [Jean-Baptiste Guillard](https://artefacts.coop/), Dev Front, Coopérative Artefacts
