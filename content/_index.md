@@ -1663,7 +1663,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * [Nils Van Zuijlen](https://bachelay.eu), étudiant
 * Nina Belaid, Chercheuse en biochimie
 * [Nina Gautreau](https://ninagautreau.com), Développeur frontend chez Decrypt.blue
-* Nino Treyssat-Vincent, développeur web
 * [Noé Gaumont](https://social.wxcafe.net/@ngaumont), développeur, [Logilab](https://www.logilab.fr/)
 * [Noël Macé](https://twitter.com/noel_mace), développeur
 * Nolwenn Lavielle, Ingénieure d’études dans l’ESR, contractuelle
