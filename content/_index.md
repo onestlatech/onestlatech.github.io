@@ -2050,7 +2050,6 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * [Stéphane Castrec](https://stephanecastrec.fr), Développeur freelance
 * [Stéphane Colson](https://testingit.eu), Testeur logiciel indépendant
 * [Stéphane D'Alu](http://www.sdalu.com/), Ingénieur de recherche INSA-Lyon
-* [Stéphane Deschamps](https://nota-bene.org/), expert web, salarié
 * Stéphane Dupille
 * [Stéphane Dupuis](https://hoper.dnsalias.net/atdc), Admin Sys
 * [Stéphane Erard](https://twitter.com/sterard_), Développeur
