@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2253 signataires
+### 2250 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -234,7 +234,6 @@ En conséquence, nous appelons :
 * Anne-Sophie Tranchet, UX Designer
 * Annie Bouscarrut
 * Anouk Moutounet, Développeuse Backend
-* [Anthony Bourguignon](https://anthony.bourguignon.eu.org/), Fondateur et adminsys chez [6clones](https://www.6clones.fr/), Entrepreneur-Salarié chez [Créacoop14](https://www.creacoop14.fr/)
 * [Anthony Dugois](https://twitter.com/a_dugois), Étudiant en informatique théorique
 * [Anthony GRASSIOT](https://twitter.com/antograssiot), développeur
 * [Anthony Gréau](https://www.linkedin.com/in/anthonygreau/), développeur Python
@@ -1324,7 +1323,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * Loïs Poujade, développeur web & adminsys
 * Lonny Loquesol, Développeur Web
 * Loraine GAULTIER https://www.linkedin.com/in/loraine-gaultier/, étudiante à 42
-* [Loriane Buffet](http://lorianebuffet.eu/), intégratrice web
 * Loris Croce, étudiant en informatique
 * [Loris Croce](http://loris.croce.free.fr/), Ingénieur d'études
 * Lotfi Sakani, Designer
@@ -1377,7 +1375,6 @@ Tags: IA, no-code, Afrique, business en ligne
 * Madelena Gonzales, enseignant-chercheur
 * Madeline O'Leary, développeuse
 * Maël LE PETIT (https://maelito.fr), Etudiant, computer science
-* [Maïa Dereva](http://contributions.maiadereva.net/), contributrice aux communs, [P2P Foundation](http://p2pfoundation.net/)
 * [Maïtané Lenoir](https://www.maiwann.net/), UX Designer · Ergonome
 * [Malbert Thibaud](https://www.linkedin.com/in/thibaud-malbert/), Développeur
 * Manfred Cossard, Ingénieur Cybersécurité
