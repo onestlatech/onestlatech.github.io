@@ -100,7 +100,7 @@ En conséquence, nous appelons :
 * **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
 * ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l&rsquo;appel&amp;body=[Pr&eacute;nom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20&eacute;ventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20pr&eacute;nom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20&agrave;%20onestlatech@protonmail.com.).
 
-### 2250 signataires
+### 2248 signataires
 
 #### Actrices et acteurs du numérique
 
@@ -464,7 +464,6 @@ En conséquence, nous appelons :
 * [Cédric Temple](https://blog.cedrictemple.net), Responsable des Architectures Techniques et du Support, [Videomuseum](https://www.videomuseum.fr)
 * Céline Daffe, développeuse
 * Chantal Bernard-Putz, retraitée du numérique, Octopuce.fr
-* [Charles de Lacombe](https://twitter.com/Cha_de_L), développeur & sysadmin pour Hespul et Institut négaWatt
 * Charles Hutin-Persillon, Data Strategist
 * Charles Prévot, ingénieur et développeur
 * Charlotte David, Développeuse informatique
@@ -718,7 +717,6 @@ En conséquence, nous appelons :
 * Etienne PIERROT, Software Developer Arolla
 * [Etienne Théodore](https://youfeel.fr), CTO at [YouFeel](https://www.youfeel.fr/)
 * Ève Demazière, chef de projet web et coordinatrice intranet, correspondante accessibilité numérique
-* [Ewen Corre](https://ewen.corre.bio), Doctorant en biologie, analyse de données
 * Fabien Bataille, Développeur
 * Fabien CAMPOS, Responsable Études et dev
 * [Fabien Chaillou](https://github.com/fabienChaillou), PHP developer and other technos
